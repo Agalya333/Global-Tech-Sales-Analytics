@@ -1,0 +1,1351 @@
+order_id,order_timestamp,customer_id,store_location,product_category,product_name,unit_price_usd,order_quantity,payment_method,shipping_type,customer_rating,total_amount_usd
+ELE-10000,2025-01-01 00:00:00,CUST-8270,Sydney,Computers & Accessories,ASUS ROG Zephyrus,1699,4,PayPal,Express Shipping,1.0,6796
+ELE-10001,2025-01-01 00:40:00,CUST-1860,New York,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Credit Card,Express Shipping,3.0,2398
+ELE-10002,2025-01-01 01:20:00,CUST-6390,Sydney,Smartphones & Tablets,Google Pixel 8 Pro,899,4,PayPal,Express Shipping,5.0,3596
+ELE-10003,2025-01-01 02:00:00,CUST-6191,Singapore,Computers & Accessories,ASUS ROG Zephyrus,1699,3,PayPal,Express Shipping,3.0,5097
+ELE-10004,2025-01-01 02:40:00,CUST-6734,London,Smartphones & Tablets,iPad Air 5th Gen,599,1,Credit Card,Standard Delivery,4.0,599
+ELE-10005,2025-01-01 03:20:00,CUST-7265,London,Audio & Wearables,Bose QuietComfort Ultra,429,1,Credit Card,Standard Delivery,4.0,429
+ELE-10006,2025-01-01 04:00:00,CUST-1466,Paris,Audio & Wearables,Sony WH-1000XM5,399,3,PayPal,Express Shipping,5.0,1197
+ELE-10007,2025-01-01 04:40:00,CUST-5426,Tokyo,Smart Home & Gaming,Xbox Series X,499,3,Debit Card,Standard Delivery,5.0,1497
+ELE-10008,2025-01-01 05:20:00,CUST-6578,Paris,Audio & Wearables,Apple AirPods Pro 2,249,3,Credit Card,Standard Delivery,5.0,747
+ELE-10009,2025-01-01 06:00:00,CUST-9322,Toronto,Computers & Accessories,MacBook Air M3,1099,4,PayPal,Standard Delivery,5.0,4396
+ELE-10010,2025-01-01 06:40:00,CUST-2685,New York,Audio & Wearables,Bose QuietComfort Ultra,429,1,Debit Card,Express Shipping,5.0,429
+ELE-10011,2025-01-01 07:20:00,CUST-1769,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,PayPal,Standard Delivery,1.0,3597
+ELE-10012,2025-01-01 08:00:00,CUST-7949,Tokyo,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Standard Delivery,5.0,3596
+ELE-10013,2025-01-01 08:40:00,CUST-3433,Toronto,Audio & Wearables,Bose QuietComfort Ultra,429,3,PayPal,Express Shipping,3.0,1287
+ELE-10014,2025-01-01 09:20:00,CUST-6311,London,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Credit Card,Express Shipping,4.0,3398
+ELE-10015,2025-01-01 10:00:00,CUST-6051,London,Audio & Wearables,Sony WH-1000XM5,399,2,Google Pay,Standard Delivery,5.0,798
+ELE-10016,2025-01-01 10:40:00,CUST-7420,Paris,Smart Home & Gaming,Amazon Echo Show 10,249,1,Credit Card,Standard Delivery,4.0,249
+ELE-10017,2025-01-01 11:20:00,CUST-2184,New York,Smart Home & Gaming,Philips Hue Starter Kit,179,4,Debit Card,Express Shipping,5.0,716
+ELE-10018,2025-01-01 12:00:00,CUST-5555,Tokyo,Smart Home & Gaming,PlayStation 5 Slim,499,2,Credit Card,Same-Day Delivery,4.0,998
+ELE-10019,2025-01-01 12:40:00,CUST-4385,Dubai,Computers & Accessories,Dell XPS 15,1499,2,PayPal,Express Shipping,5.0,2998
+ELE-10020,2025-01-01 13:20:00,CUST-7396,Toronto,Smartphones & Tablets,iPad Air 5th Gen,599,4,PayPal,Standard Delivery,5.0,2396
+ELE-10021,2025-01-01 14:00:00,CUST-9666,Toronto,Computers & Accessories,Dell XPS 15,1499,3,Credit Card,Standard Delivery,,4497
+ELE-10022,2025-01-01 14:40:00,CUST-3558,Paris,Computers & Accessories,Dell XPS 15,1499,4,PayPal,Express Shipping,5.0,5996
+ELE-10023,2025-01-01 15:20:00,CUST-8849,London,Audio & Wearables,Sony WH-1000XM5,399,3,Credit Card,Express Shipping,5.0,1197
+ELE-10024,2025-01-01 16:00:00,CUST-3047,Paris,Audio & Wearables,Apple AirPods Pro 2,249,2,Credit Card,Standard Delivery,5.0,498
+ELE-10025,2025-01-01 16:40:00,CUST-3747,Sydney,Audio & Wearables,Bose QuietComfort Ultra,429,2,PayPal,Standard Delivery,4.0,858
+ELE-10026,2025-01-01 17:20:00,CUST-1189,Tokyo,Computers & Accessories,Dell XPS 15,1499,2,Credit Card,Express Shipping,3.0,2998
+ELE-10027,2025-01-01 18:00:00,CUST-3734,New York,Smartphones & Tablets,iPad Air 5th Gen,599,1,Apple Pay,Standard Delivery,5.0,599
+ELE-10028,2025-01-01 18:40:00,CUST-4005,Singapore,Computers & Accessories,ASUS ROG Zephyrus,1699,1,PayPal,Standard Delivery,,1699
+ELE-10029,2025-01-01 19:20:00,CUST-5658,Berlin,Smartphones & Tablets,Xiaomi 14 Pro,749,1,PayPal,Standard Delivery,5.0,749
+ELE-10030,2025-01-01 20:00:00,CUST-2899,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,4,Credit Card,Standard Delivery,5.0,1396
+ELE-10031,2025-01-01 20:40:00,CUST-8734,Paris,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,PayPal,Standard Delivery,5.0,2398
+ELE-10032,2025-01-01 21:20:00,CUST-2267,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,2,Debit Card,Express Shipping,3.0,1198
+ELE-10033,2025-01-01 22:00:00,CUST-2528,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Standard Delivery,4.0,3996
+ELE-10034,2025-01-01 22:40:00,CUST-4556,Dubai,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Apple Pay,Standard Delivery,4.0,299
+ELE-10035,2025-01-01 23:20:00,CUST-4890,Berlin,Audio & Wearables,Bose QuietComfort Ultra,429,4,Credit Card,Standard Delivery,3.0,1716
+ELE-10036,2025-01-02 00:00:00,CUST-9838,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,1,Apple Pay,Standard Delivery,5.0,999
+ELE-10037,2025-01-02 00:40:00,CUST-6393,New York,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Standard Delivery,,1498
+ELE-10038,2025-01-02 01:20:00,CUST-9792,Sydney,Computers & Accessories,Logitech MX Master 3S,99,3,Apple Pay,Standard Delivery,5.0,297
+ELE-10039,2025-01-02 02:00:00,CUST-9433,London,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,PayPal,Express Shipping,4.0,1199
+ELE-10040,2025-01-02 02:40:00,CUST-8513,Tokyo,Audio & Wearables,Apple AirPods Pro 2,249,2,Credit Card,Standard Delivery,1.0,498
+ELE-10041,2025-01-02 03:20:00,CUST-3612,New York,Audio & Wearables,Apple AirPods Pro 2,249,2,Credit Card,Standard Delivery,4.0,498
+ELE-10042,2025-01-02 04:00:00,CUST-8041,Dubai,Computers & Accessories,Logitech MX Master 3S,99,3,PayPal,Standard Delivery,4.0,297
+ELE-10043,2025-01-02 04:40:00,CUST-7235,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Google Pay,Standard Delivery,4.0,1798
+ELE-10044,2025-01-02 05:20:00,CUST-6486,London,Smart Home & Gaming,Amazon Echo Show 10,249,2,Credit Card,Express Shipping,3.0,498
+ELE-10045,2025-01-02 06:00:00,CUST-8099,Singapore,Computers & Accessories,MacBook Air M3,1099,1,Credit Card,Standard Delivery,4.0,1099
+ELE-10046,2025-01-02 06:40:00,CUST-1775,Dubai,Audio & Wearables,Sony WH-1000XM5,399,1,PayPal,Same-Day Delivery,4.0,399
+ELE-10047,2025-01-02 07:20:00,CUST-9226,New York,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,PayPal,Standard Delivery,5.0,3597
+ELE-10048,2025-01-02 08:00:00,CUST-4152,Berlin,Computers & Accessories,ASUS ROG Zephyrus,1699,3,PayPal,Express Shipping,3.0,5097
+ELE-10049,2025-01-02 08:40:00,CUST-2585,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Debit Card,Standard Delivery,2.0,2398
+ELE-10050,2025-01-02 09:20:00,CUST-4943,London,Computers & Accessories,Samsung 4K Monitor,449,1,Credit Card,Express Shipping,1.0,449
+ELE-10051,2025-01-02 10:00:00,CUST-8555,Paris,Smart Home & Gaming,PlayStation 5 Slim,499,3,Google Pay,Standard Delivery,4.0,1497
+ELE-10052,2025-01-02 10:40:00,CUST-4073,Toronto,Computers & Accessories,Logitech MX Master 3S,99,3,PayPal,Standard Delivery,5.0,297
+ELE-10053,2025-01-02 11:20:00,CUST-2021,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Express Shipping,5.0,3996
+ELE-10054,2025-01-02 12:00:00,CUST-4843,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Debit Card,Express Shipping,4.0,2697
+ELE-10055,2025-01-02 12:40:00,CUST-8989,Singapore,Computers & Accessories,Samsung 4K Monitor,449,2,PayPal,Standard Delivery,5.0,898
+ELE-10056,2025-01-02 13:20:00,CUST-7873,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Standard Delivery,4.0,749
+ELE-10057,2025-01-02 14:00:00,CUST-6675,Paris,Smartphones & Tablets,iPhone 15 Pro,999,3,PayPal,Standard Delivery,5.0,2997
+ELE-10058,2025-01-02 14:40:00,CUST-1161,Dubai,Audio & Wearables,Bose QuietComfort Ultra,429,4,Credit Card,Express Shipping,2.0,1716
+ELE-10059,2025-01-02 15:20:00,CUST-5297,Toronto,Computers & Accessories,Samsung 4K Monitor,449,1,PayPal,Standard Delivery,4.0,449
+ELE-10060,2025-01-02 16:00:00,CUST-1995,New York,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Apple Pay,Standard Delivery,5.0,3597
+ELE-10061,2025-01-02 16:40:00,CUST-8629,Paris,Smart Home & Gaming,Xbox Series X,499,4,Credit Card,Express Shipping,5.0,1996
+ELE-10062,2025-01-02 17:20:00,CUST-2016,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Credit Card,Express Shipping,5.0,2697
+ELE-10063,2025-01-02 18:00:00,CUST-8869,Dubai,Smart Home & Gaming,PlayStation 5 Slim,499,1,Apple Pay,Express Shipping,4.0,499
+ELE-10064,2025-01-02 18:40:00,CUST-7439,Sydney,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Google Pay,Express Shipping,4.0,749
+ELE-10065,2025-01-02 19:20:00,CUST-8892,Dubai,Smart Home & Gaming,PlayStation 5 Slim,499,1,PayPal,Express Shipping,,499
+ELE-10066,2025-01-02 20:00:00,CUST-7863,Sydney,Audio & Wearables,Apple AirPods Pro 2,249,2,PayPal,Standard Delivery,3.0,498
+ELE-10067,2025-01-02 20:40:00,CUST-8916,Sydney,Smart Home & Gaming,Philips Hue Starter Kit,179,3,PayPal,Standard Delivery,3.0,537
+ELE-10068,2025-01-02 21:20:00,CUST-9529,Berlin,Smart Home & Gaming,PlayStation 5 Slim,499,2,Google Pay,Express Shipping,3.0,998
+ELE-10069,2025-01-02 22:00:00,CUST-1878,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,1,Apple Pay,Standard Delivery,4.0,599
+ELE-10070,2025-01-02 22:40:00,CUST-5887,London,Smart Home & Gaming,Amazon Echo Show 10,249,4,Credit Card,Same-Day Delivery,4.0,996
+ELE-10071,2025-01-02 23:20:00,CUST-5859,Singapore,Computers & Accessories,Logitech MX Master 3S,99,3,PayPal,Standard Delivery,4.0,297
+ELE-10072,2025-01-03 00:00:00,CUST-7331,Singapore,Computers & Accessories,ASUS ROG Zephyrus,1699,2,PayPal,Standard Delivery,4.0,3398
+ELE-10073,2025-01-03 00:40:00,CUST-9571,New York,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Debit Card,Same-Day Delivery,5.0,3597
+ELE-10074,2025-01-03 01:20:00,CUST-9684,Singapore,Computers & Accessories,Samsung 4K Monitor,449,4,PayPal,Express Shipping,2.0,1796
+ELE-10075,2025-01-03 02:00:00,CUST-8208,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Debit Card,Standard Delivery,4.0,1798
+ELE-10076,2025-01-03 02:40:00,CUST-6276,London,Computers & Accessories,ASUS ROG Zephyrus,1699,1,Google Pay,Express Shipping,5.0,1699
+ELE-10077,2025-01-03 03:20:00,CUST-3062,London,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Credit Card,Express Shipping,5.0,3398
+ELE-10078,2025-01-03 04:00:00,CUST-1064,Sydney,Audio & Wearables,Apple AirPods Pro 2,249,3,Credit Card,Standard Delivery,4.0,747
+ELE-10079,2025-01-03 04:40:00,CUST-9006,Dubai,Smart Home & Gaming,Xbox Series X,499,3,PayPal,Standard Delivery,5.0,1497
+ELE-10080,2025-01-03 05:20:00,CUST-3568,New York,Computers & Accessories,MacBook Air M3,1099,3,Credit Card,Express Shipping,2.0,3297
+ELE-10081,2025-01-03 06:00:00,CUST-6463,Sydney,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Credit Card,Express Shipping,5.0,2697
+ELE-10082,2025-01-03 06:40:00,CUST-3027,Dubai,Smartphones & Tablets,iPhone 15 Pro,999,1,Credit Card,Standard Delivery,4.0,999
+ELE-10083,2025-01-03 07:20:00,CUST-3695,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,2,Debit Card,Express Shipping,3.0,1198
+ELE-10084,2025-01-03 08:00:00,CUST-6258,Sydney,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Apple Pay,Express Shipping,5.0,749
+ELE-10085,2025-01-03 08:40:00,CUST-6618,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,1,PayPal,Standard Delivery,5.0,749
+ELE-10086,2025-01-03 09:20:00,CUST-7736,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,PayPal,Express Shipping,3.0,1199
+ELE-10087,2025-01-03 10:00:00,CUST-1391,Dubai,Smart Home & Gaming,Philips Hue Starter Kit,179,3,Credit Card,Standard Delivery,2.0,537
+ELE-10088,2025-01-03 10:40:00,CUST-6892,New York,Computers & Accessories,Samsung 4K Monitor,449,3,Debit Card,Standard Delivery,3.0,1347
+ELE-10089,2025-01-03 11:20:00,CUST-4561,Dubai,Smartphones & Tablets,Xiaomi 14 Pro,749,3,Debit Card,Express Shipping,5.0,2247
+ELE-10090,2025-01-03 12:00:00,CUST-7184,Sydney,Computers & Accessories,ASUS ROG Zephyrus,1699,2,PayPal,Express Shipping,3.0,3398
+ELE-10091,2025-01-03 12:40:00,CUST-4099,Sydney,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Credit Card,Express Shipping,4.0,2996
+ELE-10092,2025-01-03 13:20:00,CUST-7278,Paris,Computers & Accessories,Samsung 4K Monitor,449,3,Credit Card,Standard Delivery,1.0,1347
+ELE-10093,2025-01-03 14:00:00,CUST-9392,New York,Audio & Wearables,Garmin Forerunner 265,449,2,Credit Card,Standard Delivery,5.0,898
+ELE-10094,2025-01-03 14:40:00,CUST-4104,Singapore,Computers & Accessories,MacBook Air M3,1099,3,PayPal,Standard Delivery,5.0,3297
+ELE-10095,2025-01-03 15:20:00,CUST-8215,London,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Apple Pay,Standard Delivery,5.0,5097
+ELE-10096,2025-01-03 16:00:00,CUST-3454,New York,Smart Home & Gaming,Xbox Series X,499,1,Apple Pay,Standard Delivery,3.0,499
+ELE-10097,2025-01-03 16:40:00,CUST-9996,London,Smart Home & Gaming,PlayStation 5 Slim,499,1,PayPal,Express Shipping,5.0,499
+ELE-10098,2025-01-03 17:20:00,CUST-3731,New York,Audio & Wearables,Bose QuietComfort Ultra,429,1,Debit Card,Standard Delivery,5.0,429
+ELE-10099,2025-01-03 18:00:00,CUST-9154,New York,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Google Pay,Express Shipping,5.0,3398
+ELE-10100,2025-01-03 18:40:00,CUST-6056,Dubai,Audio & Wearables,Samsung Galaxy Watch 6,299,4,Credit Card,Standard Delivery,4.0,1196
+ELE-10101,2025-01-03 19:20:00,CUST-9110,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Express Shipping,4.0,3596
+ELE-10102,2025-01-03 20:00:00,CUST-4840,Paris,Computers & Accessories,Logitech MX Master 3S,99,2,Google Pay,Standard Delivery,5.0,198
+ELE-10103,2025-01-03 20:40:00,CUST-2028,Sydney,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Credit Card,Standard Delivery,3.0,2697
+ELE-10104,2025-01-03 21:20:00,CUST-8385,Toronto,Computers & Accessories,Dell XPS 15,1499,2,Google Pay,Standard Delivery,4.0,2998
+ELE-10105,2025-01-03 22:00:00,CUST-1502,London,Computers & Accessories,Samsung 4K Monitor,449,3,Google Pay,Standard Delivery,5.0,1347
+ELE-10106,2025-01-03 22:40:00,CUST-7910,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,2,Debit Card,Express Shipping,5.0,1198
+ELE-10107,2025-01-03 23:20:00,CUST-7938,Toronto,Smart Home & Gaming,Philips Hue Starter Kit,179,2,Apple Pay,Standard Delivery,,358
+ELE-10108,2025-01-04 00:00:00,CUST-5488,London,Smart Home & Gaming,Philips Hue Starter Kit,179,2,Debit Card,Express Shipping,5.0,358
+ELE-10109,2025-01-04 00:40:00,CUST-1206,London,Audio & Wearables,Bose QuietComfort Ultra,429,4,Debit Card,Same-Day Delivery,4.0,1716
+ELE-10110,2025-01-04 01:20:00,CUST-6134,Toronto,Computers & Accessories,Dell XPS 15,1499,1,Credit Card,Express Shipping,1.0,1499
+ELE-10111,2025-01-04 02:00:00,CUST-6977,New York,Smart Home & Gaming,PlayStation 5 Slim,499,2,Credit Card,Standard Delivery,4.0,998
+ELE-10112,2025-01-04 02:40:00,CUST-8721,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Credit Card,Same-Day Delivery,4.0,4796
+ELE-10113,2025-01-04 03:20:00,CUST-8035,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,1,Debit Card,Standard Delivery,4.0,449
+ELE-10114,2025-01-04 04:00:00,CUST-2484,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Credit Card,Standard Delivery,3.0,1199
+ELE-10115,2025-01-04 04:40:00,CUST-8858,Dubai,Audio & Wearables,Bose QuietComfort Ultra,429,2,Credit Card,Express Shipping,5.0,858
+ELE-10116,2025-01-04 05:20:00,CUST-1863,Sydney,Smartphones & Tablets,iPhone 15 Pro,999,3,Credit Card,Express Shipping,5.0,2997
+ELE-10117,2025-01-04 06:00:00,CUST-3790,Dubai,Smart Home & Gaming,Amazon Echo Show 10,249,3,Debit Card,Standard Delivery,,747
+ELE-10118,2025-01-04 06:40:00,CUST-8408,Toronto,Smart Home & Gaming,PlayStation 5 Slim,499,3,Google Pay,Standard Delivery,5.0,1497
+ELE-10119,2025-01-04 07:20:00,CUST-9755,Dubai,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Google Pay,Standard Delivery,5.0,1498
+ELE-10120,2025-01-04 08:00:00,CUST-6116,London,Computers & Accessories,MacBook Air M3,1099,3,PayPal,Standard Delivery,5.0,3297
+ELE-10121,2025-01-04 08:40:00,CUST-7019,Singapore,Smart Home & Gaming,PlayStation 5 Slim,499,4,Apple Pay,Standard Delivery,,1996
+ELE-10122,2025-01-04 09:20:00,CUST-2757,Singapore,Computers & Accessories,MacBook Air M3,1099,4,Debit Card,Same-Day Delivery,5.0,4396
+ELE-10123,2025-01-04 10:00:00,CUST-8574,London,Smart Home & Gaming,Xbox Series X,499,4,PayPal,Same-Day Delivery,5.0,1996
+ELE-10124,2025-01-04 10:40:00,CUST-7374,Paris,Computers & Accessories,Dell XPS 15,1499,4,PayPal,Express Shipping,5.0,5996
+ELE-10125,2025-01-04 11:20:00,CUST-7892,Toronto,Computers & Accessories,Samsung 4K Monitor,449,1,Credit Card,Standard Delivery,5.0,449
+ELE-10126,2025-01-04 12:00:00,CUST-2678,Paris,Smartphones & Tablets,iPhone 15 Pro,999,4,Google Pay,Express Shipping,4.0,3996
+ELE-10127,2025-01-04 12:40:00,CUST-4242,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Same-Day Delivery,2.0,1797
+ELE-10128,2025-01-04 13:20:00,CUST-5636,Sydney,Audio & Wearables,Garmin Forerunner 265,449,2,PayPal,Express Shipping,3.0,898
+ELE-10129,2025-01-04 14:00:00,CUST-2059,Sydney,Computers & Accessories,MacBook Air M3,1099,3,Debit Card,Standard Delivery,2.0,3297
+ELE-10130,2025-01-04 14:40:00,CUST-7668,Tokyo,Computers & Accessories,MacBook Air M3,1099,4,Credit Card,Standard Delivery,3.0,4396
+ELE-10131,2025-01-04 15:20:00,CUST-4157,Dubai,Computers & Accessories,Dell XPS 15,1499,1,Credit Card,Standard Delivery,3.0,1499
+ELE-10132,2025-01-04 16:00:00,CUST-6915,London,Computers & Accessories,Samsung 4K Monitor,449,4,PayPal,Express Shipping,4.0,1796
+ELE-10133,2025-01-04 16:40:00,CUST-3693,Sydney,Smart Home & Gaming,PlayStation 5 Slim,499,2,Credit Card,Express Shipping,4.0,998
+ELE-10134,2025-01-04 17:20:00,CUST-4627,Toronto,Smart Home & Gaming,PlayStation 5 Slim,499,3,Debit Card,Express Shipping,5.0,1497
+ELE-10135,2025-01-04 18:00:00,CUST-6450,Dubai,Computers & Accessories,Samsung 4K Monitor,449,2,PayPal,Standard Delivery,4.0,898
+ELE-10136,2025-01-04 18:40:00,CUST-2663,Tokyo,Smart Home & Gaming,Nintendo Switch OLED,349,2,PayPal,Standard Delivery,5.0,698
+ELE-10137,2025-01-04 19:20:00,CUST-6592,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,2,PayPal,Standard Delivery,5.0,898
+ELE-10138,2025-01-04 20:00:00,CUST-8392,Toronto,Computers & Accessories,Samsung 4K Monitor,449,3,PayPal,Standard Delivery,5.0,1347
+ELE-10139,2025-01-04 20:40:00,CUST-2306,Paris,Smart Home & Gaming,Nintendo Switch OLED,349,4,PayPal,Standard Delivery,5.0,1396
+ELE-10140,2025-01-04 21:20:00,CUST-7776,Singapore,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Debit Card,Express Shipping,3.0,1498
+ELE-10141,2025-01-04 22:00:00,CUST-6864,Toronto,Smartphones & Tablets,iPhone 15 Pro,999,3,Debit Card,Standard Delivery,3.0,2997
+ELE-10142,2025-01-04 22:40:00,CUST-8526,Berlin,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Debit Card,Express Shipping,4.0,179
+ELE-10143,2025-01-04 23:20:00,CUST-9901,Toronto,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Apple Pay,Standard Delivery,3.0,5097
+ELE-10144,2025-01-05 00:00:00,CUST-6575,Tokyo,Smart Home & Gaming,Amazon Echo Show 10,249,1,Credit Card,Standard Delivery,5.0,249
+ELE-10145,2025-01-05 00:40:00,CUST-6530,London,Smart Home & Gaming,Philips Hue Starter Kit,179,3,PayPal,Standard Delivery,4.0,537
+ELE-10146,2025-01-05 01:20:00,CUST-5413,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Google Pay,Express Shipping,4.0,4796
+ELE-10147,2025-01-05 02:00:00,CUST-4748,London,Smart Home & Gaming,PlayStation 5 Slim,499,2,Credit Card,Standard Delivery,3.0,998
+ELE-10148,2025-01-05 02:40:00,CUST-1663,Tokyo,Computers & Accessories,MacBook Air M3,1099,4,Credit Card,Express Shipping,4.0,4396
+ELE-10149,2025-01-05 03:20:00,CUST-2998,Sydney,Computers & Accessories,Dell XPS 15,1499,3,PayPal,Standard Delivery,5.0,4497
+ELE-10150,2025-01-05 04:00:00,CUST-8994,Berlin,Audio & Wearables,Apple AirPods Pro 2,249,2,Credit Card,Express Shipping,5.0,498
+ELE-10151,2025-01-05 04:40:00,CUST-2495,Singapore,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Credit Card,Express Shipping,3.0,179
+ELE-10152,2025-01-05 05:20:00,CUST-4304,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Google Pay,Standard Delivery,3.0,3597
+ELE-10153,2025-01-05 06:00:00,CUST-4763,Tokyo,Computers & Accessories,Logitech MX Master 3S,99,2,PayPal,Express Shipping,1.0,198
+ELE-10154,2025-01-05 06:40:00,CUST-6232,Tokyo,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Credit Card,Standard Delivery,1.0,299
+ELE-10155,2025-01-05 07:20:00,CUST-2853,Tokyo,Audio & Wearables,Apple AirPods Pro 2,249,1,Google Pay,Express Shipping,5.0,249
+ELE-10156,2025-01-05 08:00:00,CUST-7585,Sydney,Audio & Wearables,Apple AirPods Pro 2,249,4,Google Pay,Standard Delivery,2.0,996
+ELE-10157,2025-01-05 08:40:00,CUST-2291,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,3,PayPal,Standard Delivery,5.0,2697
+ELE-10158,2025-01-05 09:20:00,CUST-4581,Toronto,Smartphones & Tablets,iPhone 15 Pro,999,1,Credit Card,Express Shipping,5.0,999
+ELE-10159,2025-01-05 10:00:00,CUST-8554,New York,Computers & Accessories,MacBook Air M3,1099,2,Apple Pay,Express Shipping,3.0,2198
+ELE-10160,2025-01-05 10:40:00,CUST-8280,Berlin,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Debit Card,Standard Delivery,4.0,179
+ELE-10161,2025-01-05 11:20:00,CUST-2636,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Debit Card,Express Shipping,,899
+ELE-10162,2025-01-05 12:00:00,CUST-4696,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,4,Apple Pay,Standard Delivery,5.0,2396
+ELE-10163,2025-01-05 12:40:00,CUST-1698,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,4,Debit Card,Standard Delivery,4.0,1396
+ELE-10164,2025-01-05 13:20:00,CUST-5737,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Credit Card,Express Shipping,5.0,1798
+ELE-10165,2025-01-05 14:00:00,CUST-1854,Paris,Smart Home & Gaming,Nintendo Switch OLED,349,4,Debit Card,Standard Delivery,5.0,1396
+ELE-10166,2025-01-05 14:40:00,CUST-9164,Singapore,Audio & Wearables,Sony WH-1000XM5,399,1,Credit Card,Standard Delivery,4.0,399
+ELE-10167,2025-01-05 15:20:00,CUST-6855,London,Smart Home & Gaming,Nintendo Switch OLED,349,1,Debit Card,Express Shipping,5.0,349
+ELE-10168,2025-01-05 16:00:00,CUST-8392,New York,Smartphones & Tablets,iPad Air 5th Gen,599,4,PayPal,Standard Delivery,4.0,2396
+ELE-10169,2025-01-05 16:40:00,CUST-7528,Tokyo,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Express Shipping,4.0,899
+ELE-10170,2025-01-05 17:20:00,CUST-6249,Dubai,Audio & Wearables,Bose QuietComfort Ultra,429,1,PayPal,Standard Delivery,,429
+ELE-10171,2025-01-05 18:00:00,CUST-6172,Paris,Smart Home & Gaming,Nintendo Switch OLED,349,2,Credit Card,Standard Delivery,5.0,698
+ELE-10172,2025-01-05 18:40:00,CUST-2707,Berlin,Audio & Wearables,Apple AirPods Pro 2,249,4,Credit Card,Standard Delivery,4.0,996
+ELE-10173,2025-01-05 19:20:00,CUST-6791,London,Smartphones & Tablets,Google Pixel 8 Pro,899,1,PayPal,Express Shipping,1.0,899
+ELE-10174,2025-01-05 20:00:00,CUST-6535,Paris,Audio & Wearables,Garmin Forerunner 265,449,4,Credit Card,Express Shipping,5.0,1796
+ELE-10175,2025-01-05 20:40:00,CUST-5931,London,Audio & Wearables,Garmin Forerunner 265,449,2,Debit Card,Standard Delivery,5.0,898
+ELE-10176,2025-01-05 21:20:00,CUST-4510,London,Audio & Wearables,Sony WH-1000XM5,399,4,Credit Card,Standard Delivery,5.0,1596
+ELE-10177,2025-01-05 22:00:00,CUST-1202,Paris,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Debit Card,Same-Day Delivery,,299
+ELE-10178,2025-01-05 22:40:00,CUST-5218,Sydney,Smart Home & Gaming,Xbox Series X,499,4,Apple Pay,Standard Delivery,5.0,1996
+ELE-10179,2025-01-05 23:20:00,CUST-9958,Toronto,Audio & Wearables,Sony WH-1000XM5,399,1,Debit Card,Express Shipping,4.0,399
+ELE-10180,2025-01-06 00:00:00,CUST-5389,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,1,PayPal,Standard Delivery,2.0,599
+ELE-10181,2025-01-06 00:40:00,CUST-3327,Tokyo,Computers & Accessories,Logitech MX Master 3S,99,1,Google Pay,Express Shipping,4.0,99
+ELE-10182,2025-01-06 01:20:00,CUST-9004,Sydney,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Standard Delivery,5.0,1498
+ELE-10183,2025-01-06 02:00:00,CUST-3931,Tokyo,Computers & Accessories,Dell XPS 15,1499,4,Credit Card,Express Shipping,5.0,5996
+ELE-10184,2025-01-06 02:40:00,CUST-8777,London,Computers & Accessories,Samsung 4K Monitor,449,2,PayPal,Express Shipping,4.0,898
+ELE-10185,2025-01-06 03:20:00,CUST-1197,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Standard Delivery,4.0,3596
+ELE-10186,2025-01-06 04:00:00,CUST-8125,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,2,Google Pay,Standard Delivery,4.0,1198
+ELE-10187,2025-01-06 04:40:00,CUST-2930,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Credit Card,Express Shipping,4.0,2697
+ELE-10188,2025-01-06 05:20:00,CUST-7287,Tokyo,Smart Home & Gaming,Amazon Echo Show 10,249,1,Debit Card,Express Shipping,4.0,249
+ELE-10189,2025-01-06 06:00:00,CUST-9800,Singapore,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Debit Card,Standard Delivery,3.0,179
+ELE-10190,2025-01-06 06:40:00,CUST-5282,Paris,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Credit Card,Standard Delivery,4.0,2398
+ELE-10191,2025-01-06 07:20:00,CUST-3511,Toronto,Smart Home & Gaming,Amazon Echo Show 10,249,3,PayPal,Express Shipping,4.0,747
+ELE-10192,2025-01-06 08:00:00,CUST-1659,London,Computers & Accessories,Samsung 4K Monitor,449,1,Credit Card,Standard Delivery,5.0,449
+ELE-10193,2025-01-06 08:40:00,CUST-3811,Toronto,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,PayPal,Express Shipping,2.0,4796
+ELE-10194,2025-01-06 09:20:00,CUST-8098,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Standard Delivery,5.0,1198
+ELE-10195,2025-01-06 10:00:00,CUST-7546,Berlin,Computers & Accessories,ASUS ROG Zephyrus,1699,1,Google Pay,Express Shipping,5.0,1699
+ELE-10196,2025-01-06 10:40:00,CUST-2986,Sydney,Audio & Wearables,Sony WH-1000XM5,399,1,Google Pay,Same-Day Delivery,5.0,399
+ELE-10197,2025-01-06 11:20:00,CUST-9338,Dubai,Audio & Wearables,Garmin Forerunner 265,449,2,Credit Card,Same-Day Delivery,5.0,898
+ELE-10198,2025-01-06 12:00:00,CUST-3911,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Credit Card,Standard Delivery,4.0,2398
+ELE-10199,2025-01-06 12:40:00,CUST-2734,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Debit Card,Express Shipping,4.0,3596
+ELE-10200,2025-01-06 13:20:00,CUST-2843,Toronto,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Credit Card,Standard Delivery,,6796
+ELE-10201,2025-01-06 14:00:00,CUST-9680,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Apple Pay,Express Shipping,5.0,1199
+ELE-10202,2025-01-06 14:40:00,CUST-3976,Paris,Smartphones & Tablets,Xiaomi 14 Pro,749,1,PayPal,Standard Delivery,,749
+ELE-10203,2025-01-06 15:20:00,CUST-2959,London,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Standard Delivery,5.0,1998
+ELE-10204,2025-01-06 16:00:00,CUST-6759,Toronto,Smart Home & Gaming,Nintendo Switch OLED,349,1,Apple Pay,Same-Day Delivery,3.0,349
+ELE-10205,2025-01-06 16:40:00,CUST-7694,Sydney,Smart Home & Gaming,Xbox Series X,499,1,PayPal,Standard Delivery,2.0,499
+ELE-10206,2025-01-06 17:20:00,CUST-3385,New York,Computers & Accessories,Dell XPS 15,1499,2,Google Pay,Express Shipping,5.0,2998
+ELE-10207,2025-01-06 18:00:00,CUST-5736,Dubai,Smart Home & Gaming,Xbox Series X,499,1,Google Pay,Express Shipping,4.0,499
+ELE-10208,2025-01-06 18:40:00,CUST-2802,Dubai,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Express Shipping,4.0,749
+ELE-10209,2025-01-06 19:20:00,CUST-9155,London,Computers & Accessories,Samsung 4K Monitor,449,3,Credit Card,Standard Delivery,5.0,1347
+ELE-10210,2025-01-06 20:00:00,CUST-9120,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Google Pay,Standard Delivery,4.0,2996
+ELE-10211,2025-01-06 20:40:00,CUST-7616,Berlin,Audio & Wearables,Bose QuietComfort Ultra,429,2,Google Pay,Express Shipping,4.0,858
+ELE-10212,2025-01-06 21:20:00,CUST-6534,Berlin,Smart Home & Gaming,Xbox Series X,499,3,Credit Card,Standard Delivery,5.0,1497
+ELE-10213,2025-01-06 22:00:00,CUST-5061,New York,Audio & Wearables,Samsung Galaxy Watch 6,299,4,Apple Pay,Standard Delivery,5.0,1196
+ELE-10214,2025-01-06 22:40:00,CUST-1262,Singapore,Computers & Accessories,Samsung 4K Monitor,449,4,PayPal,Standard Delivery,4.0,1796
+ELE-10215,2025-01-06 23:20:00,CUST-7287,Singapore,Audio & Wearables,Garmin Forerunner 265,449,4,Credit Card,Standard Delivery,5.0,1796
+ELE-10216,2025-01-07 00:00:00,CUST-9815,Paris,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Apple Pay,Express Shipping,5.0,3597
+ELE-10217,2025-01-07 00:40:00,CUST-3049,Toronto,Smart Home & Gaming,Philips Hue Starter Kit,179,3,Credit Card,Standard Delivery,4.0,537
+ELE-10218,2025-01-07 01:20:00,CUST-6423,Tokyo,Computers & Accessories,Logitech MX Master 3S,99,4,Google Pay,Express Shipping,2.0,396
+ELE-10219,2025-01-07 02:00:00,CUST-5548,Sydney,Computers & Accessories,Logitech MX Master 3S,99,1,Credit Card,Standard Delivery,1.0,99
+ELE-10220,2025-01-07 02:40:00,CUST-4108,Dubai,Computers & Accessories,Samsung 4K Monitor,449,1,PayPal,Standard Delivery,4.0,449
+ELE-10221,2025-01-07 03:20:00,CUST-8158,New York,Audio & Wearables,Apple AirPods Pro 2,249,3,Credit Card,Standard Delivery,4.0,747
+ELE-10222,2025-01-07 04:00:00,CUST-8400,Berlin,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,PayPal,Standard Delivery,,3597
+ELE-10223,2025-01-07 04:40:00,CUST-4170,Paris,Audio & Wearables,Apple AirPods Pro 2,249,3,Debit Card,Standard Delivery,5.0,747
+ELE-10224,2025-01-07 05:20:00,CUST-3255,Singapore,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Express Shipping,5.0,3996
+ELE-10225,2025-01-07 06:00:00,CUST-2154,New York,Audio & Wearables,Garmin Forerunner 265,449,1,PayPal,Standard Delivery,,449
+ELE-10226,2025-01-07 06:40:00,CUST-5499,Dubai,Smart Home & Gaming,Xbox Series X,499,3,PayPal,Standard Delivery,5.0,1497
+ELE-10227,2025-01-07 07:20:00,CUST-7295,Sydney,Smart Home & Gaming,Amazon Echo Show 10,249,3,Credit Card,Standard Delivery,4.0,747
+ELE-10228,2025-01-07 08:00:00,CUST-7197,Paris,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Apple Pay,Standard Delivery,3.0,3398
+ELE-10229,2025-01-07 08:40:00,CUST-2648,Dubai,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Credit Card,Same-Day Delivery,5.0,6796
+ELE-10230,2025-01-07 09:20:00,CUST-6539,Berlin,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,PayPal,Standard Delivery,4.0,2398
+ELE-10231,2025-01-07 10:00:00,CUST-5199,Berlin,Audio & Wearables,Samsung Galaxy Watch 6,299,1,PayPal,Standard Delivery,4.0,299
+ELE-10232,2025-01-07 10:40:00,CUST-9445,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,2,PayPal,Standard Delivery,5.0,1198
+ELE-10233,2025-01-07 11:20:00,CUST-3557,New York,Computers & Accessories,MacBook Air M3,1099,2,Credit Card,Same-Day Delivery,5.0,2198
+ELE-10234,2025-01-07 12:00:00,CUST-6592,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,2,PayPal,Standard Delivery,4.0,1798
+ELE-10235,2025-01-07 12:40:00,CUST-1098,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,4,PayPal,Express Shipping,5.0,3596
+ELE-10236,2025-01-07 13:20:00,CUST-3200,Singapore,Audio & Wearables,Sony WH-1000XM5,399,1,Debit Card,Standard Delivery,4.0,399
+ELE-10237,2025-01-07 14:00:00,CUST-3961,Sydney,Smartphones & Tablets,iPhone 15 Pro,999,2,Apple Pay,Same-Day Delivery,5.0,1998
+ELE-10238,2025-01-07 14:40:00,CUST-5973,Paris,Audio & Wearables,Samsung Galaxy Watch 6,299,4,PayPal,Express Shipping,1.0,1196
+ELE-10239,2025-01-07 15:20:00,CUST-5433,London,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Express Shipping,5.0,749
+ELE-10240,2025-01-07 16:00:00,CUST-3869,London,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Standard Delivery,2.0,1797
+ELE-10241,2025-01-07 16:40:00,CUST-1956,Dubai,Computers & Accessories,MacBook Air M3,1099,2,Credit Card,Standard Delivery,5.0,2198
+ELE-10242,2025-01-07 17:20:00,CUST-9352,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Standard Delivery,2.0,899
+ELE-10243,2025-01-07 18:00:00,CUST-6699,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Standard Delivery,4.0,1198
+ELE-10244,2025-01-07 18:40:00,CUST-7944,New York,Audio & Wearables,Garmin Forerunner 265,449,3,Credit Card,Standard Delivery,4.0,1347
+ELE-10245,2025-01-07 19:20:00,CUST-5493,Toronto,Smartphones & Tablets,iPad Air 5th Gen,599,1,Credit Card,Standard Delivery,4.0,599
+ELE-10246,2025-01-07 20:00:00,CUST-5911,Tokyo,Smart Home & Gaming,Xbox Series X,499,4,Credit Card,Express Shipping,3.0,1996
+ELE-10247,2025-01-07 20:40:00,CUST-4987,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,1,Credit Card,Standard Delivery,4.0,599
+ELE-10248,2025-01-07 21:20:00,CUST-7015,Berlin,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Standard Delivery,5.0,3996
+ELE-10249,2025-01-07 22:00:00,CUST-2218,Berlin,Audio & Wearables,Bose QuietComfort Ultra,429,1,Credit Card,Standard Delivery,5.0,429
+ELE-10250,2025-01-07 22:40:00,CUST-5496,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,4,PayPal,Same-Day Delivery,2.0,3596
+ELE-10251,2025-01-07 23:20:00,CUST-5735,New York,Smartphones & Tablets,iPhone 15 Pro,999,3,PayPal,Standard Delivery,5.0,2997
+ELE-10252,2025-01-08 00:00:00,CUST-5555,New York,Computers & Accessories,Dell XPS 15,1499,3,Credit Card,Express Shipping,2.0,4497
+ELE-10253,2025-01-08 00:40:00,CUST-9050,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,3,PayPal,Standard Delivery,4.0,2997
+ELE-10254,2025-01-08 01:20:00,CUST-4446,Paris,Smart Home & Gaming,Nintendo Switch OLED,349,1,Credit Card,Standard Delivery,4.0,349
+ELE-10255,2025-01-08 02:00:00,CUST-2045,Berlin,Smartphones & Tablets,iPhone 15 Pro,999,3,Credit Card,Standard Delivery,5.0,2997
+ELE-10256,2025-01-08 02:40:00,CUST-7893,London,Audio & Wearables,Sony WH-1000XM5,399,2,Credit Card,Standard Delivery,4.0,798
+ELE-10257,2025-01-08 03:20:00,CUST-2693,Singapore,Smart Home & Gaming,Xbox Series X,499,3,PayPal,Express Shipping,,1497
+ELE-10258,2025-01-08 04:00:00,CUST-4436,London,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Debit Card,Express Shipping,4.0,6796
+ELE-10259,2025-01-08 04:40:00,CUST-9754,Dubai,Smart Home & Gaming,Philips Hue Starter Kit,179,4,Credit Card,Standard Delivery,4.0,716
+ELE-10260,2025-01-08 05:20:00,CUST-6895,London,Computers & Accessories,Samsung 4K Monitor,449,4,Credit Card,Same-Day Delivery,4.0,1796
+ELE-10261,2025-01-08 06:00:00,CUST-4354,Dubai,Smart Home & Gaming,Amazon Echo Show 10,249,1,Apple Pay,Standard Delivery,5.0,249
+ELE-10262,2025-01-08 06:40:00,CUST-1225,Toronto,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Same-Day Delivery,5.0,1998
+ELE-10263,2025-01-08 07:20:00,CUST-5893,Singapore,Audio & Wearables,Bose QuietComfort Ultra,429,3,Credit Card,Same-Day Delivery,5.0,1287
+ELE-10264,2025-01-08 08:00:00,CUST-8022,London,Computers & Accessories,Dell XPS 15,1499,2,Apple Pay,Standard Delivery,5.0,2998
+ELE-10265,2025-01-08 08:40:00,CUST-6600,Toronto,Computers & Accessories,Samsung 4K Monitor,449,2,Apple Pay,Standard Delivery,5.0,898
+ELE-10266,2025-01-08 09:20:00,CUST-8996,Sydney,Audio & Wearables,Sony WH-1000XM5,399,4,PayPal,Standard Delivery,5.0,1596
+ELE-10267,2025-01-08 10:00:00,CUST-8683,Paris,Audio & Wearables,Apple AirPods Pro 2,249,4,PayPal,Express Shipping,3.0,996
+ELE-10268,2025-01-08 10:40:00,CUST-5642,Toronto,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Credit Card,Standard Delivery,5.0,4796
+ELE-10269,2025-01-08 11:20:00,CUST-8679,Paris,Smartphones & Tablets,iPhone 15 Pro,999,1,Credit Card,Same-Day Delivery,4.0,999
+ELE-10270,2025-01-08 12:00:00,CUST-9208,London,Audio & Wearables,Apple AirPods Pro 2,249,2,PayPal,Express Shipping,5.0,498
+ELE-10271,2025-01-08 12:40:00,CUST-8339,Toronto,Audio & Wearables,Sony WH-1000XM5,399,2,Credit Card,Standard Delivery,5.0,798
+ELE-10272,2025-01-08 13:20:00,CUST-3205,Singapore,Smart Home & Gaming,PlayStation 5 Slim,499,1,PayPal,Standard Delivery,5.0,499
+ELE-10273,2025-01-08 14:00:00,CUST-2069,London,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Google Pay,Express Shipping,4.0,299
+ELE-10274,2025-01-08 14:40:00,CUST-4444,Berlin,Smart Home & Gaming,Amazon Echo Show 10,249,1,Google Pay,Standard Delivery,5.0,249
+ELE-10275,2025-01-08 15:20:00,CUST-2060,New York,Audio & Wearables,Apple AirPods Pro 2,249,2,Credit Card,Express Shipping,,498
+ELE-10276,2025-01-08 16:00:00,CUST-3327,Toronto,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,PayPal,Standard Delivery,3.0,2398
+ELE-10277,2025-01-08 16:40:00,CUST-4420,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,4,PayPal,Standard Delivery,4.0,2396
+ELE-10278,2025-01-08 17:20:00,CUST-1301,Sydney,Audio & Wearables,Samsung Galaxy Watch 6,299,4,Apple Pay,Standard Delivery,5.0,1196
+ELE-10279,2025-01-08 18:00:00,CUST-1606,Berlin,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Credit Card,Express Shipping,,598
+ELE-10280,2025-01-08 18:40:00,CUST-4170,Sydney,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Credit Card,Standard Delivery,3.0,2996
+ELE-10281,2025-01-08 19:20:00,CUST-1699,London,Computers & Accessories,Samsung 4K Monitor,449,1,Credit Card,Express Shipping,1.0,449
+ELE-10282,2025-01-08 20:00:00,CUST-6088,New York,Smart Home & Gaming,Philips Hue Starter Kit,179,3,Credit Card,Standard Delivery,2.0,537
+ELE-10283,2025-01-08 20:40:00,CUST-1190,Toronto,Computers & Accessories,MacBook Air M3,1099,4,Credit Card,Express Shipping,2.0,4396
+ELE-10284,2025-01-08 21:20:00,CUST-1980,Toronto,Computers & Accessories,Dell XPS 15,1499,2,Debit Card,Express Shipping,5.0,2998
+ELE-10285,2025-01-08 22:00:00,CUST-3975,London,Computers & Accessories,Logitech MX Master 3S,99,4,Debit Card,Standard Delivery,5.0,396
+ELE-10286,2025-01-08 22:40:00,CUST-7102,London,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Express Shipping,5.0,3996
+ELE-10287,2025-01-08 23:20:00,CUST-2184,New York,Computers & Accessories,Dell XPS 15,1499,4,PayPal,Standard Delivery,4.0,5996
+ELE-10288,2025-01-09 00:00:00,CUST-4327,Singapore,Computers & Accessories,Dell XPS 15,1499,3,Credit Card,Standard Delivery,5.0,4497
+ELE-10289,2025-01-09 00:40:00,CUST-4394,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,1,Apple Pay,Standard Delivery,3.0,599
+ELE-10290,2025-01-09 01:20:00,CUST-9319,New York,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Google Pay,Express Shipping,4.0,598
+ELE-10291,2025-01-09 02:00:00,CUST-2816,Singapore,Computers & Accessories,MacBook Air M3,1099,3,Google Pay,Same-Day Delivery,4.0,3297
+ELE-10292,2025-01-09 02:40:00,CUST-6854,Dubai,Smart Home & Gaming,Nintendo Switch OLED,349,2,Apple Pay,Express Shipping,3.0,698
+ELE-10293,2025-01-09 03:20:00,CUST-7709,Paris,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Standard Delivery,4.0,998
+ELE-10294,2025-01-09 04:00:00,CUST-1569,New York,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Express Shipping,4.0,1198
+ELE-10295,2025-01-09 04:40:00,CUST-6442,New York,Audio & Wearables,Garmin Forerunner 265,449,3,PayPal,Standard Delivery,2.0,1347
+ELE-10296,2025-01-09 05:20:00,CUST-2895,Tokyo,Computers & Accessories,ASUS ROG Zephyrus,1699,1,Google Pay,Same-Day Delivery,3.0,1699
+ELE-10297,2025-01-09 06:00:00,CUST-3733,Berlin,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Standard Delivery,5.0,998
+ELE-10298,2025-01-09 06:40:00,CUST-4863,Berlin,Smartphones & Tablets,iPhone 15 Pro,999,1,Credit Card,Same-Day Delivery,1.0,999
+ELE-10299,2025-01-09 07:20:00,CUST-8455,Dubai,Audio & Wearables,Bose QuietComfort Ultra,429,1,Apple Pay,Express Shipping,5.0,429
+ELE-10300,2025-01-09 08:00:00,CUST-5014,London,Audio & Wearables,Samsung Galaxy Watch 6,299,4,Credit Card,Express Shipping,3.0,1196
+ELE-10301,2025-01-09 08:40:00,CUST-2686,London,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,PayPal,Express Shipping,5.0,3597
+ELE-10302,2025-01-09 09:20:00,CUST-4009,Sydney,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Debit Card,Standard Delivery,5.0,2697
+ELE-10303,2025-01-09 10:00:00,CUST-8806,Dubai,Audio & Wearables,Bose QuietComfort Ultra,429,4,Credit Card,Express Shipping,5.0,1716
+ELE-10304,2025-01-09 10:40:00,CUST-1154,New York,Audio & Wearables,Garmin Forerunner 265,449,4,Credit Card,Standard Delivery,5.0,1796
+ELE-10305,2025-01-09 11:20:00,CUST-2409,Dubai,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Debit Card,Express Shipping,4.0,899
+ELE-10306,2025-01-09 12:00:00,CUST-1784,Dubai,Audio & Wearables,Apple AirPods Pro 2,249,2,PayPal,Express Shipping,4.0,498
+ELE-10307,2025-01-09 12:40:00,CUST-9096,Dubai,Computers & Accessories,Dell XPS 15,1499,3,Google Pay,Express Shipping,4.0,4497
+ELE-10308,2025-01-09 13:20:00,CUST-8560,Berlin,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Credit Card,Standard Delivery,3.0,598
+ELE-10309,2025-01-09 14:00:00,CUST-8343,Dubai,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Standard Delivery,1.0,1198
+ELE-10310,2025-01-09 14:40:00,CUST-8206,Paris,Smart Home & Gaming,Nintendo Switch OLED,349,4,Debit Card,Standard Delivery,5.0,1396
+ELE-10311,2025-01-09 15:20:00,CUST-6596,London,Smartphones & Tablets,Google Pixel 8 Pro,899,2,PayPal,Express Shipping,5.0,1798
+ELE-10312,2025-01-09 16:00:00,CUST-6801,Sydney,Computers & Accessories,Logitech MX Master 3S,99,1,Credit Card,Standard Delivery,5.0,99
+ELE-10313,2025-01-09 16:40:00,CUST-3806,Paris,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Debit Card,Standard Delivery,5.0,2996
+ELE-10314,2025-01-09 17:20:00,CUST-1537,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Express Shipping,5.0,1198
+ELE-10315,2025-01-09 18:00:00,CUST-6986,Tokyo,Computers & Accessories,MacBook Air M3,1099,4,Credit Card,Express Shipping,5.0,4396
+ELE-10316,2025-01-09 18:40:00,CUST-2841,Sydney,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Standard Delivery,5.0,749
+ELE-10317,2025-01-09 19:20:00,CUST-9716,London,Smart Home & Gaming,PlayStation 5 Slim,499,1,Credit Card,Standard Delivery,3.0,499
+ELE-10318,2025-01-09 20:00:00,CUST-7971,London,Smartphones & Tablets,Google Pixel 8 Pro,899,2,PayPal,Express Shipping,4.0,1798
+ELE-10319,2025-01-09 20:40:00,CUST-6625,Dubai,Computers & Accessories,Samsung 4K Monitor,449,4,PayPal,Standard Delivery,,1796
+ELE-10320,2025-01-09 21:20:00,CUST-3950,Toronto,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Debit Card,Express Shipping,5.0,1498
+ELE-10321,2025-01-09 22:00:00,CUST-8992,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Google Pay,Standard Delivery,5.0,2398
+ELE-10322,2025-01-09 22:40:00,CUST-5780,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Express Shipping,4.0,3596
+ELE-10323,2025-01-09 23:20:00,CUST-3368,Singapore,Computers & Accessories,Logitech MX Master 3S,99,2,Credit Card,Standard Delivery,5.0,198
+ELE-10324,2025-01-10 00:00:00,CUST-7655,Sydney,Computers & Accessories,Samsung 4K Monitor,449,1,Credit Card,Standard Delivery,2.0,449
+ELE-10325,2025-01-10 00:40:00,CUST-9173,Toronto,Computers & Accessories,Logitech MX Master 3S,99,4,Credit Card,Express Shipping,3.0,396
+ELE-10326,2025-01-10 01:20:00,CUST-5495,Dubai,Computers & Accessories,Samsung 4K Monitor,449,4,Debit Card,Express Shipping,4.0,1796
+ELE-10327,2025-01-10 02:00:00,CUST-7002,Berlin,Computers & Accessories,Dell XPS 15,1499,4,Debit Card,Standard Delivery,4.0,5996
+ELE-10328,2025-01-10 02:40:00,CUST-7614,New York,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Debit Card,Express Shipping,4.0,2996
+ELE-10329,2025-01-10 03:20:00,CUST-6919,Toronto,Computers & Accessories,Logitech MX Master 3S,99,2,Credit Card,Standard Delivery,4.0,198
+ELE-10330,2025-01-10 04:00:00,CUST-1853,Berlin,Smart Home & Gaming,Amazon Echo Show 10,249,2,Credit Card,Same-Day Delivery,3.0,498
+ELE-10331,2025-01-10 04:40:00,CUST-5146,Tokyo,Computers & Accessories,Samsung 4K Monitor,449,1,PayPal,Express Shipping,4.0,449
+ELE-10332,2025-01-10 05:20:00,CUST-4769,Dubai,Audio & Wearables,Garmin Forerunner 265,449,3,Credit Card,Standard Delivery,5.0,1347
+ELE-10333,2025-01-10 06:00:00,CUST-1574,New York,Smartphones & Tablets,Xiaomi 14 Pro,749,3,PayPal,Express Shipping,5.0,2247
+ELE-10334,2025-01-10 06:40:00,CUST-2148,New York,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Google Pay,Standard Delivery,3.0,299
+ELE-10335,2025-01-10 07:20:00,CUST-7293,New York,Audio & Wearables,Bose QuietComfort Ultra,429,3,Credit Card,Standard Delivery,4.0,1287
+ELE-10336,2025-01-10 08:00:00,CUST-7457,Tokyo,Computers & Accessories,Logitech MX Master 3S,99,1,Debit Card,Same-Day Delivery,5.0,99
+ELE-10337,2025-01-10 08:40:00,CUST-8509,Sydney,Smart Home & Gaming,Nintendo Switch OLED,349,2,PayPal,Express Shipping,4.0,698
+ELE-10338,2025-01-10 09:20:00,CUST-5777,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Credit Card,Standard Delivery,4.0,2996
+ELE-10339,2025-01-10 10:00:00,CUST-4854,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,PayPal,Standard Delivery,5.0,4796
+ELE-10340,2025-01-10 10:40:00,CUST-3491,London,Audio & Wearables,Garmin Forerunner 265,449,2,Credit Card,Standard Delivery,,898
+ELE-10341,2025-01-10 11:20:00,CUST-4124,Dubai,Smart Home & Gaming,Philips Hue Starter Kit,179,4,Credit Card,Same-Day Delivery,3.0,716
+ELE-10342,2025-01-10 12:00:00,CUST-6691,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,4,PayPal,Standard Delivery,4.0,2396
+ELE-10343,2025-01-10 12:40:00,CUST-4051,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Apple Pay,Standard Delivery,4.0,2697
+ELE-10344,2025-01-10 13:20:00,CUST-1004,Singapore,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Standard Delivery,5.0,1498
+ELE-10345,2025-01-10 14:00:00,CUST-6222,London,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Credit Card,Standard Delivery,3.0,2697
+ELE-10346,2025-01-10 14:40:00,CUST-6315,Sydney,Audio & Wearables,Sony WH-1000XM5,399,3,Apple Pay,Standard Delivery,3.0,1197
+ELE-10347,2025-01-10 15:20:00,CUST-5869,Berlin,Computers & Accessories,Logitech MX Master 3S,99,4,Apple Pay,Standard Delivery,4.0,396
+ELE-10348,2025-01-10 16:00:00,CUST-1876,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Debit Card,Standard Delivery,,4796
+ELE-10349,2025-01-10 16:40:00,CUST-8027,Berlin,Computers & Accessories,Dell XPS 15,1499,2,Credit Card,Standard Delivery,5.0,2998
+ELE-10350,2025-01-10 17:20:00,CUST-5142,London,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Google Pay,Same-Day Delivery,5.0,2996
+ELE-10351,2025-01-10 18:00:00,CUST-7966,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Standard Delivery,5.0,3596
+ELE-10352,2025-01-10 18:40:00,CUST-8079,Paris,Audio & Wearables,Garmin Forerunner 265,449,2,PayPal,Express Shipping,3.0,898
+ELE-10353,2025-01-10 19:20:00,CUST-8987,Toronto,Smart Home & Gaming,Nintendo Switch OLED,349,4,Credit Card,Express Shipping,5.0,1396
+ELE-10354,2025-01-10 20:00:00,CUST-7799,Sydney,Smart Home & Gaming,Xbox Series X,499,3,PayPal,Express Shipping,5.0,1497
+ELE-10355,2025-01-10 20:40:00,CUST-5465,London,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Express Shipping,4.0,1498
+ELE-10356,2025-01-10 21:20:00,CUST-1635,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,4,PayPal,Standard Delivery,5.0,1396
+ELE-10357,2025-01-10 22:00:00,CUST-2693,Toronto,Audio & Wearables,Garmin Forerunner 265,449,1,Credit Card,Standard Delivery,5.0,449
+ELE-10358,2025-01-10 22:40:00,CUST-5752,Toronto,Audio & Wearables,Bose QuietComfort Ultra,429,2,Credit Card,Standard Delivery,5.0,858
+ELE-10359,2025-01-10 23:20:00,CUST-9311,Berlin,Computers & Accessories,Logitech MX Master 3S,99,2,PayPal,Standard Delivery,3.0,198
+ELE-10360,2025-01-11 00:00:00,CUST-1830,Dubai,Computers & Accessories,Logitech MX Master 3S,99,1,Apple Pay,Express Shipping,,99
+ELE-10361,2025-01-11 00:40:00,CUST-6177,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Google Pay,Express Shipping,,3596
+ELE-10362,2025-01-11 01:20:00,CUST-9932,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Express Shipping,4.0,3996
+ELE-10363,2025-01-11 02:00:00,CUST-9308,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,2,Debit Card,Standard Delivery,2.0,1198
+ELE-10364,2025-01-11 02:40:00,CUST-6949,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,2,Debit Card,Same-Day Delivery,3.0,1198
+ELE-10365,2025-01-11 03:20:00,CUST-3838,Sydney,Computers & Accessories,Logitech MX Master 3S,99,4,Credit Card,Standard Delivery,,396
+ELE-10366,2025-01-11 04:00:00,CUST-2150,Tokyo,Audio & Wearables,Sony WH-1000XM5,399,4,Credit Card,Standard Delivery,5.0,1596
+ELE-10367,2025-01-11 04:40:00,CUST-8560,London,Computers & Accessories,Logitech MX Master 3S,99,3,Debit Card,Standard Delivery,4.0,297
+ELE-10368,2025-01-11 05:20:00,CUST-2931,Paris,Smartphones & Tablets,iPhone 15 Pro,999,2,Google Pay,Express Shipping,4.0,1998
+ELE-10369,2025-01-11 06:00:00,CUST-2664,Berlin,Smart Home & Gaming,Amazon Echo Show 10,249,2,PayPal,Standard Delivery,4.0,498
+ELE-10370,2025-01-11 06:40:00,CUST-2081,Paris,Smart Home & Gaming,Xbox Series X,499,1,PayPal,Same-Day Delivery,5.0,499
+ELE-10371,2025-01-11 07:20:00,CUST-1512,Tokyo,Audio & Wearables,Apple AirPods Pro 2,249,3,PayPal,Same-Day Delivery,4.0,747
+ELE-10372,2025-01-11 08:00:00,CUST-8805,Singapore,Smart Home & Gaming,Philips Hue Starter Kit,179,4,Credit Card,Express Shipping,,716
+ELE-10373,2025-01-11 08:40:00,CUST-6237,Paris,Computers & Accessories,Logitech MX Master 3S,99,3,Debit Card,Standard Delivery,5.0,297
+ELE-10374,2025-01-11 09:20:00,CUST-1559,London,Smart Home & Gaming,Nintendo Switch OLED,349,4,Debit Card,Express Shipping,5.0,1396
+ELE-10375,2025-01-11 10:00:00,CUST-4672,London,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Credit Card,Express Shipping,4.0,2996
+ELE-10376,2025-01-11 10:40:00,CUST-8404,New York,Computers & Accessories,Dell XPS 15,1499,3,Apple Pay,Standard Delivery,2.0,4497
+ELE-10377,2025-01-11 11:20:00,CUST-4343,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Credit Card,Standard Delivery,4.0,1798
+ELE-10378,2025-01-11 12:00:00,CUST-5070,Dubai,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Google Pay,Standard Delivery,4.0,2996
+ELE-10379,2025-01-11 12:40:00,CUST-1580,Toronto,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Credit Card,Standard Delivery,4.0,2697
+ELE-10380,2025-01-11 13:20:00,CUST-8004,Toronto,Audio & Wearables,Apple AirPods Pro 2,249,1,Credit Card,Standard Delivery,,249
+ELE-10381,2025-01-11 14:00:00,CUST-9130,Toronto,Audio & Wearables,Garmin Forerunner 265,449,3,Credit Card,Same-Day Delivery,4.0,1347
+ELE-10382,2025-01-11 14:40:00,CUST-4147,Singapore,Computers & Accessories,Dell XPS 15,1499,1,PayPal,Standard Delivery,3.0,1499
+ELE-10383,2025-01-11 15:20:00,CUST-5249,New York,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Standard Delivery,3.0,3996
+ELE-10384,2025-01-11 16:00:00,CUST-2679,Singapore,Smart Home & Gaming,Xbox Series X,499,3,PayPal,Same-Day Delivery,4.0,1497
+ELE-10385,2025-01-11 16:40:00,CUST-4506,Paris,Audio & Wearables,Bose QuietComfort Ultra,429,3,PayPal,Standard Delivery,,1287
+ELE-10386,2025-01-11 17:20:00,CUST-8253,Paris,Computers & Accessories,ASUS ROG Zephyrus,1699,1,Debit Card,Express Shipping,4.0,1699
+ELE-10387,2025-01-11 18:00:00,CUST-3744,Paris,Audio & Wearables,Apple AirPods Pro 2,249,3,Credit Card,Standard Delivery,4.0,747
+ELE-10388,2025-01-11 18:40:00,CUST-6188,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,3,PayPal,Express Shipping,5.0,1797
+ELE-10389,2025-01-11 19:20:00,CUST-3141,Toronto,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Standard Delivery,4.0,3996
+ELE-10390,2025-01-11 20:00:00,CUST-7617,Sydney,Smart Home & Gaming,Philips Hue Starter Kit,179,3,Debit Card,Express Shipping,4.0,537
+ELE-10391,2025-01-11 20:40:00,CUST-3479,New York,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Standard Delivery,3.0,1498
+ELE-10392,2025-01-11 21:20:00,CUST-7484,Singapore,Computers & Accessories,ASUS ROG Zephyrus,1699,1,Google Pay,Express Shipping,4.0,1699
+ELE-10393,2025-01-11 22:00:00,CUST-8421,Toronto,Smart Home & Gaming,Philips Hue Starter Kit,179,3,Debit Card,Standard Delivery,3.0,537
+ELE-10394,2025-01-11 22:40:00,CUST-5452,Sydney,Audio & Wearables,Apple AirPods Pro 2,249,1,PayPal,Express Shipping,1.0,249
+ELE-10395,2025-01-11 23:20:00,CUST-6881,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,1,PayPal,Standard Delivery,5.0,599
+ELE-10396,2025-01-12 00:00:00,CUST-7665,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Standard Delivery,3.0,899
+ELE-10397,2025-01-12 00:40:00,CUST-3849,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Credit Card,Express Shipping,5.0,3597
+ELE-10398,2025-01-12 01:20:00,CUST-8390,Dubai,Audio & Wearables,Apple AirPods Pro 2,249,3,Apple Pay,Standard Delivery,5.0,747
+ELE-10399,2025-01-12 02:00:00,CUST-7905,Dubai,Computers & Accessories,Dell XPS 15,1499,1,Google Pay,Express Shipping,4.0,1499
+ELE-10400,2025-01-12 02:40:00,CUST-3489,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Credit Card,Same-Day Delivery,4.0,1798
+ELE-10401,2025-01-12 03:20:00,CUST-5611,Dubai,Smart Home & Gaming,PlayStation 5 Slim,499,1,PayPal,Express Shipping,3.0,499
+ELE-10402,2025-01-12 04:00:00,CUST-3839,Singapore,Computers & Accessories,Samsung 4K Monitor,449,2,Debit Card,Standard Delivery,5.0,898
+ELE-10403,2025-01-12 04:40:00,CUST-9527,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,1,PayPal,Express Shipping,5.0,599
+ELE-10404,2025-01-12 05:20:00,CUST-6878,New York,Computers & Accessories,MacBook Air M3,1099,4,Credit Card,Express Shipping,5.0,4396
+ELE-10405,2025-01-12 06:00:00,CUST-7303,Berlin,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Credit Card,Express Shipping,1.0,299
+ELE-10406,2025-01-12 06:40:00,CUST-1851,Paris,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Standard Delivery,5.0,749
+ELE-10407,2025-01-12 07:20:00,CUST-2687,London,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Apple Pay,Standard Delivery,2.0,2697
+ELE-10408,2025-01-12 08:00:00,CUST-7833,Singapore,Smart Home & Gaming,Xbox Series X,499,2,PayPal,Standard Delivery,4.0,998
+ELE-10409,2025-01-12 08:40:00,CUST-3427,Tokyo,Computers & Accessories,Dell XPS 15,1499,4,PayPal,Standard Delivery,4.0,5996
+ELE-10410,2025-01-12 09:20:00,CUST-5000,Paris,Computers & Accessories,Logitech MX Master 3S,99,2,Google Pay,Standard Delivery,1.0,198
+ELE-10411,2025-01-12 10:00:00,CUST-6052,Toronto,Computers & Accessories,MacBook Air M3,1099,4,PayPal,Standard Delivery,4.0,4396
+ELE-10412,2025-01-12 10:40:00,CUST-3738,Dubai,Smartphones & Tablets,iPhone 15 Pro,999,1,Apple Pay,Express Shipping,5.0,999
+ELE-10413,2025-01-12 11:20:00,CUST-6732,London,Smartphones & Tablets,iPad Air 5th Gen,599,3,PayPal,Same-Day Delivery,5.0,1797
+ELE-10414,2025-01-12 12:00:00,CUST-6387,Tokyo,Computers & Accessories,Logitech MX Master 3S,99,3,Credit Card,Express Shipping,5.0,297
+ELE-10415,2025-01-12 12:40:00,CUST-9002,Paris,Smartphones & Tablets,iPhone 15 Pro,999,2,Google Pay,Standard Delivery,4.0,1998
+ELE-10416,2025-01-12 13:20:00,CUST-6536,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,3,PayPal,Standard Delivery,5.0,2697
+ELE-10417,2025-01-12 14:00:00,CUST-4913,Toronto,Smart Home & Gaming,Philips Hue Starter Kit,179,2,Credit Card,Same-Day Delivery,2.0,358
+ELE-10418,2025-01-12 14:40:00,CUST-2066,London,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Same-Day Delivery,4.0,998
+ELE-10419,2025-01-12 15:20:00,CUST-8723,Berlin,Audio & Wearables,Apple AirPods Pro 2,249,4,Credit Card,Same-Day Delivery,3.0,996
+ELE-10420,2025-01-12 16:00:00,CUST-5380,New York,Smart Home & Gaming,Xbox Series X,499,2,PayPal,Express Shipping,4.0,998
+ELE-10421,2025-01-12 16:40:00,CUST-5107,Tokyo,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Apple Pay,Standard Delivery,4.0,3596
+ELE-10422,2025-01-12 17:20:00,CUST-6726,London,Smart Home & Gaming,Amazon Echo Show 10,249,3,Google Pay,Express Shipping,4.0,747
+ELE-10423,2025-01-12 18:00:00,CUST-4373,New York,Smartphones & Tablets,iPad Air 5th Gen,599,2,Google Pay,Standard Delivery,5.0,1198
+ELE-10424,2025-01-12 18:40:00,CUST-9945,Toronto,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Standard Delivery,5.0,998
+ELE-10425,2025-01-12 19:20:00,CUST-3082,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,1,Credit Card,Express Shipping,4.0,349
+ELE-10426,2025-01-12 20:00:00,CUST-9967,New York,Audio & Wearables,Apple AirPods Pro 2,249,2,Credit Card,Standard Delivery,,498
+ELE-10427,2025-01-12 20:40:00,CUST-7748,Sydney,Smart Home & Gaming,Nintendo Switch OLED,349,2,Apple Pay,Standard Delivery,5.0,698
+ELE-10428,2025-01-12 21:20:00,CUST-1417,Berlin,Computers & Accessories,ASUS ROG Zephyrus,1699,1,Credit Card,Standard Delivery,4.0,1699
+ELE-10429,2025-01-12 22:00:00,CUST-9306,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,1,PayPal,Standard Delivery,5.0,749
+ELE-10430,2025-01-12 22:40:00,CUST-9808,Toronto,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Debit Card,Express Shipping,3.0,5097
+ELE-10431,2025-01-12 23:20:00,CUST-4974,Dubai,Computers & Accessories,Logitech MX Master 3S,99,2,PayPal,Standard Delivery,5.0,198
+ELE-10432,2025-01-13 00:00:00,CUST-4267,Dubai,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Standard Delivery,5.0,1797
+ELE-10433,2025-01-13 00:40:00,CUST-1825,Dubai,Audio & Wearables,Apple AirPods Pro 2,249,3,Google Pay,Standard Delivery,,747
+ELE-10434,2025-01-13 01:20:00,CUST-8668,London,Smart Home & Gaming,Nintendo Switch OLED,349,1,Google Pay,Standard Delivery,5.0,349
+ELE-10435,2025-01-13 02:00:00,CUST-6745,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Standard Delivery,5.0,3996
+ELE-10436,2025-01-13 02:40:00,CUST-1412,Toronto,Audio & Wearables,Apple AirPods Pro 2,249,3,PayPal,Express Shipping,5.0,747
+ELE-10437,2025-01-13 03:20:00,CUST-8543,Berlin,Smart Home & Gaming,PlayStation 5 Slim,499,4,Google Pay,Standard Delivery,4.0,1996
+ELE-10438,2025-01-13 04:00:00,CUST-8587,London,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Express Shipping,4.0,998
+ELE-10439,2025-01-13 04:40:00,CUST-1728,Tokyo,Smart Home & Gaming,Amazon Echo Show 10,249,1,PayPal,Same-Day Delivery,4.0,249
+ELE-10440,2025-01-13 05:20:00,CUST-8164,Sydney,Computers & Accessories,Logitech MX Master 3S,99,2,Credit Card,Express Shipping,4.0,198
+ELE-10441,2025-01-13 06:00:00,CUST-9867,Toronto,Smart Home & Gaming,Amazon Echo Show 10,249,2,PayPal,Standard Delivery,4.0,498
+ELE-10442,2025-01-13 06:40:00,CUST-6988,Dubai,Audio & Wearables,Sony WH-1000XM5,399,1,Credit Card,Standard Delivery,5.0,399
+ELE-10443,2025-01-13 07:20:00,CUST-3504,New York,Smartphones & Tablets,Xiaomi 14 Pro,749,2,PayPal,Express Shipping,4.0,1498
+ELE-10444,2025-01-13 08:00:00,CUST-3967,Toronto,Computers & Accessories,Dell XPS 15,1499,1,Credit Card,Standard Delivery,,1499
+ELE-10445,2025-01-13 08:40:00,CUST-3786,Singapore,Audio & Wearables,Bose QuietComfort Ultra,429,4,PayPal,Express Shipping,5.0,1716
+ELE-10446,2025-01-13 09:20:00,CUST-2122,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Google Pay,Express Shipping,5.0,2398
+ELE-10447,2025-01-13 10:00:00,CUST-5079,Paris,Audio & Wearables,Sony WH-1000XM5,399,1,Apple Pay,Same-Day Delivery,5.0,399
+ELE-10448,2025-01-13 10:40:00,CUST-2571,Sydney,Audio & Wearables,Garmin Forerunner 265,449,3,Apple Pay,Same-Day Delivery,4.0,1347
+ELE-10449,2025-01-13 11:20:00,CUST-6073,Toronto,Smartphones & Tablets,iPhone 15 Pro,999,2,PayPal,Express Shipping,5.0,1998
+ELE-10450,2025-01-13 12:00:00,CUST-6104,Paris,Computers & Accessories,Dell XPS 15,1499,4,Credit Card,Standard Delivery,4.0,5996
+ELE-10451,2025-01-13 12:40:00,CUST-3143,Singapore,Audio & Wearables,Garmin Forerunner 265,449,1,Credit Card,Same-Day Delivery,4.0,449
+ELE-10452,2025-01-13 13:20:00,CUST-7806,Berlin,Computers & Accessories,Samsung 4K Monitor,449,2,Google Pay,Standard Delivery,4.0,898
+ELE-10453,2025-01-13 14:00:00,CUST-8357,New York,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Standard Delivery,4.0,1998
+ELE-10454,2025-01-13 14:40:00,CUST-4440,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Credit Card,Express Shipping,5.0,1798
+ELE-10455,2025-01-13 15:20:00,CUST-4766,Tokyo,Computers & Accessories,Dell XPS 15,1499,4,Debit Card,Express Shipping,4.0,5996
+ELE-10456,2025-01-13 16:00:00,CUST-6644,Dubai,Smart Home & Gaming,Nintendo Switch OLED,349,1,Credit Card,Express Shipping,4.0,349
+ELE-10457,2025-01-13 16:40:00,CUST-3914,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Express Shipping,5.0,1797
+ELE-10458,2025-01-13 17:20:00,CUST-5968,New York,Audio & Wearables,Sony WH-1000XM5,399,3,Google Pay,Standard Delivery,5.0,1197
+ELE-10459,2025-01-13 18:00:00,CUST-6917,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Apple Pay,Same-Day Delivery,4.0,3597
+ELE-10460,2025-01-13 18:40:00,CUST-9787,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,PayPal,Express Shipping,5.0,1199
+ELE-10461,2025-01-13 19:20:00,CUST-1728,Toronto,Smart Home & Gaming,PlayStation 5 Slim,499,3,Google Pay,Express Shipping,5.0,1497
+ELE-10462,2025-01-13 20:00:00,CUST-2365,Paris,Audio & Wearables,Apple AirPods Pro 2,249,4,Debit Card,Standard Delivery,,996
+ELE-10463,2025-01-13 20:40:00,CUST-5492,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Debit Card,Standard Delivery,4.0,899
+ELE-10464,2025-01-13 21:20:00,CUST-1698,London,Computers & Accessories,MacBook Air M3,1099,2,Credit Card,Express Shipping,3.0,2198
+ELE-10465,2025-01-13 22:00:00,CUST-8186,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Standard Delivery,4.0,3596
+ELE-10466,2025-01-13 22:40:00,CUST-1395,Berlin,Computers & Accessories,Dell XPS 15,1499,2,PayPal,Standard Delivery,4.0,2998
+ELE-10467,2025-01-13 23:20:00,CUST-8400,Singapore,Audio & Wearables,Sony WH-1000XM5,399,3,Apple Pay,Express Shipping,5.0,1197
+ELE-10468,2025-01-14 00:00:00,CUST-9082,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,PayPal,Standard Delivery,4.0,4796
+ELE-10469,2025-01-14 00:40:00,CUST-5171,Singapore,Smartphones & Tablets,iPhone 15 Pro,999,1,Credit Card,Standard Delivery,,999
+ELE-10470,2025-01-14 01:20:00,CUST-5360,London,Computers & Accessories,Dell XPS 15,1499,4,Credit Card,Standard Delivery,4.0,5996
+ELE-10471,2025-01-14 02:00:00,CUST-3502,Tokyo,Smart Home & Gaming,Amazon Echo Show 10,249,2,Apple Pay,Standard Delivery,,498
+ELE-10472,2025-01-14 02:40:00,CUST-1717,Sydney,Smart Home & Gaming,Amazon Echo Show 10,249,1,Credit Card,Express Shipping,1.0,249
+ELE-10473,2025-01-14 03:20:00,CUST-3782,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,PayPal,Standard Delivery,5.0,4796
+ELE-10474,2025-01-14 04:00:00,CUST-5946,Sydney,Audio & Wearables,Sony WH-1000XM5,399,4,Credit Card,Standard Delivery,5.0,1596
+ELE-10475,2025-01-14 04:40:00,CUST-6486,Sydney,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Credit Card,Express Shipping,,6796
+ELE-10476,2025-01-14 05:20:00,CUST-9335,London,Computers & Accessories,Logitech MX Master 3S,99,4,Debit Card,Same-Day Delivery,1.0,396
+ELE-10477,2025-01-14 06:00:00,CUST-5980,Toronto,Audio & Wearables,Bose QuietComfort Ultra,429,1,Debit Card,Express Shipping,3.0,429
+ELE-10478,2025-01-14 06:40:00,CUST-8266,London,Smart Home & Gaming,Nintendo Switch OLED,349,2,Credit Card,Standard Delivery,5.0,698
+ELE-10479,2025-01-14 07:20:00,CUST-5491,Sydney,Smart Home & Gaming,Xbox Series X,499,4,Credit Card,Standard Delivery,1.0,1996
+ELE-10480,2025-01-14 08:00:00,CUST-8192,New York,Computers & Accessories,MacBook Air M3,1099,1,Apple Pay,Express Shipping,2.0,1099
+ELE-10481,2025-01-14 08:40:00,CUST-6588,Tokyo,Computers & Accessories,Dell XPS 15,1499,2,Credit Card,Standard Delivery,4.0,2998
+ELE-10482,2025-01-14 09:20:00,CUST-8651,London,Audio & Wearables,Garmin Forerunner 265,449,4,PayPal,Express Shipping,4.0,1796
+ELE-10483,2025-01-14 10:00:00,CUST-4636,Toronto,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Google Pay,Standard Delivery,4.0,1798
+ELE-10484,2025-01-14 10:40:00,CUST-2167,Paris,Computers & Accessories,Samsung 4K Monitor,449,2,Credit Card,Standard Delivery,2.0,898
+ELE-10485,2025-01-14 11:20:00,CUST-2062,Singapore,Computers & Accessories,Logitech MX Master 3S,99,1,Google Pay,Express Shipping,3.0,99
+ELE-10486,2025-01-14 12:00:00,CUST-3156,Sydney,Audio & Wearables,Bose QuietComfort Ultra,429,2,Credit Card,Express Shipping,4.0,858
+ELE-10487,2025-01-14 12:40:00,CUST-8860,Paris,Smartphones & Tablets,Xiaomi 14 Pro,749,1,PayPal,Express Shipping,5.0,749
+ELE-10488,2025-01-14 13:20:00,CUST-6161,Berlin,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Credit Card,Standard Delivery,3.0,2996
+ELE-10489,2025-01-14 14:00:00,CUST-6305,Dubai,Smart Home & Gaming,Xbox Series X,499,2,Google Pay,Standard Delivery,4.0,998
+ELE-10490,2025-01-14 14:40:00,CUST-7541,Toronto,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Express Shipping,5.0,1498
+ELE-10491,2025-01-14 15:20:00,CUST-5729,Dubai,Computers & Accessories,Dell XPS 15,1499,3,Credit Card,Express Shipping,,4497
+ELE-10492,2025-01-14 16:00:00,CUST-8330,Toronto,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Google Pay,Standard Delivery,,4796
+ELE-10493,2025-01-14 16:40:00,CUST-6334,New York,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,PayPal,Standard Delivery,5.0,4796
+ELE-10494,2025-01-14 17:20:00,CUST-9924,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,3,PayPal,Standard Delivery,4.0,2697
+ELE-10495,2025-01-14 18:00:00,CUST-5330,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Credit Card,Same-Day Delivery,5.0,2697
+ELE-10496,2025-01-14 18:40:00,CUST-9010,Tokyo,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Debit Card,Express Shipping,4.0,179
+ELE-10497,2025-01-14 19:20:00,CUST-7801,Toronto,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Same-Day Delivery,5.0,899
+ELE-10498,2025-01-14 20:00:00,CUST-5846,Tokyo,Smart Home & Gaming,Philips Hue Starter Kit,179,2,Credit Card,Standard Delivery,4.0,358
+ELE-10499,2025-01-14 20:40:00,CUST-7731,Singapore,Computers & Accessories,Logitech MX Master 3S,99,2,PayPal,Same-Day Delivery,5.0,198
+ELE-10500,2025-01-14 21:20:00,CUST-8241,Sydney,Computers & Accessories,MacBook Air M3,1099,2,Credit Card,Standard Delivery,4.0,2198
+ELE-10501,2025-01-14 22:00:00,CUST-1953,Berlin,Computers & Accessories,MacBook Air M3,1099,2,Google Pay,Standard Delivery,1.0,2198
+ELE-10502,2025-01-14 22:40:00,CUST-3539,Paris,Computers & Accessories,Samsung 4K Monitor,449,1,Google Pay,Express Shipping,5.0,449
+ELE-10503,2025-01-14 23:20:00,CUST-8056,Singapore,Audio & Wearables,Bose QuietComfort Ultra,429,4,Debit Card,Standard Delivery,1.0,1716
+ELE-10504,2025-01-15 00:00:00,CUST-2542,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Apple Pay,Standard Delivery,4.0,1798
+ELE-10505,2025-01-15 00:40:00,CUST-6293,New York,Computers & Accessories,Dell XPS 15,1499,4,Debit Card,Standard Delivery,1.0,5996
+ELE-10506,2025-01-15 01:20:00,CUST-2191,Dubai,Smart Home & Gaming,Nintendo Switch OLED,349,2,Credit Card,Standard Delivery,4.0,698
+ELE-10507,2025-01-15 02:00:00,CUST-7313,Berlin,Smart Home & Gaming,Philips Hue Starter Kit,179,3,Debit Card,Express Shipping,2.0,537
+ELE-10508,2025-01-15 02:40:00,CUST-7938,Paris,Smart Home & Gaming,Nintendo Switch OLED,349,2,Credit Card,Express Shipping,5.0,698
+ELE-10509,2025-01-15 03:20:00,CUST-3681,Sydney,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Credit Card,Express Shipping,4.0,3398
+ELE-10510,2025-01-15 04:00:00,CUST-2540,Sydney,Audio & Wearables,Garmin Forerunner 265,449,2,Apple Pay,Express Shipping,4.0,898
+ELE-10511,2025-01-15 04:40:00,CUST-7172,London,Computers & Accessories,Logitech MX Master 3S,99,1,PayPal,Express Shipping,4.0,99
+ELE-10512,2025-01-15 05:20:00,CUST-6541,Singapore,Computers & Accessories,Samsung 4K Monitor,449,3,Apple Pay,Standard Delivery,5.0,1347
+ELE-10513,2025-01-15 06:00:00,CUST-2365,Toronto,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Standard Delivery,5.0,1198
+ELE-10514,2025-01-15 06:40:00,CUST-9691,New York,Computers & Accessories,Logitech MX Master 3S,99,2,PayPal,Same-Day Delivery,5.0,198
+ELE-10515,2025-01-15 07:20:00,CUST-9702,Berlin,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Standard Delivery,5.0,3996
+ELE-10516,2025-01-15 08:00:00,CUST-8494,Sydney,Smartphones & Tablets,Xiaomi 14 Pro,749,3,PayPal,Express Shipping,5.0,2247
+ELE-10517,2025-01-15 08:40:00,CUST-5312,Paris,Smart Home & Gaming,Philips Hue Starter Kit,179,2,Debit Card,Standard Delivery,5.0,358
+ELE-10518,2025-01-15 09:20:00,CUST-2324,London,Smartphones & Tablets,Google Pixel 8 Pro,899,4,PayPal,Express Shipping,5.0,3596
+ELE-10519,2025-01-15 10:00:00,CUST-4141,Paris,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Express Shipping,4.0,3996
+ELE-10520,2025-01-15 10:40:00,CUST-8419,New York,Smartphones & Tablets,iPhone 15 Pro,999,1,Credit Card,Standard Delivery,5.0,999
+ELE-10521,2025-01-15 11:20:00,CUST-4486,Toronto,Smart Home & Gaming,Amazon Echo Show 10,249,4,Credit Card,Standard Delivery,4.0,996
+ELE-10522,2025-01-15 12:00:00,CUST-2810,London,Computers & Accessories,Dell XPS 15,1499,2,PayPal,Express Shipping,5.0,2998
+ELE-10523,2025-01-15 12:40:00,CUST-7588,London,Computers & Accessories,Samsung 4K Monitor,449,1,Google Pay,Standard Delivery,5.0,449
+ELE-10524,2025-01-15 13:20:00,CUST-3923,Dubai,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Credit Card,Standard Delivery,5.0,179
+ELE-10525,2025-01-15 14:00:00,CUST-6301,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,2,Debit Card,Express Shipping,5.0,698
+ELE-10526,2025-01-15 14:40:00,CUST-5186,London,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Apple Pay,Standard Delivery,2.0,2697
+ELE-10527,2025-01-15 15:20:00,CUST-9905,Dubai,Audio & Wearables,Samsung Galaxy Watch 6,299,4,PayPal,Express Shipping,2.0,1196
+ELE-10528,2025-01-15 16:00:00,CUST-6977,Dubai,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Debit Card,Standard Delivery,4.0,299
+ELE-10529,2025-01-15 16:40:00,CUST-5268,New York,Audio & Wearables,Sony WH-1000XM5,399,3,Apple Pay,Standard Delivery,5.0,1197
+ELE-10530,2025-01-15 17:20:00,CUST-5748,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Express Shipping,5.0,1498
+ELE-10531,2025-01-15 18:00:00,CUST-5849,Paris,Smart Home & Gaming,Nintendo Switch OLED,349,4,Credit Card,Standard Delivery,5.0,1396
+ELE-10532,2025-01-15 18:40:00,CUST-4709,Toronto,Computers & Accessories,MacBook Air M3,1099,4,Credit Card,Standard Delivery,5.0,4396
+ELE-10533,2025-01-15 19:20:00,CUST-7619,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Google Pay,Standard Delivery,5.0,899
+ELE-10534,2025-01-15 20:00:00,CUST-9647,London,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Google Pay,Standard Delivery,5.0,6796
+ELE-10535,2025-01-15 20:40:00,CUST-4072,Toronto,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Debit Card,Standard Delivery,5.0,2996
+ELE-10536,2025-01-15 21:20:00,CUST-7530,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,4,Credit Card,Standard Delivery,5.0,2396
+ELE-10537,2025-01-15 22:00:00,CUST-1504,Tokyo,Audio & Wearables,Bose QuietComfort Ultra,429,4,PayPal,Standard Delivery,5.0,1716
+ELE-10538,2025-01-15 22:40:00,CUST-2214,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Standard Delivery,4.0,1198
+ELE-10539,2025-01-15 23:20:00,CUST-2531,Sydney,Computers & Accessories,Samsung 4K Monitor,449,3,Credit Card,Express Shipping,5.0,1347
+ELE-10540,2025-01-16 00:00:00,CUST-8576,Berlin,Computers & Accessories,MacBook Air M3,1099,2,PayPal,Express Shipping,4.0,2198
+ELE-10541,2025-01-16 00:40:00,CUST-1823,Paris,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Google Pay,Standard Delivery,3.0,1498
+ELE-10542,2025-01-16 01:20:00,CUST-1928,New York,Smart Home & Gaming,PlayStation 5 Slim,499,1,Google Pay,Express Shipping,5.0,499
+ELE-10543,2025-01-16 02:00:00,CUST-6029,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Debit Card,Express Shipping,4.0,4796
+ELE-10544,2025-01-16 02:40:00,CUST-1133,London,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Express Shipping,,1498
+ELE-10545,2025-01-16 03:20:00,CUST-3105,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Credit Card,Express Shipping,4.0,2996
+ELE-10546,2025-01-16 04:00:00,CUST-4627,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Credit Card,Standard Delivery,4.0,1798
+ELE-10547,2025-01-16 04:40:00,CUST-7316,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,2,Debit Card,Express Shipping,4.0,1198
+ELE-10548,2025-01-16 05:20:00,CUST-2852,Tokyo,Audio & Wearables,Sony WH-1000XM5,399,1,Apple Pay,Standard Delivery,3.0,399
+ELE-10549,2025-01-16 06:00:00,CUST-5910,Toronto,Smart Home & Gaming,PlayStation 5 Slim,499,3,Credit Card,Standard Delivery,4.0,1497
+ELE-10550,2025-01-16 06:40:00,CUST-5175,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,3,PayPal,Express Shipping,4.0,2697
+ELE-10551,2025-01-16 07:20:00,CUST-6348,Dubai,Audio & Wearables,Bose QuietComfort Ultra,429,2,Credit Card,Standard Delivery,3.0,858
+ELE-10552,2025-01-16 08:00:00,CUST-7190,Berlin,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Credit Card,Standard Delivery,4.0,299
+ELE-10553,2025-01-16 08:40:00,CUST-2256,Tokyo,Smart Home & Gaming,Nintendo Switch OLED,349,4,PayPal,Express Shipping,4.0,1396
+ELE-10554,2025-01-16 09:20:00,CUST-4376,London,Computers & Accessories,Samsung 4K Monitor,449,4,Credit Card,Express Shipping,5.0,1796
+ELE-10555,2025-01-16 10:00:00,CUST-6645,London,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,PayPal,Express Shipping,2.0,2398
+ELE-10556,2025-01-16 10:40:00,CUST-4486,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,3,Apple Pay,Express Shipping,5.0,1797
+ELE-10557,2025-01-16 11:20:00,CUST-4584,London,Audio & Wearables,Bose QuietComfort Ultra,429,1,PayPal,Standard Delivery,5.0,429
+ELE-10558,2025-01-16 12:00:00,CUST-9053,Paris,Smart Home & Gaming,Nintendo Switch OLED,349,3,Credit Card,Standard Delivery,4.0,1047
+ELE-10559,2025-01-16 12:40:00,CUST-4330,London,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Express Shipping,5.0,3996
+ELE-10560,2025-01-16 13:20:00,CUST-3703,Dubai,Computers & Accessories,Dell XPS 15,1499,3,PayPal,Standard Delivery,5.0,4497
+ELE-10561,2025-01-16 14:00:00,CUST-9662,London,Smart Home & Gaming,Philips Hue Starter Kit,179,4,Credit Card,Express Shipping,5.0,716
+ELE-10562,2025-01-16 14:40:00,CUST-9120,Dubai,Smart Home & Gaming,PlayStation 5 Slim,499,1,Credit Card,Standard Delivery,3.0,499
+ELE-10563,2025-01-16 15:20:00,CUST-8114,Sydney,Smart Home & Gaming,PlayStation 5 Slim,499,1,PayPal,Standard Delivery,5.0,499
+ELE-10564,2025-01-16 16:00:00,CUST-2353,New York,Audio & Wearables,Apple AirPods Pro 2,249,2,PayPal,Standard Delivery,5.0,498
+ELE-10565,2025-01-16 16:40:00,CUST-6063,Paris,Computers & Accessories,Samsung 4K Monitor,449,2,Debit Card,Express Shipping,4.0,898
+ELE-10566,2025-01-16 17:20:00,CUST-9549,New York,Computers & Accessories,Logitech MX Master 3S,99,3,Credit Card,Standard Delivery,4.0,297
+ELE-10567,2025-01-16 18:00:00,CUST-8575,Sydney,Audio & Wearables,Garmin Forerunner 265,449,1,Apple Pay,Standard Delivery,4.0,449
+ELE-10568,2025-01-16 18:40:00,CUST-1667,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,1,Credit Card,Standard Delivery,5.0,599
+ELE-10569,2025-01-16 19:20:00,CUST-5468,Tokyo,Computers & Accessories,MacBook Air M3,1099,2,Credit Card,Standard Delivery,4.0,2198
+ELE-10570,2025-01-16 20:00:00,CUST-7819,Tokyo,Audio & Wearables,Samsung Galaxy Watch 6,299,4,PayPal,Standard Delivery,5.0,1196
+ELE-10571,2025-01-16 20:40:00,CUST-4719,Dubai,Smartphones & Tablets,Google Pixel 8 Pro,899,3,PayPal,Standard Delivery,3.0,2697
+ELE-10572,2025-01-16 21:20:00,CUST-3745,Sydney,Audio & Wearables,Samsung Galaxy Watch 6,299,3,Google Pay,Standard Delivery,5.0,897
+ELE-10573,2025-01-16 22:00:00,CUST-8483,Dubai,Computers & Accessories,Samsung 4K Monitor,449,2,Debit Card,Standard Delivery,4.0,898
+ELE-10574,2025-01-16 22:40:00,CUST-1539,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,1,Google Pay,Standard Delivery,4.0,349
+ELE-10575,2025-01-16 23:20:00,CUST-5964,London,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Google Pay,Express Shipping,5.0,1798
+ELE-10576,2025-01-17 00:00:00,CUST-5835,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,2,PayPal,Express Shipping,2.0,1798
+ELE-10577,2025-01-17 00:40:00,CUST-4775,Berlin,Audio & Wearables,Bose QuietComfort Ultra,429,2,PayPal,Standard Delivery,1.0,858
+ELE-10578,2025-01-17 01:20:00,CUST-7042,London,Smartphones & Tablets,Xiaomi 14 Pro,749,2,PayPal,Standard Delivery,4.0,1498
+ELE-10579,2025-01-17 02:00:00,CUST-8102,Paris,Audio & Wearables,Bose QuietComfort Ultra,429,4,Google Pay,Standard Delivery,4.0,1716
+ELE-10580,2025-01-17 02:40:00,CUST-8312,Dubai,Audio & Wearables,Sony WH-1000XM5,399,4,Debit Card,Express Shipping,5.0,1596
+ELE-10581,2025-01-17 03:20:00,CUST-6320,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Standard Delivery,5.0,899
+ELE-10582,2025-01-17 04:00:00,CUST-7132,Paris,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Debit Card,Standard Delivery,4.0,3398
+ELE-10583,2025-01-17 04:40:00,CUST-8891,London,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Credit Card,Express Shipping,2.0,6796
+ELE-10584,2025-01-17 05:20:00,CUST-3779,Sydney,Computers & Accessories,ASUS ROG Zephyrus,1699,1,PayPal,Standard Delivery,4.0,1699
+ELE-10585,2025-01-17 06:00:00,CUST-1924,London,Smart Home & Gaming,Philips Hue Starter Kit,179,2,Credit Card,Express Shipping,5.0,358
+ELE-10586,2025-01-17 06:40:00,CUST-2581,Toronto,Smart Home & Gaming,Nintendo Switch OLED,349,3,Debit Card,Standard Delivery,4.0,1047
+ELE-10587,2025-01-17 07:20:00,CUST-8714,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,4,Apple Pay,Express Shipping,3.0,1796
+ELE-10588,2025-01-17 08:00:00,CUST-4324,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,1,Credit Card,Standard Delivery,4.0,449
+ELE-10589,2025-01-17 08:40:00,CUST-6713,Berlin,Computers & Accessories,Logitech MX Master 3S,99,3,Credit Card,Express Shipping,5.0,297
+ELE-10590,2025-01-17 09:20:00,CUST-8026,Tokyo,Smart Home & Gaming,PlayStation 5 Slim,499,2,Credit Card,Express Shipping,4.0,998
+ELE-10591,2025-01-17 10:00:00,CUST-1255,London,Audio & Wearables,Bose QuietComfort Ultra,429,2,Debit Card,Standard Delivery,5.0,858
+ELE-10592,2025-01-17 10:40:00,CUST-5804,Dubai,Audio & Wearables,Bose QuietComfort Ultra,429,2,Credit Card,Standard Delivery,4.0,858
+ELE-10593,2025-01-17 11:20:00,CUST-2838,London,Smart Home & Gaming,Philips Hue Starter Kit,179,4,Credit Card,Standard Delivery,3.0,716
+ELE-10594,2025-01-17 12:00:00,CUST-1009,London,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Express Shipping,4.0,749
+ELE-10595,2025-01-17 12:40:00,CUST-3871,Singapore,Smart Home & Gaming,Nintendo Switch OLED,349,3,PayPal,Express Shipping,4.0,1047
+ELE-10596,2025-01-17 13:20:00,CUST-9989,Dubai,Smartphones & Tablets,iPad Air 5th Gen,599,1,Credit Card,Standard Delivery,1.0,599
+ELE-10597,2025-01-17 14:00:00,CUST-8409,Toronto,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Debit Card,Express Shipping,3.0,3596
+ELE-10598,2025-01-17 14:40:00,CUST-8418,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Credit Card,Standard Delivery,3.0,1199
+ELE-10599,2025-01-17 15:20:00,CUST-6124,Dubai,Smart Home & Gaming,Xbox Series X,499,4,Debit Card,Standard Delivery,3.0,1996
+ELE-10600,2025-01-17 16:00:00,CUST-2015,Tokyo,Smart Home & Gaming,Nintendo Switch OLED,349,2,Credit Card,Same-Day Delivery,4.0,698
+ELE-10601,2025-01-17 16:40:00,CUST-3193,Berlin,Audio & Wearables,Apple AirPods Pro 2,249,3,PayPal,Express Shipping,,747
+ELE-10602,2025-01-17 17:20:00,CUST-9415,Dubai,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Credit Card,Standard Delivery,4.0,598
+ELE-10603,2025-01-17 18:00:00,CUST-8449,Tokyo,Computers & Accessories,Samsung 4K Monitor,449,1,Debit Card,Express Shipping,5.0,449
+ELE-10604,2025-01-17 18:40:00,CUST-5158,Toronto,Smart Home & Gaming,Amazon Echo Show 10,249,2,Google Pay,Same-Day Delivery,4.0,498
+ELE-10605,2025-01-17 19:20:00,CUST-4925,New York,Computers & Accessories,MacBook Air M3,1099,3,Google Pay,Express Shipping,4.0,3297
+ELE-10606,2025-01-17 20:00:00,CUST-7970,Paris,Computers & Accessories,Logitech MX Master 3S,99,2,PayPal,Express Shipping,1.0,198
+ELE-10607,2025-01-17 20:40:00,CUST-7938,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,3,PayPal,Express Shipping,4.0,1797
+ELE-10608,2025-01-17 21:20:00,CUST-5784,Toronto,Audio & Wearables,Samsung Galaxy Watch 6,299,3,Apple Pay,Standard Delivery,4.0,897
+ELE-10609,2025-01-17 22:00:00,CUST-5000,Singapore,Audio & Wearables,Bose QuietComfort Ultra,429,2,Debit Card,Express Shipping,3.0,858
+ELE-10610,2025-01-17 22:40:00,CUST-2633,New York,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Credit Card,Standard Delivery,5.0,6796
+ELE-10611,2025-01-17 23:20:00,CUST-8266,Berlin,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Apple Pay,Express Shipping,4.0,1199
+ELE-10612,2025-01-18 00:00:00,CUST-9702,Toronto,Smart Home & Gaming,Xbox Series X,499,4,PayPal,Standard Delivery,4.0,1996
+ELE-10613,2025-01-18 00:40:00,CUST-1384,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,4,Credit Card,Express Shipping,3.0,2396
+ELE-10614,2025-01-18 01:20:00,CUST-1404,Paris,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Credit Card,Standard Delivery,5.0,598
+ELE-10615,2025-01-18 02:00:00,CUST-9175,Paris,Smart Home & Gaming,Xbox Series X,499,1,Credit Card,Standard Delivery,5.0,499
+ELE-10616,2025-01-18 02:40:00,CUST-3000,Sydney,Computers & Accessories,ASUS ROG Zephyrus,1699,1,PayPal,Standard Delivery,4.0,1699
+ELE-10617,2025-01-18 03:20:00,CUST-6989,Toronto,Smartphones & Tablets,iPad Air 5th Gen,599,4,Credit Card,Same-Day Delivery,4.0,2396
+ELE-10618,2025-01-18 04:00:00,CUST-2460,London,Audio & Wearables,Bose QuietComfort Ultra,429,2,Credit Card,Same-Day Delivery,4.0,858
+ELE-10619,2025-01-18 04:40:00,CUST-8190,Berlin,Smart Home & Gaming,PlayStation 5 Slim,499,1,Credit Card,Standard Delivery,3.0,499
+ELE-10620,2025-01-18 05:20:00,CUST-8140,Paris,Computers & Accessories,Dell XPS 15,1499,4,PayPal,Same-Day Delivery,5.0,5996
+ELE-10621,2025-01-18 06:00:00,CUST-4636,Tokyo,Smart Home & Gaming,Amazon Echo Show 10,249,1,Debit Card,Express Shipping,5.0,249
+ELE-10622,2025-01-18 06:40:00,CUST-5809,Toronto,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Express Shipping,3.0,1998
+ELE-10623,2025-01-18 07:20:00,CUST-5178,Sydney,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Credit Card,Standard Delivery,2.0,3398
+ELE-10624,2025-01-18 08:00:00,CUST-8245,Toronto,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Credit Card,Same-Day Delivery,5.0,598
+ELE-10625,2025-01-18 08:40:00,CUST-7600,Berlin,Smart Home & Gaming,Amazon Echo Show 10,249,1,Google Pay,Express Shipping,4.0,249
+ELE-10626,2025-01-18 09:20:00,CUST-6997,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,3,PayPal,Express Shipping,3.0,1797
+ELE-10627,2025-01-18 10:00:00,CUST-3048,Berlin,Smart Home & Gaming,Philips Hue Starter Kit,179,1,PayPal,Express Shipping,5.0,179
+ELE-10628,2025-01-18 10:40:00,CUST-5780,Toronto,Computers & Accessories,Logitech MX Master 3S,99,3,Credit Card,Express Shipping,4.0,297
+ELE-10629,2025-01-18 11:20:00,CUST-1716,London,Computers & Accessories,MacBook Air M3,1099,2,Debit Card,Express Shipping,4.0,2198
+ELE-10630,2025-01-18 12:00:00,CUST-8939,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,4,PayPal,Standard Delivery,4.0,3596
+ELE-10631,2025-01-18 12:40:00,CUST-6565,Sydney,Smart Home & Gaming,Xbox Series X,499,3,Credit Card,Standard Delivery,5.0,1497
+ELE-10632,2025-01-18 13:20:00,CUST-5544,Sydney,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Credit Card,Standard Delivery,4.0,1798
+ELE-10633,2025-01-18 14:00:00,CUST-5976,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Standard Delivery,,1198
+ELE-10634,2025-01-18 14:40:00,CUST-4419,Toronto,Smartphones & Tablets,iPad Air 5th Gen,599,3,Apple Pay,Express Shipping,5.0,1797
+ELE-10635,2025-01-18 15:20:00,CUST-8239,Singapore,Smart Home & Gaming,Philips Hue Starter Kit,179,4,Apple Pay,Express Shipping,3.0,716
+ELE-10636,2025-01-18 16:00:00,CUST-1249,Toronto,Audio & Wearables,Garmin Forerunner 265,449,2,PayPal,Express Shipping,4.0,898
+ELE-10637,2025-01-18 16:40:00,CUST-9865,Berlin,Audio & Wearables,Garmin Forerunner 265,449,3,Debit Card,Standard Delivery,4.0,1347
+ELE-10638,2025-01-18 17:20:00,CUST-1770,New York,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Standard Delivery,4.0,3996
+ELE-10639,2025-01-18 18:00:00,CUST-5363,Berlin,Audio & Wearables,Garmin Forerunner 265,449,4,PayPal,Standard Delivery,5.0,1796
+ELE-10640,2025-01-18 18:40:00,CUST-2077,London,Computers & Accessories,MacBook Air M3,1099,2,Debit Card,Standard Delivery,5.0,2198
+ELE-10641,2025-01-18 19:20:00,CUST-9427,Berlin,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Credit Card,Standard Delivery,2.0,179
+ELE-10642,2025-01-18 20:00:00,CUST-9580,Berlin,Smart Home & Gaming,PlayStation 5 Slim,499,1,Apple Pay,Express Shipping,5.0,499
+ELE-10643,2025-01-18 20:40:00,CUST-8901,London,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Credit Card,Standard Delivery,1.0,1798
+ELE-10644,2025-01-18 21:20:00,CUST-5858,Berlin,Audio & Wearables,Bose QuietComfort Ultra,429,4,Credit Card,Express Shipping,5.0,1716
+ELE-10645,2025-01-18 22:00:00,CUST-7544,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,2,PayPal,Standard Delivery,5.0,1198
+ELE-10646,2025-01-18 22:40:00,CUST-5719,New York,Computers & Accessories,MacBook Air M3,1099,3,PayPal,Express Shipping,4.0,3297
+ELE-10647,2025-01-18 23:20:00,CUST-3814,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Debit Card,Express Shipping,4.0,1199
+ELE-10648,2025-01-19 00:00:00,CUST-4374,New York,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Same-Day Delivery,5.0,1797
+ELE-10649,2025-01-19 00:40:00,CUST-2252,Berlin,Computers & Accessories,Logitech MX Master 3S,99,2,Apple Pay,Express Shipping,5.0,198
+ELE-10650,2025-01-19 01:20:00,CUST-7996,Paris,Audio & Wearables,Sony WH-1000XM5,399,2,PayPal,Same-Day Delivery,4.0,798
+ELE-10651,2025-01-19 02:00:00,CUST-5673,Toronto,Smartphones & Tablets,Xiaomi 14 Pro,749,4,PayPal,Express Shipping,4.0,2996
+ELE-10652,2025-01-19 02:40:00,CUST-5530,Berlin,Audio & Wearables,Apple AirPods Pro 2,249,4,Google Pay,Express Shipping,5.0,996
+ELE-10653,2025-01-19 03:20:00,CUST-7881,Paris,Computers & Accessories,Logitech MX Master 3S,99,4,Debit Card,Standard Delivery,1.0,396
+ELE-10654,2025-01-19 04:00:00,CUST-7949,London,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Standard Delivery,3.0,1797
+ELE-10655,2025-01-19 04:40:00,CUST-7241,Paris,Audio & Wearables,Sony WH-1000XM5,399,4,Debit Card,Standard Delivery,3.0,1596
+ELE-10656,2025-01-19 05:20:00,CUST-9017,London,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Credit Card,Express Shipping,3.0,2398
+ELE-10657,2025-01-19 06:00:00,CUST-7941,Singapore,Computers & Accessories,MacBook Air M3,1099,4,Credit Card,Standard Delivery,4.0,4396
+ELE-10658,2025-01-19 06:40:00,CUST-8002,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,1,PayPal,Express Shipping,,449
+ELE-10659,2025-01-19 07:20:00,CUST-2331,Dubai,Smartphones & Tablets,iPad Air 5th Gen,599,4,Google Pay,Same-Day Delivery,5.0,2396
+ELE-10660,2025-01-19 08:00:00,CUST-5261,Paris,Smartphones & Tablets,iPhone 15 Pro,999,3,Credit Card,Standard Delivery,2.0,2997
+ELE-10661,2025-01-19 08:40:00,CUST-8648,Sydney,Computers & Accessories,Logitech MX Master 3S,99,1,Debit Card,Standard Delivery,4.0,99
+ELE-10662,2025-01-19 09:20:00,CUST-6115,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,1,Credit Card,Same-Day Delivery,4.0,349
+ELE-10663,2025-01-19 10:00:00,CUST-5637,New York,Audio & Wearables,Bose QuietComfort Ultra,429,1,Debit Card,Standard Delivery,3.0,429
+ELE-10664,2025-01-19 10:40:00,CUST-5854,Dubai,Audio & Wearables,Sony WH-1000XM5,399,3,PayPal,Express Shipping,5.0,1197
+ELE-10665,2025-01-19 11:20:00,CUST-4177,New York,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Debit Card,Standard Delivery,4.0,598
+ELE-10666,2025-01-19 12:00:00,CUST-8730,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Express Shipping,,3596
+ELE-10667,2025-01-19 12:40:00,CUST-3180,Dubai,Computers & Accessories,Samsung 4K Monitor,449,1,Debit Card,Standard Delivery,4.0,449
+ELE-10668,2025-01-19 13:20:00,CUST-5892,Dubai,Audio & Wearables,Garmin Forerunner 265,449,1,Google Pay,Express Shipping,5.0,449
+ELE-10669,2025-01-19 14:00:00,CUST-8043,New York,Smartphones & Tablets,iPhone 15 Pro,999,1,Debit Card,Express Shipping,3.0,999
+ELE-10670,2025-01-19 14:40:00,CUST-1137,London,Smartphones & Tablets,iPad Air 5th Gen,599,2,PayPal,Standard Delivery,4.0,1198
+ELE-10671,2025-01-19 15:20:00,CUST-7327,New York,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Google Pay,Standard Delivery,4.0,2398
+ELE-10672,2025-01-19 16:00:00,CUST-4472,London,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Credit Card,Standard Delivery,5.0,5097
+ELE-10673,2025-01-19 16:40:00,CUST-6449,Singapore,Smart Home & Gaming,Philips Hue Starter Kit,179,2,Debit Card,Same-Day Delivery,5.0,358
+ELE-10674,2025-01-19 17:20:00,CUST-3832,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Apple Pay,Express Shipping,5.0,3596
+ELE-10675,2025-01-19 18:00:00,CUST-4579,Toronto,Computers & Accessories,Dell XPS 15,1499,3,Credit Card,Standard Delivery,5.0,4497
+ELE-10676,2025-01-19 18:40:00,CUST-6971,London,Smartphones & Tablets,iPhone 15 Pro,999,3,PayPal,Standard Delivery,5.0,2997
+ELE-10677,2025-01-19 19:20:00,CUST-5164,Singapore,Smart Home & Gaming,Xbox Series X,499,4,Credit Card,Standard Delivery,4.0,1996
+ELE-10678,2025-01-19 20:00:00,CUST-8941,Sydney,Smartphones & Tablets,iPhone 15 Pro,999,4,PayPal,Express Shipping,4.0,3996
+ELE-10679,2025-01-19 20:40:00,CUST-6569,Singapore,Computers & Accessories,Dell XPS 15,1499,4,PayPal,Express Shipping,5.0,5996
+ELE-10680,2025-01-19 21:20:00,CUST-5300,New York,Audio & Wearables,Sony WH-1000XM5,399,3,Credit Card,Standard Delivery,5.0,1197
+ELE-10681,2025-01-19 22:00:00,CUST-7269,New York,Audio & Wearables,Sony WH-1000XM5,399,3,PayPal,Express Shipping,5.0,1197
+ELE-10682,2025-01-19 22:40:00,CUST-4818,Toronto,Computers & Accessories,Dell XPS 15,1499,3,Credit Card,Express Shipping,4.0,4497
+ELE-10683,2025-01-19 23:20:00,CUST-2906,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Credit Card,Same-Day Delivery,3.0,4796
+ELE-10684,2025-01-20 00:00:00,CUST-7254,Tokyo,Computers & Accessories,MacBook Air M3,1099,4,Credit Card,Same-Day Delivery,5.0,4396
+ELE-10685,2025-01-20 00:40:00,CUST-1760,Berlin,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Apple Pay,Express Shipping,5.0,749
+ELE-10686,2025-01-20 01:20:00,CUST-8830,New York,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Credit Card,Express Shipping,3.0,2398
+ELE-10687,2025-01-20 02:00:00,CUST-8350,Toronto,Computers & Accessories,ASUS ROG Zephyrus,1699,1,Apple Pay,Standard Delivery,5.0,1699
+ELE-10688,2025-01-20 02:40:00,CUST-7238,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,4,PayPal,Express Shipping,5.0,3596
+ELE-10689,2025-01-20 03:20:00,CUST-7090,Singapore,Smartphones & Tablets,iPhone 15 Pro,999,3,Credit Card,Standard Delivery,3.0,2997
+ELE-10690,2025-01-20 04:00:00,CUST-7031,Singapore,Audio & Wearables,Sony WH-1000XM5,399,4,Debit Card,Standard Delivery,5.0,1596
+ELE-10691,2025-01-20 04:40:00,CUST-8687,Dubai,Smart Home & Gaming,Amazon Echo Show 10,249,2,PayPal,Standard Delivery,5.0,498
+ELE-10692,2025-01-20 05:20:00,CUST-9472,Toronto,Audio & Wearables,Garmin Forerunner 265,449,1,PayPal,Express Shipping,5.0,449
+ELE-10693,2025-01-20 06:00:00,CUST-2887,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Standard Delivery,5.0,899
+ELE-10694,2025-01-20 06:40:00,CUST-4266,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Credit Card,Standard Delivery,4.0,3597
+ELE-10695,2025-01-20 07:20:00,CUST-1666,Singapore,Smart Home & Gaming,Amazon Echo Show 10,249,1,Credit Card,Standard Delivery,4.0,249
+ELE-10696,2025-01-20 08:00:00,CUST-5188,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,1,Credit Card,Standard Delivery,1.0,999
+ELE-10697,2025-01-20 08:40:00,CUST-1671,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Standard Delivery,2.0,3596
+ELE-10698,2025-01-20 09:20:00,CUST-7777,New York,Computers & Accessories,ASUS ROG Zephyrus,1699,1,Credit Card,Express Shipping,4.0,1699
+ELE-10699,2025-01-20 10:00:00,CUST-8570,Berlin,Audio & Wearables,Apple AirPods Pro 2,249,1,Credit Card,Express Shipping,4.0,249
+ELE-10700,2025-01-20 10:40:00,CUST-8956,Paris,Audio & Wearables,Bose QuietComfort Ultra,429,1,Credit Card,Standard Delivery,3.0,429
+ELE-10701,2025-01-20 11:20:00,CUST-6124,Berlin,Smartphones & Tablets,iPhone 15 Pro,999,3,Credit Card,Express Shipping,4.0,2997
+ELE-10702,2025-01-20 12:00:00,CUST-6585,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Credit Card,Express Shipping,3.0,3597
+ELE-10703,2025-01-20 12:40:00,CUST-5777,Paris,Smart Home & Gaming,PlayStation 5 Slim,499,4,Google Pay,Standard Delivery,5.0,1996
+ELE-10704,2025-01-20 13:20:00,CUST-4900,Paris,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Express Shipping,4.0,749
+ELE-10705,2025-01-20 14:00:00,CUST-7677,Tokyo,Audio & Wearables,Samsung Galaxy Watch 6,299,3,PayPal,Same-Day Delivery,5.0,897
+ELE-10706,2025-01-20 14:40:00,CUST-7981,Toronto,Audio & Wearables,Garmin Forerunner 265,449,3,Credit Card,Standard Delivery,4.0,1347
+ELE-10707,2025-01-20 15:20:00,CUST-7376,Tokyo,Audio & Wearables,Samsung Galaxy Watch 6,299,4,Google Pay,Standard Delivery,2.0,1196
+ELE-10708,2025-01-20 16:00:00,CUST-1523,Tokyo,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Credit Card,Same-Day Delivery,5.0,1798
+ELE-10709,2025-01-20 16:40:00,CUST-3393,Berlin,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Google Pay,Express Shipping,4.0,1199
+ELE-10710,2025-01-20 17:20:00,CUST-3593,Berlin,Computers & Accessories,Logitech MX Master 3S,99,3,PayPal,Standard Delivery,4.0,297
+ELE-10711,2025-01-20 18:00:00,CUST-8240,Sydney,Smart Home & Gaming,Nintendo Switch OLED,349,4,Credit Card,Express Shipping,3.0,1396
+ELE-10712,2025-01-20 18:40:00,CUST-7937,Singapore,Smart Home & Gaming,Nintendo Switch OLED,349,4,Apple Pay,Standard Delivery,4.0,1396
+ELE-10713,2025-01-20 19:20:00,CUST-7190,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,4,PayPal,Express Shipping,1.0,2396
+ELE-10714,2025-01-20 20:00:00,CUST-6240,New York,Smartphones & Tablets,iPhone 15 Pro,999,3,Credit Card,Standard Delivery,4.0,2997
+ELE-10715,2025-01-20 20:40:00,CUST-7493,Singapore,Smart Home & Gaming,Xbox Series X,499,1,Debit Card,Standard Delivery,4.0,499
+ELE-10716,2025-01-20 21:20:00,CUST-3878,Singapore,Audio & Wearables,Bose QuietComfort Ultra,429,2,Google Pay,Express Shipping,5.0,858
+ELE-10717,2025-01-20 22:00:00,CUST-5143,Dubai,Smart Home & Gaming,Amazon Echo Show 10,249,1,PayPal,Standard Delivery,5.0,249
+ELE-10718,2025-01-20 22:40:00,CUST-4644,Dubai,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Credit Card,Standard Delivery,3.0,2996
+ELE-10719,2025-01-20 23:20:00,CUST-5432,London,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Debit Card,Express Shipping,3.0,6796
+ELE-10720,2025-01-21 00:00:00,CUST-2276,London,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Debit Card,Express Shipping,4.0,598
+ELE-10721,2025-01-21 00:40:00,CUST-6811,Tokyo,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Apple Pay,Standard Delivery,3.0,299
+ELE-10722,2025-01-21 01:20:00,CUST-1302,New York,Computers & Accessories,Logitech MX Master 3S,99,4,Debit Card,Express Shipping,1.0,396
+ELE-10723,2025-01-21 02:00:00,CUST-1638,Paris,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Credit Card,Standard Delivery,5.0,2996
+ELE-10724,2025-01-21 02:40:00,CUST-1055,Paris,Computers & Accessories,MacBook Air M3,1099,1,Google Pay,Standard Delivery,1.0,1099
+ELE-10725,2025-01-21 03:20:00,CUST-9717,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Credit Card,Standard Delivery,5.0,4796
+ELE-10726,2025-01-21 04:00:00,CUST-9150,Dubai,Computers & Accessories,MacBook Air M3,1099,1,Credit Card,Standard Delivery,3.0,1099
+ELE-10727,2025-01-21 04:40:00,CUST-3125,Dubai,Smart Home & Gaming,Amazon Echo Show 10,249,4,PayPal,Express Shipping,,996
+ELE-10728,2025-01-21 05:20:00,CUST-1364,Toronto,Computers & Accessories,ASUS ROG Zephyrus,1699,1,PayPal,Standard Delivery,5.0,1699
+ELE-10729,2025-01-21 06:00:00,CUST-7809,London,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Express Shipping,5.0,998
+ELE-10730,2025-01-21 06:40:00,CUST-5621,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Debit Card,Standard Delivery,3.0,3596
+ELE-10731,2025-01-21 07:20:00,CUST-6126,Paris,Audio & Wearables,Bose QuietComfort Ultra,429,2,Credit Card,Same-Day Delivery,5.0,858
+ELE-10732,2025-01-21 08:00:00,CUST-6122,Singapore,Smart Home & Gaming,Amazon Echo Show 10,249,4,PayPal,Express Shipping,5.0,996
+ELE-10733,2025-01-21 08:40:00,CUST-2646,London,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Apple Pay,Express Shipping,5.0,4796
+ELE-10734,2025-01-21 09:20:00,CUST-1918,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Credit Card,Standard Delivery,4.0,3597
+ELE-10735,2025-01-21 10:00:00,CUST-3797,Berlin,Computers & Accessories,Samsung 4K Monitor,449,1,Credit Card,Standard Delivery,5.0,449
+ELE-10736,2025-01-21 10:40:00,CUST-7506,London,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Standard Delivery,1.0,1498
+ELE-10737,2025-01-21 11:20:00,CUST-6870,New York,Audio & Wearables,Sony WH-1000XM5,399,2,Google Pay,Same-Day Delivery,5.0,798
+ELE-10738,2025-01-21 12:00:00,CUST-2531,Singapore,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Standard Delivery,5.0,998
+ELE-10739,2025-01-21 12:40:00,CUST-9172,London,Computers & Accessories,Dell XPS 15,1499,1,Credit Card,Express Shipping,4.0,1499
+ELE-10740,2025-01-21 13:20:00,CUST-4345,Toronto,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,PayPal,Express Shipping,3.0,3597
+ELE-10741,2025-01-21 14:00:00,CUST-8673,Dubai,Computers & Accessories,Samsung 4K Monitor,449,2,PayPal,Standard Delivery,4.0,898
+ELE-10742,2025-01-21 14:40:00,CUST-7949,Dubai,Audio & Wearables,Bose QuietComfort Ultra,429,1,Credit Card,Express Shipping,5.0,429
+ELE-10743,2025-01-21 15:20:00,CUST-7882,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,4,PayPal,Express Shipping,3.0,2396
+ELE-10744,2025-01-21 16:00:00,CUST-2906,Dubai,Computers & Accessories,Samsung 4K Monitor,449,2,Credit Card,Express Shipping,4.0,898
+ELE-10745,2025-01-21 16:40:00,CUST-4086,London,Audio & Wearables,Apple AirPods Pro 2,249,2,Google Pay,Standard Delivery,3.0,498
+ELE-10746,2025-01-21 17:20:00,CUST-9152,Sydney,Audio & Wearables,Garmin Forerunner 265,449,3,Credit Card,Standard Delivery,5.0,1347
+ELE-10747,2025-01-21 18:00:00,CUST-6750,Paris,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Standard Delivery,2.0,1998
+ELE-10748,2025-01-21 18:40:00,CUST-9905,Paris,Audio & Wearables,Apple AirPods Pro 2,249,2,PayPal,Express Shipping,5.0,498
+ELE-10749,2025-01-21 19:20:00,CUST-2062,Berlin,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Express Shipping,4.0,3996
+ELE-10750,2025-01-21 20:00:00,CUST-2976,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Debit Card,Standard Delivery,5.0,1199
+ELE-10751,2025-01-21 20:40:00,CUST-2296,New York,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Credit Card,Same-Day Delivery,,179
+ELE-10752,2025-01-21 21:20:00,CUST-7229,Singapore,Audio & Wearables,Bose QuietComfort Ultra,429,3,Credit Card,Standard Delivery,3.0,1287
+ELE-10753,2025-01-21 22:00:00,CUST-8641,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,4,Debit Card,Express Shipping,4.0,2396
+ELE-10754,2025-01-21 22:40:00,CUST-1125,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,1,PayPal,Same-Day Delivery,5.0,999
+ELE-10755,2025-01-21 23:20:00,CUST-5632,Toronto,Smartphones & Tablets,Xiaomi 14 Pro,749,4,PayPal,Express Shipping,4.0,2996
+ELE-10756,2025-01-22 00:00:00,CUST-7288,Toronto,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Express Shipping,4.0,899
+ELE-10757,2025-01-22 00:40:00,CUST-4596,New York,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Credit Card,Standard Delivery,5.0,2996
+ELE-10758,2025-01-22 01:20:00,CUST-7168,Dubai,Smartphones & Tablets,iPhone 15 Pro,999,3,Credit Card,Standard Delivery,,2997
+ELE-10759,2025-01-22 02:00:00,CUST-8561,London,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Credit Card,Express Shipping,5.0,3398
+ELE-10760,2025-01-22 02:40:00,CUST-9258,Berlin,Audio & Wearables,Garmin Forerunner 265,449,3,PayPal,Standard Delivery,4.0,1347
+ELE-10761,2025-01-22 03:20:00,CUST-1232,Berlin,Audio & Wearables,Apple AirPods Pro 2,249,1,Apple Pay,Standard Delivery,4.0,249
+ELE-10762,2025-01-22 04:00:00,CUST-7371,Singapore,Audio & Wearables,Bose QuietComfort Ultra,429,3,Credit Card,Express Shipping,3.0,1287
+ELE-10763,2025-01-22 04:40:00,CUST-5206,Singapore,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Standard Delivery,5.0,1498
+ELE-10764,2025-01-22 05:20:00,CUST-8943,Toronto,Smart Home & Gaming,Amazon Echo Show 10,249,3,Credit Card,Same-Day Delivery,5.0,747
+ELE-10765,2025-01-22 06:00:00,CUST-7891,Toronto,Smart Home & Gaming,Xbox Series X,499,1,Credit Card,Express Shipping,5.0,499
+ELE-10766,2025-01-22 06:40:00,CUST-7738,Sydney,Smart Home & Gaming,Nintendo Switch OLED,349,1,Credit Card,Express Shipping,1.0,349
+ELE-10767,2025-01-22 07:20:00,CUST-3472,Sydney,Smart Home & Gaming,Nintendo Switch OLED,349,3,Google Pay,Express Shipping,5.0,1047
+ELE-10768,2025-01-22 08:00:00,CUST-3739,Dubai,Smart Home & Gaming,Xbox Series X,499,2,Debit Card,Express Shipping,4.0,998
+ELE-10769,2025-01-22 08:40:00,CUST-6401,Sydney,Computers & Accessories,Logitech MX Master 3S,99,3,Google Pay,Express Shipping,4.0,297
+ELE-10770,2025-01-22 09:20:00,CUST-2761,London,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Apple Pay,Express Shipping,5.0,1498
+ELE-10771,2025-01-22 10:00:00,CUST-1876,London,Audio & Wearables,Apple AirPods Pro 2,249,4,PayPal,Standard Delivery,3.0,996
+ELE-10772,2025-01-22 10:40:00,CUST-4812,Berlin,Audio & Wearables,Sony WH-1000XM5,399,2,PayPal,Express Shipping,5.0,798
+ELE-10773,2025-01-22 11:20:00,CUST-2460,Paris,Audio & Wearables,Bose QuietComfort Ultra,429,4,Credit Card,Express Shipping,5.0,1716
+ELE-10774,2025-01-22 12:00:00,CUST-2733,London,Computers & Accessories,ASUS ROG Zephyrus,1699,3,PayPal,Standard Delivery,,5097
+ELE-10775,2025-01-22 12:40:00,CUST-2605,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Google Pay,Standard Delivery,5.0,2398
+ELE-10776,2025-01-22 13:20:00,CUST-6622,Toronto,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Credit Card,Express Shipping,5.0,6796
+ELE-10777,2025-01-22 14:00:00,CUST-7767,Singapore,Smart Home & Gaming,Amazon Echo Show 10,249,4,Apple Pay,Standard Delivery,4.0,996
+ELE-10778,2025-01-22 14:40:00,CUST-7986,Sydney,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Credit Card,Same-Day Delivery,3.0,6796
+ELE-10779,2025-01-22 15:20:00,CUST-4517,Berlin,Computers & Accessories,Dell XPS 15,1499,1,Apple Pay,Same-Day Delivery,4.0,1499
+ELE-10780,2025-01-22 16:00:00,CUST-4735,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Google Pay,Standard Delivery,4.0,2697
+ELE-10781,2025-01-22 16:40:00,CUST-9434,Singapore,Computers & Accessories,MacBook Air M3,1099,4,Debit Card,Express Shipping,5.0,4396
+ELE-10782,2025-01-22 17:20:00,CUST-3590,Tokyo,Smart Home & Gaming,Xbox Series X,499,2,Debit Card,Standard Delivery,5.0,998
+ELE-10783,2025-01-22 18:00:00,CUST-2063,Sydney,Audio & Wearables,Garmin Forerunner 265,449,4,PayPal,Express Shipping,4.0,1796
+ELE-10784,2025-01-22 18:40:00,CUST-5324,Tokyo,Audio & Wearables,Apple AirPods Pro 2,249,1,Apple Pay,Standard Delivery,4.0,249
+ELE-10785,2025-01-22 19:20:00,CUST-6342,Toronto,Computers & Accessories,Logitech MX Master 3S,99,3,Google Pay,Express Shipping,3.0,297
+ELE-10786,2025-01-22 20:00:00,CUST-1005,Toronto,Audio & Wearables,Apple AirPods Pro 2,249,1,Debit Card,Standard Delivery,5.0,249
+ELE-10787,2025-01-22 20:40:00,CUST-8489,Dubai,Smartphones & Tablets,iPhone 15 Pro,999,1,PayPal,Standard Delivery,5.0,999
+ELE-10788,2025-01-22 21:20:00,CUST-9659,Berlin,Audio & Wearables,Sony WH-1000XM5,399,1,PayPal,Standard Delivery,5.0,399
+ELE-10789,2025-01-22 22:00:00,CUST-9195,Singapore,Computers & Accessories,Samsung 4K Monitor,449,2,Apple Pay,Standard Delivery,4.0,898
+ELE-10790,2025-01-22 22:40:00,CUST-6966,Singapore,Computers & Accessories,ASUS ROG Zephyrus,1699,3,PayPal,Express Shipping,4.0,5097
+ELE-10791,2025-01-22 23:20:00,CUST-9837,New York,Audio & Wearables,Bose QuietComfort Ultra,429,3,Apple Pay,Standard Delivery,5.0,1287
+ELE-10792,2025-01-23 00:00:00,CUST-1117,Berlin,Smart Home & Gaming,Amazon Echo Show 10,249,2,PayPal,Standard Delivery,5.0,498
+ELE-10793,2025-01-23 00:40:00,CUST-3551,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Express Shipping,4.0,1797
+ELE-10794,2025-01-23 01:20:00,CUST-6560,New York,Smart Home & Gaming,PlayStation 5 Slim,499,1,Credit Card,Express Shipping,5.0,499
+ELE-10795,2025-01-23 02:00:00,CUST-5289,Paris,Smartphones & Tablets,iPhone 15 Pro,999,3,PayPal,Express Shipping,4.0,2997
+ELE-10796,2025-01-23 02:40:00,CUST-1846,Singapore,Computers & Accessories,Dell XPS 15,1499,2,Credit Card,Same-Day Delivery,5.0,2998
+ELE-10797,2025-01-23 03:20:00,CUST-7316,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Standard Delivery,5.0,749
+ELE-10798,2025-01-23 04:00:00,CUST-7469,London,Smartphones & Tablets,Xiaomi 14 Pro,749,2,PayPal,Standard Delivery,5.0,1498
+ELE-10799,2025-01-23 04:40:00,CUST-9915,Dubai,Computers & Accessories,Samsung 4K Monitor,449,4,Credit Card,Express Shipping,4.0,1796
+ELE-10800,2025-01-23 05:20:00,CUST-1224,Berlin,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Credit Card,Express Shipping,4.0,1199
+ELE-10801,2025-01-23 06:00:00,CUST-5208,Toronto,Computers & Accessories,Samsung 4K Monitor,449,1,Debit Card,Same-Day Delivery,5.0,449
+ELE-10802,2025-01-23 06:40:00,CUST-7283,London,Smart Home & Gaming,Nintendo Switch OLED,349,3,Google Pay,Standard Delivery,5.0,1047
+ELE-10803,2025-01-23 07:20:00,CUST-3048,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Debit Card,Standard Delivery,5.0,1199
+ELE-10804,2025-01-23 08:00:00,CUST-7233,Dubai,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Google Pay,Standard Delivery,5.0,598
+ELE-10805,2025-01-23 08:40:00,CUST-2828,Paris,Computers & Accessories,Dell XPS 15,1499,3,Debit Card,Express Shipping,3.0,4497
+ELE-10806,2025-01-23 09:20:00,CUST-2917,Paris,Audio & Wearables,Garmin Forerunner 265,449,4,Credit Card,Express Shipping,,1796
+ELE-10807,2025-01-23 10:00:00,CUST-5234,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,2,Debit Card,Standard Delivery,5.0,1198
+ELE-10808,2025-01-23 10:40:00,CUST-7988,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,4,Debit Card,Standard Delivery,4.0,2396
+ELE-10809,2025-01-23 11:20:00,CUST-3026,New York,Smartphones & Tablets,iPad Air 5th Gen,599,4,Credit Card,Express Shipping,5.0,2396
+ELE-10810,2025-01-23 12:00:00,CUST-4744,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Credit Card,Express Shipping,2.0,4796
+ELE-10811,2025-01-23 12:40:00,CUST-1009,London,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Debit Card,Standard Delivery,2.0,899
+ELE-10812,2025-01-23 13:20:00,CUST-1260,Berlin,Audio & Wearables,Garmin Forerunner 265,449,2,Credit Card,Express Shipping,4.0,898
+ELE-10813,2025-01-23 14:00:00,CUST-7038,Dubai,Smart Home & Gaming,Nintendo Switch OLED,349,2,PayPal,Express Shipping,5.0,698
+ELE-10814,2025-01-23 14:40:00,CUST-3219,Paris,Smart Home & Gaming,Amazon Echo Show 10,249,1,Credit Card,Express Shipping,5.0,249
+ELE-10815,2025-01-23 15:20:00,CUST-8041,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,3,PayPal,Express Shipping,5.0,1347
+ELE-10816,2025-01-23 16:00:00,CUST-3060,Toronto,Smartphones & Tablets,Xiaomi 14 Pro,749,4,PayPal,Standard Delivery,4.0,2996
+ELE-10817,2025-01-23 16:40:00,CUST-6287,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Standard Delivery,4.0,1198
+ELE-10818,2025-01-23 17:20:00,CUST-2619,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,1,Credit Card,Express Shipping,3.0,599
+ELE-10819,2025-01-23 18:00:00,CUST-9512,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,PayPal,Standard Delivery,3.0,4796
+ELE-10820,2025-01-23 18:40:00,CUST-2342,Berlin,Computers & Accessories,Logitech MX Master 3S,99,3,Apple Pay,Express Shipping,5.0,297
+ELE-10821,2025-01-23 19:20:00,CUST-3832,Paris,Computers & Accessories,Logitech MX Master 3S,99,3,Apple Pay,Express Shipping,5.0,297
+ELE-10822,2025-01-23 20:00:00,CUST-3824,Paris,Computers & Accessories,ASUS ROG Zephyrus,1699,4,PayPal,Express Shipping,4.0,6796
+ELE-10823,2025-01-23 20:40:00,CUST-2994,Paris,Computers & Accessories,Samsung 4K Monitor,449,3,Debit Card,Standard Delivery,5.0,1347
+ELE-10824,2025-01-23 21:20:00,CUST-4490,Singapore,Smart Home & Gaming,Nintendo Switch OLED,349,2,Credit Card,Standard Delivery,5.0,698
+ELE-10825,2025-01-23 22:00:00,CUST-8984,Sydney,Audio & Wearables,Garmin Forerunner 265,449,2,Credit Card,Express Shipping,3.0,898
+ELE-10826,2025-01-23 22:40:00,CUST-2604,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Standard Delivery,5.0,1498
+ELE-10827,2025-01-23 23:20:00,CUST-1235,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,3,PayPal,Express Shipping,5.0,1047
+ELE-10828,2025-01-24 00:00:00,CUST-2908,Sydney,Smart Home & Gaming,PlayStation 5 Slim,499,2,Credit Card,Express Shipping,5.0,998
+ELE-10829,2025-01-24 00:40:00,CUST-9567,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Standard Delivery,4.0,899
+ELE-10830,2025-01-24 01:20:00,CUST-4530,Sydney,Computers & Accessories,Samsung 4K Monitor,449,2,Debit Card,Express Shipping,5.0,898
+ELE-10831,2025-01-24 02:00:00,CUST-6256,Singapore,Computers & Accessories,Samsung 4K Monitor,449,2,Debit Card,Standard Delivery,5.0,898
+ELE-10832,2025-01-24 02:40:00,CUST-3635,Toronto,Smart Home & Gaming,PlayStation 5 Slim,499,3,Credit Card,Standard Delivery,3.0,1497
+ELE-10833,2025-01-24 03:20:00,CUST-9162,Berlin,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Same-Day Delivery,4.0,998
+ELE-10834,2025-01-24 04:00:00,CUST-3560,Sydney,Smartphones & Tablets,iPhone 15 Pro,999,4,PayPal,Same-Day Delivery,3.0,3996
+ELE-10835,2025-01-24 04:40:00,CUST-6415,Paris,Computers & Accessories,MacBook Air M3,1099,1,PayPal,Standard Delivery,5.0,1099
+ELE-10836,2025-01-24 05:20:00,CUST-4391,Dubai,Computers & Accessories,Samsung 4K Monitor,449,3,Debit Card,Same-Day Delivery,4.0,1347
+ELE-10837,2025-01-24 06:00:00,CUST-6951,Paris,Computers & Accessories,Logitech MX Master 3S,99,1,Credit Card,Standard Delivery,5.0,99
+ELE-10838,2025-01-24 06:40:00,CUST-6468,New York,Smartphones & Tablets,iPhone 15 Pro,999,4,Debit Card,Standard Delivery,4.0,3996
+ELE-10839,2025-01-24 07:20:00,CUST-9007,Toronto,Smart Home & Gaming,Xbox Series X,499,3,Apple Pay,Standard Delivery,3.0,1497
+ELE-10840,2025-01-24 08:00:00,CUST-7413,Toronto,Audio & Wearables,Samsung Galaxy Watch 6,299,3,Credit Card,Same-Day Delivery,2.0,897
+ELE-10841,2025-01-24 08:40:00,CUST-7941,Paris,Smart Home & Gaming,PlayStation 5 Slim,499,2,Google Pay,Standard Delivery,4.0,998
+ELE-10842,2025-01-24 09:20:00,CUST-5820,Tokyo,Smart Home & Gaming,PlayStation 5 Slim,499,1,Credit Card,Express Shipping,4.0,499
+ELE-10843,2025-01-24 10:00:00,CUST-3898,Singapore,Audio & Wearables,Apple AirPods Pro 2,249,4,Credit Card,Express Shipping,5.0,996
+ELE-10844,2025-01-24 10:40:00,CUST-8546,Berlin,Computers & Accessories,Logitech MX Master 3S,99,4,PayPal,Express Shipping,1.0,396
+ELE-10845,2025-01-24 11:20:00,CUST-1077,Toronto,Audio & Wearables,Sony WH-1000XM5,399,3,Credit Card,Standard Delivery,4.0,1197
+ELE-10846,2025-01-24 12:00:00,CUST-8577,Paris,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Standard Delivery,4.0,1998
+ELE-10847,2025-01-24 12:40:00,CUST-5227,Paris,Audio & Wearables,Bose QuietComfort Ultra,429,3,PayPal,Standard Delivery,5.0,1287
+ELE-10848,2025-01-24 13:20:00,CUST-1600,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Debit Card,Express Shipping,5.0,3597
+ELE-10849,2025-01-24 14:00:00,CUST-2065,Singapore,Audio & Wearables,Sony WH-1000XM5,399,3,Google Pay,Express Shipping,5.0,1197
+ELE-10850,2025-01-24 14:40:00,CUST-3136,London,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Debit Card,Express Shipping,,2697
+ELE-10851,2025-01-24 15:20:00,CUST-7943,London,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Express Shipping,3.0,3996
+ELE-10852,2025-01-24 16:00:00,CUST-8804,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,4,Debit Card,Standard Delivery,4.0,2396
+ELE-10853,2025-01-24 16:40:00,CUST-7565,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,3,PayPal,Express Shipping,4.0,2247
+ELE-10854,2025-01-24 17:20:00,CUST-6984,New York,Audio & Wearables,Samsung Galaxy Watch 6,299,3,Apple Pay,Express Shipping,4.0,897
+ELE-10855,2025-01-24 18:00:00,CUST-6142,Tokyo,Audio & Wearables,Sony WH-1000XM5,399,2,Apple Pay,Standard Delivery,5.0,798
+ELE-10856,2025-01-24 18:40:00,CUST-5670,Sydney,Computers & Accessories,Dell XPS 15,1499,3,Apple Pay,Standard Delivery,4.0,4497
+ELE-10857,2025-01-24 19:20:00,CUST-3190,Singapore,Smartphones & Tablets,Xiaomi 14 Pro,749,4,PayPal,Express Shipping,4.0,2996
+ELE-10858,2025-01-24 20:00:00,CUST-3712,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,1,Debit Card,Express Shipping,4.0,599
+ELE-10859,2025-01-24 20:40:00,CUST-3192,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Standard Delivery,,3596
+ELE-10860,2025-01-24 21:20:00,CUST-2248,Paris,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Google Pay,Express Shipping,5.0,2398
+ELE-10861,2025-01-24 22:00:00,CUST-5033,Tokyo,Smart Home & Gaming,Nintendo Switch OLED,349,4,Credit Card,Standard Delivery,4.0,1396
+ELE-10862,2025-01-24 22:40:00,CUST-2997,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Standard Delivery,3.0,899
+ELE-10863,2025-01-24 23:20:00,CUST-4687,Toronto,Computers & Accessories,MacBook Air M3,1099,3,Credit Card,Express Shipping,5.0,3297
+ELE-10864,2025-01-25 00:00:00,CUST-5018,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Debit Card,Express Shipping,,899
+ELE-10865,2025-01-25 00:40:00,CUST-2970,Toronto,Smartphones & Tablets,iPad Air 5th Gen,599,3,PayPal,Express Shipping,4.0,1797
+ELE-10866,2025-01-25 01:20:00,CUST-9389,New York,Computers & Accessories,ASUS ROG Zephyrus,1699,3,PayPal,Standard Delivery,4.0,5097
+ELE-10867,2025-01-25 02:00:00,CUST-6765,London,Audio & Wearables,Sony WH-1000XM5,399,4,Google Pay,Standard Delivery,5.0,1596
+ELE-10868,2025-01-25 02:40:00,CUST-2202,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Google Pay,Standard Delivery,5.0,3596
+ELE-10869,2025-01-25 03:20:00,CUST-9135,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Standard Delivery,4.0,3596
+ELE-10870,2025-01-25 04:00:00,CUST-6567,Dubai,Computers & Accessories,MacBook Air M3,1099,2,Credit Card,Standard Delivery,5.0,2198
+ELE-10871,2025-01-25 04:40:00,CUST-8667,Sydney,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Apple Pay,Standard Delivery,5.0,3596
+ELE-10872,2025-01-25 05:20:00,CUST-6742,New York,Smartphones & Tablets,iPhone 15 Pro,999,2,Google Pay,Standard Delivery,5.0,1998
+ELE-10873,2025-01-25 06:00:00,CUST-6788,New York,Smart Home & Gaming,Xbox Series X,499,4,PayPal,Standard Delivery,5.0,1996
+ELE-10874,2025-01-25 06:40:00,CUST-6408,Sydney,Audio & Wearables,Samsung Galaxy Watch 6,299,3,PayPal,Express Shipping,5.0,897
+ELE-10875,2025-01-25 07:20:00,CUST-9669,Paris,Computers & Accessories,Dell XPS 15,1499,2,Credit Card,Standard Delivery,3.0,2998
+ELE-10876,2025-01-25 08:00:00,CUST-1922,Paris,Computers & Accessories,Samsung 4K Monitor,449,1,Apple Pay,Standard Delivery,5.0,449
+ELE-10877,2025-01-25 08:40:00,CUST-1419,Sydney,Computers & Accessories,Samsung 4K Monitor,449,2,PayPal,Express Shipping,4.0,898
+ELE-10878,2025-01-25 09:20:00,CUST-3204,Toronto,Computers & Accessories,Samsung 4K Monitor,449,2,PayPal,Standard Delivery,5.0,898
+ELE-10879,2025-01-25 10:00:00,CUST-2120,Dubai,Audio & Wearables,Sony WH-1000XM5,399,1,Credit Card,Express Shipping,4.0,399
+ELE-10880,2025-01-25 10:40:00,CUST-1950,Berlin,Audio & Wearables,Bose QuietComfort Ultra,429,2,Google Pay,Standard Delivery,5.0,858
+ELE-10881,2025-01-25 11:20:00,CUST-3336,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,PayPal,Standard Delivery,4.0,3597
+ELE-10882,2025-01-25 12:00:00,CUST-6373,Paris,Computers & Accessories,Dell XPS 15,1499,4,Credit Card,Standard Delivery,4.0,5996
+ELE-10883,2025-01-25 12:40:00,CUST-3243,London,Computers & Accessories,Dell XPS 15,1499,1,PayPal,Standard Delivery,3.0,1499
+ELE-10884,2025-01-25 13:20:00,CUST-3645,Tokyo,Smart Home & Gaming,Xbox Series X,499,4,Debit Card,Express Shipping,5.0,1996
+ELE-10885,2025-01-25 14:00:00,CUST-5612,New York,Audio & Wearables,Garmin Forerunner 265,449,3,PayPal,Same-Day Delivery,5.0,1347
+ELE-10886,2025-01-25 14:40:00,CUST-2865,Sydney,Computers & Accessories,Dell XPS 15,1499,1,Debit Card,Standard Delivery,5.0,1499
+ELE-10887,2025-01-25 15:20:00,CUST-7028,Sydney,Smartphones & Tablets,Google Pixel 8 Pro,899,4,PayPal,Standard Delivery,4.0,3596
+ELE-10888,2025-01-25 16:00:00,CUST-8326,New York,Audio & Wearables,Garmin Forerunner 265,449,4,Google Pay,Express Shipping,2.0,1796
+ELE-10889,2025-01-25 16:40:00,CUST-7371,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Credit Card,Standard Delivery,5.0,3597
+ELE-10890,2025-01-25 17:20:00,CUST-7359,Berlin,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Express Shipping,5.0,3996
+ELE-10891,2025-01-25 18:00:00,CUST-8863,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Standard Delivery,5.0,1797
+ELE-10892,2025-01-25 18:40:00,CUST-4228,Tokyo,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Debit Card,Same-Day Delivery,5.0,598
+ELE-10893,2025-01-25 19:20:00,CUST-4719,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,3,PayPal,Standard Delivery,5.0,1797
+ELE-10894,2025-01-25 20:00:00,CUST-3371,Berlin,Computers & Accessories,Samsung 4K Monitor,449,2,Apple Pay,Standard Delivery,4.0,898
+ELE-10895,2025-01-25 20:40:00,CUST-3891,Berlin,Smart Home & Gaming,Xbox Series X,499,1,Debit Card,Express Shipping,5.0,499
+ELE-10896,2025-01-25 21:20:00,CUST-4756,Paris,Smartphones & Tablets,Xiaomi 14 Pro,749,4,PayPal,Express Shipping,5.0,2996
+ELE-10897,2025-01-25 22:00:00,CUST-5225,New York,Computers & Accessories,Logitech MX Master 3S,99,3,Google Pay,Standard Delivery,5.0,297
+ELE-10898,2025-01-25 22:40:00,CUST-1094,Berlin,Computers & Accessories,MacBook Air M3,1099,3,Credit Card,Express Shipping,5.0,3297
+ELE-10899,2025-01-25 23:20:00,CUST-3674,Berlin,Smartphones & Tablets,iPhone 15 Pro,999,4,Apple Pay,Express Shipping,2.0,3996
+ELE-10900,2025-01-26 00:00:00,CUST-7898,Paris,Audio & Wearables,Samsung Galaxy Watch 6,299,4,PayPal,Standard Delivery,4.0,1196
+ELE-10901,2025-01-26 00:40:00,CUST-1793,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,1,PayPal,Express Shipping,2.0,599
+ELE-10902,2025-01-26 01:20:00,CUST-3116,Paris,Computers & Accessories,ASUS ROG Zephyrus,1699,1,Debit Card,Standard Delivery,3.0,1699
+ELE-10903,2025-01-26 02:00:00,CUST-6779,Toronto,Computers & Accessories,Dell XPS 15,1499,3,PayPal,Express Shipping,5.0,4497
+ELE-10904,2025-01-26 02:40:00,CUST-7166,Toronto,Audio & Wearables,Bose QuietComfort Ultra,429,1,Credit Card,Same-Day Delivery,5.0,429
+ELE-10905,2025-01-26 03:20:00,CUST-1814,London,Audio & Wearables,Bose QuietComfort Ultra,429,2,PayPal,Standard Delivery,3.0,858
+ELE-10906,2025-01-26 04:00:00,CUST-1345,Tokyo,Smartphones & Tablets,Google Pixel 8 Pro,899,1,PayPal,Standard Delivery,4.0,899
+ELE-10907,2025-01-26 04:40:00,CUST-9554,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Apple Pay,Standard Delivery,5.0,899
+ELE-10908,2025-01-26 05:20:00,CUST-3443,Singapore,Audio & Wearables,Samsung Galaxy Watch 6,299,3,PayPal,Standard Delivery,5.0,897
+ELE-10909,2025-01-26 06:00:00,CUST-8783,Dubai,Computers & Accessories,MacBook Air M3,1099,2,Google Pay,Same-Day Delivery,4.0,2198
+ELE-10910,2025-01-26 06:40:00,CUST-1984,Paris,Smart Home & Gaming,Nintendo Switch OLED,349,1,PayPal,Standard Delivery,5.0,349
+ELE-10911,2025-01-26 07:20:00,CUST-8790,Sydney,Smart Home & Gaming,Amazon Echo Show 10,249,2,PayPal,Standard Delivery,4.0,498
+ELE-10912,2025-01-26 08:00:00,CUST-1827,Dubai,Smart Home & Gaming,Nintendo Switch OLED,349,2,Debit Card,Express Shipping,3.0,698
+ELE-10913,2025-01-26 08:40:00,CUST-4531,Sydney,Computers & Accessories,Logitech MX Master 3S,99,2,PayPal,Express Shipping,3.0,198
+ELE-10914,2025-01-26 09:20:00,CUST-8147,Dubai,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Google Pay,Standard Delivery,3.0,2996
+ELE-10915,2025-01-26 10:00:00,CUST-5451,Paris,Audio & Wearables,Sony WH-1000XM5,399,4,Debit Card,Express Shipping,4.0,1596
+ELE-10916,2025-01-26 10:40:00,CUST-4876,Singapore,Computers & Accessories,Samsung 4K Monitor,449,4,PayPal,Express Shipping,5.0,1796
+ELE-10917,2025-01-26 11:20:00,CUST-6959,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Credit Card,Same-Day Delivery,5.0,4796
+ELE-10918,2025-01-26 12:00:00,CUST-1126,Paris,Smart Home & Gaming,Nintendo Switch OLED,349,3,PayPal,Express Shipping,4.0,1047
+ELE-10919,2025-01-26 12:40:00,CUST-4177,Berlin,Smart Home & Gaming,Xbox Series X,499,1,Credit Card,Express Shipping,4.0,499
+ELE-10920,2025-01-26 13:20:00,CUST-9795,Singapore,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Debit Card,Standard Delivery,4.0,6796
+ELE-10921,2025-01-26 14:00:00,CUST-7024,Sydney,Smartphones & Tablets,Xiaomi 14 Pro,749,3,Credit Card,Standard Delivery,5.0,2247
+ELE-10922,2025-01-26 14:40:00,CUST-6109,Toronto,Computers & Accessories,Logitech MX Master 3S,99,1,Credit Card,Express Shipping,5.0,99
+ELE-10923,2025-01-26 15:20:00,CUST-5146,Tokyo,Smart Home & Gaming,Amazon Echo Show 10,249,4,Credit Card,Same-Day Delivery,4.0,996
+ELE-10924,2025-01-26 16:00:00,CUST-8196,Toronto,Smart Home & Gaming,Nintendo Switch OLED,349,1,Credit Card,Express Shipping,2.0,349
+ELE-10925,2025-01-26 16:40:00,CUST-4368,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Same-Day Delivery,5.0,3596
+ELE-10926,2025-01-26 17:20:00,CUST-4797,Sydney,Smartphones & Tablets,Xiaomi 14 Pro,749,3,Apple Pay,Standard Delivery,5.0,2247
+ELE-10927,2025-01-26 18:00:00,CUST-2792,Dubai,Smart Home & Gaming,Amazon Echo Show 10,249,2,Debit Card,Express Shipping,4.0,498
+ELE-10928,2025-01-26 18:40:00,CUST-6732,Sydney,Computers & Accessories,Samsung 4K Monitor,449,2,Debit Card,Express Shipping,5.0,898
+ELE-10929,2025-01-26 19:20:00,CUST-4476,Dubai,Computers & Accessories,Dell XPS 15,1499,1,Debit Card,Express Shipping,5.0,1499
+ELE-10930,2025-01-26 20:00:00,CUST-4417,Paris,Smart Home & Gaming,Philips Hue Starter Kit,179,3,Credit Card,Standard Delivery,4.0,537
+ELE-10931,2025-01-26 20:40:00,CUST-2645,Singapore,Smartphones & Tablets,iPhone 15 Pro,999,2,Apple Pay,Standard Delivery,4.0,1998
+ELE-10932,2025-01-26 21:20:00,CUST-4030,Paris,Audio & Wearables,Sony WH-1000XM5,399,4,Credit Card,Express Shipping,4.0,1596
+ELE-10933,2025-01-26 22:00:00,CUST-3872,London,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Standard Delivery,5.0,1998
+ELE-10934,2025-01-26 22:40:00,CUST-4072,Dubai,Computers & Accessories,ASUS ROG Zephyrus,1699,1,PayPal,Same-Day Delivery,,1699
+ELE-10935,2025-01-26 23:20:00,CUST-2854,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,1,Credit Card,Standard Delivery,5.0,349
+ELE-10936,2025-01-27 00:00:00,CUST-5021,Paris,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Debit Card,Express Shipping,5.0,5097
+ELE-10937,2025-01-27 00:40:00,CUST-5662,London,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Credit Card,Express Shipping,5.0,179
+ELE-10938,2025-01-27 01:20:00,CUST-7514,New York,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Debit Card,Express Shipping,5.0,3398
+ELE-10939,2025-01-27 02:00:00,CUST-6031,Toronto,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,PayPal,Standard Delivery,5.0,2398
+ELE-10940,2025-01-27 02:40:00,CUST-3708,Sydney,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Same-Day Delivery,4.0,1998
+ELE-10941,2025-01-27 03:20:00,CUST-8112,London,Computers & Accessories,Samsung 4K Monitor,449,2,Debit Card,Express Shipping,4.0,898
+ELE-10942,2025-01-27 04:00:00,CUST-9393,Singapore,Computers & Accessories,MacBook Air M3,1099,3,Credit Card,Standard Delivery,5.0,3297
+ELE-10943,2025-01-27 04:40:00,CUST-4507,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,4,PayPal,Express Shipping,5.0,2396
+ELE-10944,2025-01-27 05:20:00,CUST-7456,Singapore,Computers & Accessories,Samsung 4K Monitor,449,4,Credit Card,Standard Delivery,4.0,1796
+ELE-10945,2025-01-27 06:00:00,CUST-5212,Toronto,Computers & Accessories,Logitech MX Master 3S,99,3,PayPal,Standard Delivery,5.0,297
+ELE-10946,2025-01-27 06:40:00,CUST-8970,Berlin,Audio & Wearables,Apple AirPods Pro 2,249,1,Debit Card,Standard Delivery,5.0,249
+ELE-10947,2025-01-27 07:20:00,CUST-9766,Singapore,Audio & Wearables,Samsung Galaxy Watch 6,299,4,Credit Card,Express Shipping,4.0,1196
+ELE-10948,2025-01-27 08:00:00,CUST-1536,Dubai,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Google Pay,Standard Delivery,5.0,299
+ELE-10949,2025-01-27 08:40:00,CUST-2625,Berlin,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Apple Pay,Express Shipping,4.0,4796
+ELE-10950,2025-01-27 09:20:00,CUST-8973,Berlin,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Debit Card,Standard Delivery,5.0,1199
+ELE-10951,2025-01-27 10:00:00,CUST-9577,London,Audio & Wearables,Bose QuietComfort Ultra,429,3,Debit Card,Standard Delivery,4.0,1287
+ELE-10952,2025-01-27 10:40:00,CUST-9070,Berlin,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Credit Card,Same-Day Delivery,5.0,3398
+ELE-10953,2025-01-27 11:20:00,CUST-9666,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,1,Debit Card,Express Shipping,2.0,599
+ELE-10954,2025-01-27 12:00:00,CUST-9609,Toronto,Smart Home & Gaming,PlayStation 5 Slim,499,2,Credit Card,Same-Day Delivery,3.0,998
+ELE-10955,2025-01-27 12:40:00,CUST-7490,Berlin,Audio & Wearables,Garmin Forerunner 265,449,1,Credit Card,Standard Delivery,5.0,449
+ELE-10956,2025-01-27 13:20:00,CUST-4600,Singapore,Computers & Accessories,Samsung 4K Monitor,449,1,Google Pay,Standard Delivery,4.0,449
+ELE-10957,2025-01-27 14:00:00,CUST-7783,New York,Smartphones & Tablets,iPhone 15 Pro,999,1,PayPal,Express Shipping,4.0,999
+ELE-10958,2025-01-27 14:40:00,CUST-5971,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,1,PayPal,Express Shipping,2.0,449
+ELE-10959,2025-01-27 15:20:00,CUST-2205,Tokyo,Computers & Accessories,Dell XPS 15,1499,1,Credit Card,Standard Delivery,5.0,1499
+ELE-10960,2025-01-27 16:00:00,CUST-2990,Dubai,Audio & Wearables,Garmin Forerunner 265,449,2,PayPal,Standard Delivery,5.0,898
+ELE-10961,2025-01-27 16:40:00,CUST-6299,Berlin,Audio & Wearables,Garmin Forerunner 265,449,1,Credit Card,Express Shipping,3.0,449
+ELE-10962,2025-01-27 17:20:00,CUST-4572,Dubai,Smart Home & Gaming,PlayStation 5 Slim,499,2,Credit Card,Standard Delivery,5.0,998
+ELE-10963,2025-01-27 18:00:00,CUST-6975,Dubai,Computers & Accessories,Logitech MX Master 3S,99,3,Credit Card,Express Shipping,5.0,297
+ELE-10964,2025-01-27 18:40:00,CUST-7320,New York,Smartphones & Tablets,Xiaomi 14 Pro,749,4,PayPal,Standard Delivery,5.0,2996
+ELE-10965,2025-01-27 19:20:00,CUST-5380,London,Audio & Wearables,Garmin Forerunner 265,449,1,PayPal,Standard Delivery,4.0,449
+ELE-10966,2025-01-27 20:00:00,CUST-5757,Berlin,Audio & Wearables,Bose QuietComfort Ultra,429,4,Credit Card,Same-Day Delivery,5.0,1716
+ELE-10967,2025-01-27 20:40:00,CUST-3713,Paris,Audio & Wearables,Sony WH-1000XM5,399,2,Debit Card,Standard Delivery,4.0,798
+ELE-10968,2025-01-27 21:20:00,CUST-6588,Dubai,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Credit Card,Standard Delivery,4.0,2697
+ELE-10969,2025-01-27 22:00:00,CUST-1966,Toronto,Smartphones & Tablets,iPhone 15 Pro,999,3,Debit Card,Express Shipping,4.0,2997
+ELE-10970,2025-01-27 22:40:00,CUST-5944,Sydney,Smart Home & Gaming,Xbox Series X,499,3,Google Pay,Standard Delivery,5.0,1497
+ELE-10971,2025-01-27 23:20:00,CUST-4432,Toronto,Audio & Wearables,Sony WH-1000XM5,399,4,Debit Card,Standard Delivery,3.0,1596
+ELE-10972,2025-01-28 00:00:00,CUST-1688,New York,Smart Home & Gaming,Xbox Series X,499,2,Apple Pay,Express Shipping,5.0,998
+ELE-10973,2025-01-28 00:40:00,CUST-5243,New York,Audio & Wearables,Apple AirPods Pro 2,249,1,Google Pay,Standard Delivery,4.0,249
+ELE-10974,2025-01-28 01:20:00,CUST-4701,Singapore,Computers & Accessories,MacBook Air M3,1099,1,PayPal,Standard Delivery,4.0,1099
+ELE-10975,2025-01-28 02:00:00,CUST-9533,London,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Debit Card,Standard Delivery,4.0,598
+ELE-10976,2025-01-28 02:40:00,CUST-6182,Dubai,Smart Home & Gaming,PlayStation 5 Slim,499,4,Apple Pay,Express Shipping,4.0,1996
+ELE-10977,2025-01-28 03:20:00,CUST-7704,Toronto,Computers & Accessories,Samsung 4K Monitor,449,1,Credit Card,Express Shipping,4.0,449
+ELE-10978,2025-01-28 04:00:00,CUST-5422,Sydney,Audio & Wearables,Garmin Forerunner 265,449,2,Credit Card,Express Shipping,4.0,898
+ELE-10979,2025-01-28 04:40:00,CUST-2759,New York,Smartphones & Tablets,iPad Air 5th Gen,599,1,Google Pay,Standard Delivery,3.0,599
+ELE-10980,2025-01-28 05:20:00,CUST-3482,New York,Computers & Accessories,Dell XPS 15,1499,3,Debit Card,Express Shipping,4.0,4497
+ELE-10981,2025-01-28 06:00:00,CUST-9058,London,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Credit Card,Same-Day Delivery,4.0,299
+ELE-10982,2025-01-28 06:40:00,CUST-1951,Sydney,Smartphones & Tablets,Xiaomi 14 Pro,749,4,PayPal,Standard Delivery,2.0,2996
+ELE-10983,2025-01-28 07:20:00,CUST-9914,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,2,Debit Card,Express Shipping,5.0,1198
+ELE-10984,2025-01-28 08:00:00,CUST-3079,London,Smartphones & Tablets,iPhone 15 Pro,999,4,PayPal,Express Shipping,5.0,3996
+ELE-10985,2025-01-28 08:40:00,CUST-3717,New York,Smartphones & Tablets,iPad Air 5th Gen,599,2,PayPal,Express Shipping,5.0,1198
+ELE-10986,2025-01-28 09:20:00,CUST-5524,Berlin,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Debit Card,Same-Day Delivery,4.0,3597
+ELE-10987,2025-01-28 10:00:00,CUST-9477,Berlin,Computers & Accessories,MacBook Air M3,1099,2,PayPal,Standard Delivery,5.0,2198
+ELE-10988,2025-01-28 10:40:00,CUST-8311,London,Smart Home & Gaming,Amazon Echo Show 10,249,1,PayPal,Standard Delivery,5.0,249
+ELE-10989,2025-01-28 11:20:00,CUST-8186,Sydney,Computers & Accessories,Samsung 4K Monitor,449,1,Debit Card,Standard Delivery,1.0,449
+ELE-10990,2025-01-28 12:00:00,CUST-3065,Dubai,Smartphones & Tablets,Xiaomi 14 Pro,749,3,Debit Card,Standard Delivery,2.0,2247
+ELE-10991,2025-01-28 12:40:00,CUST-1768,London,Smartphones & Tablets,iPad Air 5th Gen,599,2,PayPal,Standard Delivery,3.0,1198
+ELE-10992,2025-01-28 13:20:00,CUST-6490,London,Audio & Wearables,Sony WH-1000XM5,399,3,Credit Card,Express Shipping,3.0,1197
+ELE-10993,2025-01-28 14:00:00,CUST-7645,Tokyo,Computers & Accessories,Logitech MX Master 3S,99,1,PayPal,Standard Delivery,3.0,99
+ELE-10994,2025-01-28 14:40:00,CUST-6083,Toronto,Smart Home & Gaming,PlayStation 5 Slim,499,4,Google Pay,Standard Delivery,5.0,1996
+ELE-10995,2025-01-28 15:20:00,CUST-6232,Sydney,Audio & Wearables,Garmin Forerunner 265,449,3,Credit Card,Express Shipping,4.0,1347
+ELE-10996,2025-01-28 16:00:00,CUST-6797,Singapore,Audio & Wearables,Sony WH-1000XM5,399,4,Credit Card,Standard Delivery,,1596
+ELE-10997,2025-01-28 16:40:00,CUST-5926,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,4,PayPal,Same-Day Delivery,4.0,3596
+ELE-10998,2025-01-28 17:20:00,CUST-7016,Sydney,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Apple Pay,Express Shipping,4.0,598
+ELE-10999,2025-01-28 18:00:00,CUST-4335,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Credit Card,Standard Delivery,,3597
+ELE-11000,2025-01-28 18:40:00,CUST-9038,Tokyo,Smart Home & Gaming,PlayStation 5 Slim,499,4,Credit Card,Standard Delivery,5.0,1996
+ELE-11001,2025-01-28 19:20:00,CUST-5873,New York,Audio & Wearables,Apple AirPods Pro 2,249,4,Credit Card,Standard Delivery,4.0,996
+ELE-11002,2025-01-28 20:00:00,CUST-2481,Toronto,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Debit Card,Express Shipping,5.0,1498
+ELE-11003,2025-01-28 20:40:00,CUST-7305,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Standard Delivery,5.0,1198
+ELE-11004,2025-01-28 21:20:00,CUST-4451,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,1,Credit Card,Express Shipping,4.0,599
+ELE-11005,2025-01-28 22:00:00,CUST-1054,Paris,Audio & Wearables,Sony WH-1000XM5,399,4,PayPal,Express Shipping,4.0,1596
+ELE-11006,2025-01-28 22:40:00,CUST-8643,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,1,Apple Pay,Standard Delivery,5.0,599
+ELE-11007,2025-01-28 23:20:00,CUST-4462,Sydney,Computers & Accessories,MacBook Air M3,1099,4,PayPal,Express Shipping,4.0,4396
+ELE-11008,2025-01-29 00:00:00,CUST-1832,Singapore,Smartphones & Tablets,iPhone 15 Pro,999,1,Credit Card,Standard Delivery,3.0,999
+ELE-11009,2025-01-29 00:40:00,CUST-6954,Singapore,Audio & Wearables,Apple AirPods Pro 2,249,2,PayPal,Same-Day Delivery,4.0,498
+ELE-11010,2025-01-29 01:20:00,CUST-9519,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,3,Google Pay,Standard Delivery,4.0,1047
+ELE-11011,2025-01-29 02:00:00,CUST-8221,Sydney,Audio & Wearables,Sony WH-1000XM5,399,2,PayPal,Express Shipping,5.0,798
+ELE-11012,2025-01-29 02:40:00,CUST-4310,Paris,Audio & Wearables,Apple AirPods Pro 2,249,1,Google Pay,Standard Delivery,3.0,249
+ELE-11013,2025-01-29 03:20:00,CUST-4300,Dubai,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Apple Pay,Express Shipping,5.0,899
+ELE-11014,2025-01-29 04:00:00,CUST-7722,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Credit Card,Standard Delivery,4.0,3597
+ELE-11015,2025-01-29 04:40:00,CUST-8218,New York,Audio & Wearables,Apple AirPods Pro 2,249,4,Debit Card,Standard Delivery,4.0,996
+ELE-11016,2025-01-29 05:20:00,CUST-8776,London,Computers & Accessories,MacBook Air M3,1099,1,Credit Card,Express Shipping,3.0,1099
+ELE-11017,2025-01-29 06:00:00,CUST-4675,Dubai,Computers & Accessories,Samsung 4K Monitor,449,1,PayPal,Standard Delivery,5.0,449
+ELE-11018,2025-01-29 06:40:00,CUST-4054,Singapore,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Express Shipping,5.0,749
+ELE-11019,2025-01-29 07:20:00,CUST-8970,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,3,Credit Card,Express Shipping,4.0,2247
+ELE-11020,2025-01-29 08:00:00,CUST-3143,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Google Pay,Standard Delivery,4.0,2398
+ELE-11021,2025-01-29 08:40:00,CUST-6207,New York,Smart Home & Gaming,PlayStation 5 Slim,499,1,Credit Card,Standard Delivery,5.0,499
+ELE-11022,2025-01-29 09:20:00,CUST-3538,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,3,Apple Pay,Standard Delivery,5.0,1797
+ELE-11023,2025-01-29 10:00:00,CUST-5547,Tokyo,Computers & Accessories,Dell XPS 15,1499,1,Credit Card,Express Shipping,1.0,1499
+ELE-11024,2025-01-29 10:40:00,CUST-6619,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Credit Card,Standard Delivery,5.0,4796
+ELE-11025,2025-01-29 11:20:00,CUST-9356,Toronto,Audio & Wearables,Sony WH-1000XM5,399,3,Apple Pay,Standard Delivery,5.0,1197
+ELE-11026,2025-01-29 12:00:00,CUST-7612,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,1,PayPal,Standard Delivery,4.0,899
+ELE-11027,2025-01-29 12:40:00,CUST-6005,Toronto,Smart Home & Gaming,Xbox Series X,499,3,Debit Card,Standard Delivery,4.0,1497
+ELE-11028,2025-01-29 13:20:00,CUST-1822,Dubai,Smart Home & Gaming,Amazon Echo Show 10,249,1,Credit Card,Same-Day Delivery,4.0,249
+ELE-11029,2025-01-29 14:00:00,CUST-1943,London,Smartphones & Tablets,Google Pixel 8 Pro,899,2,PayPal,Standard Delivery,5.0,1798
+ELE-11030,2025-01-29 14:40:00,CUST-7150,Tokyo,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Debit Card,Express Shipping,5.0,179
+ELE-11031,2025-01-29 15:20:00,CUST-5425,Berlin,Smart Home & Gaming,PlayStation 5 Slim,499,3,PayPal,Express Shipping,4.0,1497
+ELE-11032,2025-01-29 16:00:00,CUST-9966,Tokyo,Smart Home & Gaming,Amazon Echo Show 10,249,4,PayPal,Express Shipping,4.0,996
+ELE-11033,2025-01-29 16:40:00,CUST-3198,Singapore,Smart Home & Gaming,PlayStation 5 Slim,499,4,Google Pay,Standard Delivery,4.0,1996
+ELE-11034,2025-01-29 17:20:00,CUST-5242,Singapore,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Debit Card,Express Shipping,5.0,2996
+ELE-11035,2025-01-29 18:00:00,CUST-4695,Singapore,Computers & Accessories,MacBook Air M3,1099,1,Google Pay,Express Shipping,4.0,1099
+ELE-11036,2025-01-29 18:40:00,CUST-4452,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Debit Card,Standard Delivery,4.0,2398
+ELE-11037,2025-01-29 19:20:00,CUST-2308,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Debit Card,Standard Delivery,4.0,899
+ELE-11038,2025-01-29 20:00:00,CUST-5177,Berlin,Smart Home & Gaming,PlayStation 5 Slim,499,4,Credit Card,Standard Delivery,4.0,1996
+ELE-11039,2025-01-29 20:40:00,CUST-9705,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Standard Delivery,4.0,1797
+ELE-11040,2025-01-29 21:20:00,CUST-7852,Singapore,Audio & Wearables,Sony WH-1000XM5,399,4,Apple Pay,Standard Delivery,3.0,1596
+ELE-11041,2025-01-29 22:00:00,CUST-7035,Toronto,Smart Home & Gaming,Amazon Echo Show 10,249,3,Credit Card,Express Shipping,3.0,747
+ELE-11042,2025-01-29 22:40:00,CUST-4594,Dubai,Smart Home & Gaming,Philips Hue Starter Kit,179,2,Credit Card,Standard Delivery,5.0,358
+ELE-11043,2025-01-29 23:20:00,CUST-5841,Singapore,Smart Home & Gaming,Philips Hue Starter Kit,179,3,Credit Card,Standard Delivery,4.0,537
+ELE-11044,2025-01-30 00:00:00,CUST-2409,London,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Express Shipping,2.0,899
+ELE-11045,2025-01-30 00:40:00,CUST-5566,Paris,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Google Pay,Standard Delivery,5.0,1199
+ELE-11046,2025-01-30 01:20:00,CUST-5491,Sydney,Computers & Accessories,Dell XPS 15,1499,1,Apple Pay,Express Shipping,3.0,1499
+ELE-11047,2025-01-30 02:00:00,CUST-2555,London,Smartphones & Tablets,Xiaomi 14 Pro,749,3,PayPal,Standard Delivery,5.0,2247
+ELE-11048,2025-01-30 02:40:00,CUST-1804,Toronto,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Same-Day Delivery,4.0,749
+ELE-11049,2025-01-30 03:20:00,CUST-2279,Tokyo,Computers & Accessories,Logitech MX Master 3S,99,1,Debit Card,Standard Delivery,3.0,99
+ELE-11050,2025-01-30 04:00:00,CUST-8083,Tokyo,Audio & Wearables,Apple AirPods Pro 2,249,1,PayPal,Express Shipping,4.0,249
+ELE-11051,2025-01-30 04:40:00,CUST-6986,London,Computers & Accessories,Samsung 4K Monitor,449,2,Google Pay,Express Shipping,1.0,898
+ELE-11052,2025-01-30 05:20:00,CUST-6619,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,PayPal,Standard Delivery,5.0,3597
+ELE-11053,2025-01-30 06:00:00,CUST-2387,Sydney,Audio & Wearables,Garmin Forerunner 265,449,3,Credit Card,Standard Delivery,4.0,1347
+ELE-11054,2025-01-30 06:40:00,CUST-3679,New York,Smartphones & Tablets,iPhone 15 Pro,999,4,PayPal,Express Shipping,3.0,3996
+ELE-11055,2025-01-30 07:20:00,CUST-3106,New York,Smartphones & Tablets,iPad Air 5th Gen,599,3,Google Pay,Standard Delivery,4.0,1797
+ELE-11056,2025-01-30 08:00:00,CUST-9173,Toronto,Audio & Wearables,Sony WH-1000XM5,399,2,Debit Card,Express Shipping,4.0,798
+ELE-11057,2025-01-30 08:40:00,CUST-5223,Singapore,Audio & Wearables,Garmin Forerunner 265,449,3,Debit Card,Same-Day Delivery,3.0,1347
+ELE-11058,2025-01-30 09:20:00,CUST-5831,Berlin,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Credit Card,Standard Delivery,4.0,598
+ELE-11059,2025-01-30 10:00:00,CUST-3768,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,2,Debit Card,Standard Delivery,4.0,1198
+ELE-11060,2025-01-30 10:40:00,CUST-4186,Paris,Smart Home & Gaming,Philips Hue Starter Kit,179,3,Debit Card,Standard Delivery,5.0,537
+ELE-11061,2025-01-30 11:20:00,CUST-3573,Sydney,Audio & Wearables,Garmin Forerunner 265,449,4,Credit Card,Standard Delivery,4.0,1796
+ELE-11062,2025-01-30 12:00:00,CUST-3599,Sydney,Computers & Accessories,Dell XPS 15,1499,1,PayPal,Express Shipping,5.0,1499
+ELE-11063,2025-01-30 12:40:00,CUST-5033,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,1,Credit Card,Express Shipping,5.0,449
+ELE-11064,2025-01-30 13:20:00,CUST-9428,Dubai,Smart Home & Gaming,Amazon Echo Show 10,249,3,Credit Card,Standard Delivery,4.0,747
+ELE-11065,2025-01-30 14:00:00,CUST-2304,Toronto,Computers & Accessories,Samsung 4K Monitor,449,3,Credit Card,Standard Delivery,5.0,1347
+ELE-11066,2025-01-30 14:40:00,CUST-8368,New York,Computers & Accessories,Logitech MX Master 3S,99,2,Credit Card,Standard Delivery,5.0,198
+ELE-11067,2025-01-30 15:20:00,CUST-6877,Toronto,Smart Home & Gaming,Philips Hue Starter Kit,179,3,PayPal,Standard Delivery,4.0,537
+ELE-11068,2025-01-30 16:00:00,CUST-2301,Berlin,Audio & Wearables,Apple AirPods Pro 2,249,2,Credit Card,Express Shipping,,498
+ELE-11069,2025-01-30 16:40:00,CUST-3541,Berlin,Computers & Accessories,Logitech MX Master 3S,99,4,Credit Card,Standard Delivery,4.0,396
+ELE-11070,2025-01-30 17:20:00,CUST-3051,London,Audio & Wearables,Sony WH-1000XM5,399,3,Apple Pay,Express Shipping,4.0,1197
+ELE-11071,2025-01-30 18:00:00,CUST-7809,Paris,Computers & Accessories,Logitech MX Master 3S,99,1,PayPal,Express Shipping,5.0,99
+ELE-11072,2025-01-30 18:40:00,CUST-9633,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,PayPal,Express Shipping,4.0,1199
+ELE-11073,2025-01-30 19:20:00,CUST-9996,Toronto,Computers & Accessories,Logitech MX Master 3S,99,3,PayPal,Standard Delivery,4.0,297
+ELE-11074,2025-01-30 20:00:00,CUST-1074,Berlin,Smart Home & Gaming,Philips Hue Starter Kit,179,2,Debit Card,Express Shipping,3.0,358
+ELE-11075,2025-01-30 20:40:00,CUST-7981,Dubai,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Credit Card,Express Shipping,5.0,179
+ELE-11076,2025-01-30 21:20:00,CUST-6475,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Apple Pay,Express Shipping,5.0,2398
+ELE-11077,2025-01-30 22:00:00,CUST-9232,New York,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Credit Card,Standard Delivery,5.0,5097
+ELE-11078,2025-01-30 22:40:00,CUST-8184,Paris,Smartphones & Tablets,Xiaomi 14 Pro,749,3,Debit Card,Standard Delivery,,2247
+ELE-11079,2025-01-30 23:20:00,CUST-6796,Dubai,Smart Home & Gaming,PlayStation 5 Slim,499,1,Credit Card,Express Shipping,4.0,499
+ELE-11080,2025-01-31 00:00:00,CUST-8141,Paris,Smart Home & Gaming,Xbox Series X,499,3,Debit Card,Standard Delivery,4.0,1497
+ELE-11081,2025-01-31 00:40:00,CUST-2622,London,Audio & Wearables,Bose QuietComfort Ultra,429,4,PayPal,Standard Delivery,5.0,1716
+ELE-11082,2025-01-31 01:20:00,CUST-9041,Berlin,Smart Home & Gaming,Amazon Echo Show 10,249,4,PayPal,Same-Day Delivery,5.0,996
+ELE-11083,2025-01-31 02:00:00,CUST-1341,Tokyo,Audio & Wearables,Sony WH-1000XM5,399,1,Credit Card,Standard Delivery,4.0,399
+ELE-11084,2025-01-31 02:40:00,CUST-3074,Dubai,Computers & Accessories,Samsung 4K Monitor,449,4,PayPal,Standard Delivery,2.0,1796
+ELE-11085,2025-01-31 03:20:00,CUST-8992,Paris,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Google Pay,Standard Delivery,5.0,2398
+ELE-11086,2025-01-31 04:00:00,CUST-1645,Sydney,Computers & Accessories,MacBook Air M3,1099,1,Apple Pay,Express Shipping,,1099
+ELE-11087,2025-01-31 04:40:00,CUST-5263,London,Audio & Wearables,Garmin Forerunner 265,449,1,Credit Card,Standard Delivery,5.0,449
+ELE-11088,2025-01-31 05:20:00,CUST-9801,Sydney,Audio & Wearables,Apple AirPods Pro 2,249,2,Credit Card,Express Shipping,4.0,498
+ELE-11089,2025-01-31 06:00:00,CUST-7136,Tokyo,Computers & Accessories,Logitech MX Master 3S,99,4,Google Pay,Standard Delivery,,396
+ELE-11090,2025-01-31 06:40:00,CUST-9646,Dubai,Smart Home & Gaming,Xbox Series X,499,4,PayPal,Standard Delivery,5.0,1996
+ELE-11091,2025-01-31 07:20:00,CUST-3969,London,Smartphones & Tablets,iPad Air 5th Gen,599,4,Debit Card,Express Shipping,4.0,2396
+ELE-11092,2025-01-31 08:00:00,CUST-4028,Dubai,Computers & Accessories,Dell XPS 15,1499,1,Google Pay,Standard Delivery,5.0,1499
+ELE-11093,2025-01-31 08:40:00,CUST-8643,Berlin,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Apple Pay,Same-Day Delivery,5.0,299
+ELE-11094,2025-01-31 09:20:00,CUST-3681,Singapore,Audio & Wearables,Apple AirPods Pro 2,249,4,PayPal,Standard Delivery,5.0,996
+ELE-11095,2025-01-31 10:00:00,CUST-4629,London,Audio & Wearables,Samsung Galaxy Watch 6,299,3,PayPal,Standard Delivery,5.0,897
+ELE-11096,2025-01-31 10:40:00,CUST-5225,Sydney,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Standard Delivery,5.0,3596
+ELE-11097,2025-01-31 11:20:00,CUST-4067,Tokyo,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Debit Card,Standard Delivery,5.0,1498
+ELE-11098,2025-01-31 12:00:00,CUST-6941,Berlin,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Credit Card,Same-Day Delivery,4.0,299
+ELE-11099,2025-01-31 12:40:00,CUST-2386,Singapore,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Credit Card,Express Shipping,5.0,3398
+ELE-11100,2025-01-31 13:20:00,CUST-3866,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Credit Card,Standard Delivery,5.0,1798
+ELE-11101,2025-01-31 14:00:00,CUST-5788,Berlin,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Credit Card,Express Shipping,,299
+ELE-11102,2025-01-31 14:40:00,CUST-6490,Tokyo,Computers & Accessories,MacBook Air M3,1099,3,Debit Card,Express Shipping,4.0,3297
+ELE-11103,2025-01-31 15:20:00,CUST-5124,Paris,Audio & Wearables,Bose QuietComfort Ultra,429,4,PayPal,Standard Delivery,5.0,1716
+ELE-11104,2025-01-31 16:00:00,CUST-9340,London,Smart Home & Gaming,PlayStation 5 Slim,499,2,PayPal,Standard Delivery,4.0,998
+ELE-11105,2025-01-31 16:40:00,CUST-4850,Dubai,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Same-Day Delivery,5.0,899
+ELE-11106,2025-01-31 17:20:00,CUST-6415,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,2,Google Pay,Same-Day Delivery,5.0,1198
+ELE-11107,2025-01-31 18:00:00,CUST-8679,London,Audio & Wearables,Sony WH-1000XM5,399,4,Credit Card,Same-Day Delivery,1.0,1596
+ELE-11108,2025-01-31 18:40:00,CUST-7819,Dubai,Audio & Wearables,Samsung Galaxy Watch 6,299,3,Debit Card,Express Shipping,4.0,897
+ELE-11109,2025-01-31 19:20:00,CUST-9378,Toronto,Audio & Wearables,Bose QuietComfort Ultra,429,3,Google Pay,Express Shipping,3.0,1287
+ELE-11110,2025-01-31 20:00:00,CUST-2333,Sydney,Smart Home & Gaming,Nintendo Switch OLED,349,3,PayPal,Standard Delivery,1.0,1047
+ELE-11111,2025-01-31 20:40:00,CUST-5150,New York,Smart Home & Gaming,PlayStation 5 Slim,499,1,PayPal,Standard Delivery,5.0,499
+ELE-11112,2025-01-31 21:20:00,CUST-7766,Berlin,Smart Home & Gaming,PlayStation 5 Slim,499,1,Google Pay,Standard Delivery,4.0,499
+ELE-11113,2025-01-31 22:00:00,CUST-3711,Tokyo,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Credit Card,Express Shipping,4.0,5097
+ELE-11114,2025-01-31 22:40:00,CUST-5853,New York,Computers & Accessories,Dell XPS 15,1499,4,PayPal,Express Shipping,2.0,5996
+ELE-11115,2025-01-31 23:20:00,CUST-7212,Paris,Computers & Accessories,Logitech MX Master 3S,99,4,PayPal,Express Shipping,3.0,396
+ELE-11116,2025-02-01 00:00:00,CUST-8479,London,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Credit Card,Same-Day Delivery,5.0,899
+ELE-11117,2025-02-01 00:40:00,CUST-6408,London,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Apple Pay,Express Shipping,4.0,5097
+ELE-11118,2025-02-01 01:20:00,CUST-8715,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Apple Pay,Same-Day Delivery,5.0,4796
+ELE-11119,2025-02-01 02:00:00,CUST-9942,Singapore,Smart Home & Gaming,PlayStation 5 Slim,499,4,Debit Card,Standard Delivery,4.0,1996
+ELE-11120,2025-02-01 02:40:00,CUST-2762,Singapore,Computers & Accessories,Samsung 4K Monitor,449,4,Credit Card,Express Shipping,4.0,1796
+ELE-11121,2025-02-01 03:20:00,CUST-8101,Toronto,Computers & Accessories,Samsung 4K Monitor,449,1,Credit Card,Express Shipping,4.0,449
+ELE-11122,2025-02-01 04:00:00,CUST-8674,Sydney,Computers & Accessories,ASUS ROG Zephyrus,1699,3,PayPal,Standard Delivery,5.0,5097
+ELE-11123,2025-02-01 04:40:00,CUST-7122,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Credit Card,Same-Day Delivery,5.0,2398
+ELE-11124,2025-02-01 05:20:00,CUST-1481,Paris,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Debit Card,Express Shipping,5.0,3597
+ELE-11125,2025-02-01 06:00:00,CUST-1153,New York,Computers & Accessories,Logitech MX Master 3S,99,3,PayPal,Standard Delivery,5.0,297
+ELE-11126,2025-02-01 06:40:00,CUST-8617,Singapore,Smartphones & Tablets,iPhone 15 Pro,999,1,Debit Card,Standard Delivery,4.0,999
+ELE-11127,2025-02-01 07:20:00,CUST-2524,Toronto,Audio & Wearables,Apple AirPods Pro 2,249,4,PayPal,Express Shipping,5.0,996
+ELE-11128,2025-02-01 08:00:00,CUST-3120,Toronto,Smart Home & Gaming,Philips Hue Starter Kit,179,4,PayPal,Express Shipping,5.0,716
+ELE-11129,2025-02-01 08:40:00,CUST-3343,Tokyo,Smart Home & Gaming,PlayStation 5 Slim,499,1,Credit Card,Same-Day Delivery,4.0,499
+ELE-11130,2025-02-01 09:20:00,CUST-6136,Paris,Audio & Wearables,Sony WH-1000XM5,399,1,Credit Card,Standard Delivery,4.0,399
+ELE-11131,2025-02-01 10:00:00,CUST-6760,Dubai,Smartphones & Tablets,iPad Air 5th Gen,599,1,PayPal,Standard Delivery,5.0,599
+ELE-11132,2025-02-01 10:40:00,CUST-2240,Sydney,Smart Home & Gaming,Xbox Series X,499,1,Debit Card,Standard Delivery,4.0,499
+ELE-11133,2025-02-01 11:20:00,CUST-1060,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,1,Debit Card,Standard Delivery,,349
+ELE-11134,2025-02-01 12:00:00,CUST-2639,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Debit Card,Standard Delivery,4.0,2398
+ELE-11135,2025-02-01 12:40:00,CUST-7185,Dubai,Audio & Wearables,Bose QuietComfort Ultra,429,3,Google Pay,Same-Day Delivery,2.0,1287
+ELE-11136,2025-02-01 13:20:00,CUST-8970,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Standard Delivery,,1797
+ELE-11137,2025-02-01 14:00:00,CUST-2252,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,3,Credit Card,Standard Delivery,5.0,1047
+ELE-11138,2025-02-01 14:40:00,CUST-5203,Paris,Smart Home & Gaming,Philips Hue Starter Kit,179,4,Credit Card,Standard Delivery,3.0,716
+ELE-11139,2025-02-01 15:20:00,CUST-9363,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,2,Debit Card,Standard Delivery,5.0,1198
+ELE-11140,2025-02-01 16:00:00,CUST-4549,New York,Smart Home & Gaming,Xbox Series X,499,3,PayPal,Express Shipping,4.0,1497
+ELE-11141,2025-02-01 16:40:00,CUST-5197,Toronto,Audio & Wearables,Garmin Forerunner 265,449,4,Apple Pay,Express Shipping,4.0,1796
+ELE-11142,2025-02-01 17:20:00,CUST-8009,Dubai,Smart Home & Gaming,Nintendo Switch OLED,349,2,PayPal,Express Shipping,5.0,698
+ELE-11143,2025-02-01 18:00:00,CUST-7667,Tokyo,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Google Pay,Standard Delivery,4.0,3398
+ELE-11144,2025-02-01 18:40:00,CUST-3322,London,Smart Home & Gaming,Amazon Echo Show 10,249,4,Google Pay,Standard Delivery,3.0,996
+ELE-11145,2025-02-01 19:20:00,CUST-5090,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Standard Delivery,4.0,1198
+ELE-11146,2025-02-01 20:00:00,CUST-7960,New York,Smartphones & Tablets,iPhone 15 Pro,999,4,PayPal,Standard Delivery,5.0,3996
+ELE-11147,2025-02-01 20:40:00,CUST-4004,Sydney,Smartphones & Tablets,Xiaomi 14 Pro,749,3,PayPal,Express Shipping,3.0,2247
+ELE-11148,2025-02-01 21:20:00,CUST-6136,Toronto,Smart Home & Gaming,PlayStation 5 Slim,499,4,Credit Card,Standard Delivery,5.0,1996
+ELE-11149,2025-02-01 22:00:00,CUST-1329,London,Smart Home & Gaming,Philips Hue Starter Kit,179,2,PayPal,Express Shipping,5.0,358
+ELE-11150,2025-02-01 22:40:00,CUST-4640,Singapore,Smart Home & Gaming,Amazon Echo Show 10,249,3,Debit Card,Standard Delivery,4.0,747
+ELE-11151,2025-02-01 23:20:00,CUST-8982,Sydney,Smart Home & Gaming,Nintendo Switch OLED,349,3,Credit Card,Express Shipping,5.0,1047
+ELE-11152,2025-02-02 00:00:00,CUST-5107,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,1,PayPal,Same-Day Delivery,5.0,599
+ELE-11153,2025-02-02 00:40:00,CUST-2341,Berlin,Computers & Accessories,ASUS ROG Zephyrus,1699,1,Debit Card,Express Shipping,4.0,1699
+ELE-11154,2025-02-02 01:20:00,CUST-9407,Singapore,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Express Shipping,4.0,1498
+ELE-11155,2025-02-02 02:00:00,CUST-1338,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,4,PayPal,Same-Day Delivery,4.0,2396
+ELE-11156,2025-02-02 02:40:00,CUST-6895,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,4,Credit Card,Express Shipping,5.0,3996
+ELE-11157,2025-02-02 03:20:00,CUST-3708,Paris,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Debit Card,Standard Delivery,5.0,3398
+ELE-11158,2025-02-02 04:00:00,CUST-2750,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Credit Card,Standard Delivery,4.0,2697
+ELE-11159,2025-02-02 04:40:00,CUST-6604,Dubai,Smartphones & Tablets,iPhone 15 Pro,999,2,Apple Pay,Express Shipping,4.0,1998
+ELE-11160,2025-02-02 05:20:00,CUST-3421,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,2,PayPal,Express Shipping,4.0,1198
+ELE-11161,2025-02-02 06:00:00,CUST-8119,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Standard Delivery,5.0,1797
+ELE-11162,2025-02-02 06:40:00,CUST-9901,Sydney,Smart Home & Gaming,Xbox Series X,499,4,PayPal,Standard Delivery,4.0,1996
+ELE-11163,2025-02-02 07:20:00,CUST-6319,Toronto,Audio & Wearables,Garmin Forerunner 265,449,2,PayPal,Same-Day Delivery,5.0,898
+ELE-11164,2025-02-02 08:00:00,CUST-7609,Sydney,Smart Home & Gaming,PlayStation 5 Slim,499,4,PayPal,Standard Delivery,4.0,1996
+ELE-11165,2025-02-02 08:40:00,CUST-6387,Dubai,Computers & Accessories,Dell XPS 15,1499,2,PayPal,Standard Delivery,5.0,2998
+ELE-11166,2025-02-02 09:20:00,CUST-4993,Tokyo,Smartphones & Tablets,Google Pixel 8 Pro,899,3,PayPal,Standard Delivery,4.0,2697
+ELE-11167,2025-02-02 10:00:00,CUST-9680,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,3,Credit Card,Express Shipping,5.0,1347
+ELE-11168,2025-02-02 10:40:00,CUST-9044,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,1,Credit Card,Standard Delivery,3.0,999
+ELE-11169,2025-02-02 11:20:00,CUST-9238,Tokyo,Smartphones & Tablets,iPad Air 5th Gen,599,3,Debit Card,Express Shipping,5.0,1797
+ELE-11170,2025-02-02 12:00:00,CUST-5873,Dubai,Smartphones & Tablets,iPhone 15 Pro,999,1,PayPal,Standard Delivery,3.0,999
+ELE-11171,2025-02-02 12:40:00,CUST-5806,Paris,Smartphones & Tablets,iPad Air 5th Gen,599,2,Credit Card,Express Shipping,3.0,1198
+ELE-11172,2025-02-02 13:20:00,CUST-9592,Toronto,Smartphones & Tablets,Xiaomi 14 Pro,749,4,Apple Pay,Express Shipping,4.0,2996
+ELE-11173,2025-02-02 14:00:00,CUST-6913,Dubai,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Credit Card,Standard Delivery,5.0,5097
+ELE-11174,2025-02-02 14:40:00,CUST-8124,Toronto,Audio & Wearables,Bose QuietComfort Ultra,429,3,Debit Card,Standard Delivery,2.0,1287
+ELE-11175,2025-02-02 15:20:00,CUST-4157,Dubai,Smartphones & Tablets,iPad Air 5th Gen,599,3,Credit Card,Standard Delivery,2.0,1797
+ELE-11176,2025-02-02 16:00:00,CUST-1390,Tokyo,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Credit Card,Standard Delivery,5.0,1798
+ELE-11177,2025-02-02 16:40:00,CUST-5430,Paris,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Google Pay,Express Shipping,5.0,179
+ELE-11178,2025-02-02 17:20:00,CUST-9820,Singapore,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Standard Delivery,4.0,1498
+ELE-11179,2025-02-02 18:00:00,CUST-8686,Sydney,Smartphones & Tablets,iPhone 15 Pro,999,4,Debit Card,Express Shipping,5.0,3996
+ELE-11180,2025-02-02 18:40:00,CUST-5232,Berlin,Smart Home & Gaming,Amazon Echo Show 10,249,2,Credit Card,Standard Delivery,4.0,498
+ELE-11181,2025-02-02 19:20:00,CUST-9007,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,4,PayPal,Standard Delivery,5.0,3596
+ELE-11182,2025-02-02 20:00:00,CUST-2521,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Apple Pay,Standard Delivery,5.0,3597
+ELE-11183,2025-02-02 20:40:00,CUST-2500,New York,Computers & Accessories,Dell XPS 15,1499,4,Credit Card,Express Shipping,2.0,5996
+ELE-11184,2025-02-02 21:20:00,CUST-7737,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Apple Pay,Standard Delivery,5.0,4796
+ELE-11185,2025-02-02 22:00:00,CUST-4294,New York,Computers & Accessories,ASUS ROG Zephyrus,1699,1,PayPal,Express Shipping,4.0,1699
+ELE-11186,2025-02-02 22:40:00,CUST-6085,Singapore,Smart Home & Gaming,Xbox Series X,499,4,PayPal,Standard Delivery,5.0,1996
+ELE-11187,2025-02-02 23:20:00,CUST-3419,Paris,Smartphones & Tablets,Google Pixel 8 Pro,899,4,PayPal,Standard Delivery,5.0,3596
+ELE-11188,2025-02-03 00:00:00,CUST-4042,Dubai,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Apple Pay,Express Shipping,5.0,3398
+ELE-11189,2025-02-03 00:40:00,CUST-5497,Berlin,Computers & Accessories,Samsung 4K Monitor,449,3,Credit Card,Express Shipping,2.0,1347
+ELE-11190,2025-02-03 01:20:00,CUST-2466,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Standard Delivery,1.0,1998
+ELE-11191,2025-02-03 02:00:00,CUST-4561,Dubai,Audio & Wearables,Apple AirPods Pro 2,249,2,Apple Pay,Express Shipping,3.0,498
+ELE-11192,2025-02-03 02:40:00,CUST-1614,Dubai,Smartphones & Tablets,Xiaomi 14 Pro,749,3,Debit Card,Standard Delivery,,2247
+ELE-11193,2025-02-03 03:20:00,CUST-6392,Paris,Computers & Accessories,Logitech MX Master 3S,99,3,Credit Card,Express Shipping,5.0,297
+ELE-11194,2025-02-03 04:00:00,CUST-8693,Paris,Smartphones & Tablets,iPhone 15 Pro,999,4,PayPal,Express Shipping,5.0,3996
+ELE-11195,2025-02-03 04:40:00,CUST-4223,Singapore,Computers & Accessories,Samsung 4K Monitor,449,4,PayPal,Express Shipping,2.0,1796
+ELE-11196,2025-02-03 05:20:00,CUST-8138,London,Smartphones & Tablets,iPhone 15 Pro,999,1,PayPal,Express Shipping,5.0,999
+ELE-11197,2025-02-03 06:00:00,CUST-3667,Dubai,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Standard Delivery,5.0,998
+ELE-11198,2025-02-03 06:40:00,CUST-8980,Sydney,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Debit Card,Express Shipping,5.0,2697
+ELE-11199,2025-02-03 07:20:00,CUST-1130,Dubai,Computers & Accessories,MacBook Air M3,1099,4,Credit Card,Standard Delivery,4.0,4396
+ELE-11200,2025-02-03 08:00:00,CUST-3983,Singapore,Computers & Accessories,Samsung 4K Monitor,449,3,Debit Card,Standard Delivery,2.0,1347
+ELE-11201,2025-02-03 08:40:00,CUST-5278,Toronto,Audio & Wearables,Apple AirPods Pro 2,249,4,Apple Pay,Standard Delivery,5.0,996
+ELE-11202,2025-02-03 09:20:00,CUST-8126,New York,Computers & Accessories,Dell XPS 15,1499,1,PayPal,Same-Day Delivery,5.0,1499
+ELE-11203,2025-02-03 10:00:00,CUST-9230,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,1,Credit Card,Express Shipping,3.0,449
+ELE-11204,2025-02-03 10:40:00,CUST-8694,London,Audio & Wearables,Garmin Forerunner 265,449,3,Credit Card,Standard Delivery,5.0,1347
+ELE-11205,2025-02-03 11:20:00,CUST-7640,Berlin,Smart Home & Gaming,PlayStation 5 Slim,499,1,PayPal,Express Shipping,4.0,499
+ELE-11206,2025-02-03 12:00:00,CUST-6468,Berlin,Smartphones & Tablets,iPad Air 5th Gen,599,3,Debit Card,Express Shipping,5.0,1797
+ELE-11207,2025-02-03 12:40:00,CUST-1920,Berlin,Computers & Accessories,Dell XPS 15,1499,4,Credit Card,Standard Delivery,4.0,5996
+ELE-11208,2025-02-03 13:20:00,CUST-8564,Paris,Smart Home & Gaming,PlayStation 5 Slim,499,2,PayPal,Standard Delivery,3.0,998
+ELE-11209,2025-02-03 14:00:00,CUST-9684,Berlin,Smart Home & Gaming,Philips Hue Starter Kit,179,1,Credit Card,Express Shipping,4.0,179
+ELE-11210,2025-02-03 14:40:00,CUST-9502,Tokyo,Smart Home & Gaming,PlayStation 5 Slim,499,4,Credit Card,Standard Delivery,4.0,1996
+ELE-11211,2025-02-03 15:20:00,CUST-9930,New York,Computers & Accessories,Samsung 4K Monitor,449,2,Credit Card,Standard Delivery,3.0,898
+ELE-11212,2025-02-03 16:00:00,CUST-4241,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,2,Credit Card,Express Shipping,5.0,1798
+ELE-11213,2025-02-03 16:40:00,CUST-1545,Dubai,Computers & Accessories,Samsung 4K Monitor,449,2,Credit Card,Same-Day Delivery,1.0,898
+ELE-11214,2025-02-03 17:20:00,CUST-5346,Dubai,Audio & Wearables,Garmin Forerunner 265,449,4,PayPal,Express Shipping,4.0,1796
+ELE-11215,2025-02-03 18:00:00,CUST-4810,Paris,Computers & Accessories,Samsung 4K Monitor,449,4,Apple Pay,Express Shipping,1.0,1796
+ELE-11216,2025-02-03 18:40:00,CUST-8206,Tokyo,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Debit Card,Standard Delivery,3.0,5097
+ELE-11217,2025-02-03 19:20:00,CUST-3032,New York,Smart Home & Gaming,Philips Hue Starter Kit,179,2,Credit Card,Standard Delivery,4.0,358
+ELE-11218,2025-02-03 20:00:00,CUST-9436,London,Computers & Accessories,Dell XPS 15,1499,2,Credit Card,Express Shipping,2.0,2998
+ELE-11219,2025-02-03 20:40:00,CUST-1271,Singapore,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Standard Delivery,5.0,998
+ELE-11220,2025-02-03 21:20:00,CUST-4511,New York,Computers & Accessories,MacBook Air M3,1099,3,Credit Card,Express Shipping,3.0,3297
+ELE-11221,2025-02-03 22:00:00,CUST-2771,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,2,PayPal,Standard Delivery,5.0,1198
+ELE-11222,2025-02-03 22:40:00,CUST-5361,Toronto,Computers & Accessories,MacBook Air M3,1099,4,PayPal,Standard Delivery,2.0,4396
+ELE-11223,2025-02-03 23:20:00,CUST-8069,Singapore,Audio & Wearables,Apple AirPods Pro 2,249,2,Credit Card,Standard Delivery,2.0,498
+ELE-11224,2025-02-04 00:00:00,CUST-1920,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,Credit Card,Same-Day Delivery,4.0,1199
+ELE-11225,2025-02-04 00:40:00,CUST-9190,Dubai,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Standard Delivery,5.0,3596
+ELE-11226,2025-02-04 01:20:00,CUST-4430,Tokyo,Smart Home & Gaming,Philips Hue Starter Kit,179,3,Credit Card,Standard Delivery,5.0,537
+ELE-11227,2025-02-04 02:00:00,CUST-5435,Paris,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Debit Card,Standard Delivery,5.0,2398
+ELE-11228,2025-02-04 02:40:00,CUST-4760,Sydney,Computers & Accessories,MacBook Air M3,1099,1,Credit Card,Express Shipping,3.0,1099
+ELE-11229,2025-02-04 03:20:00,CUST-3050,Singapore,Computers & Accessories,MacBook Air M3,1099,3,PayPal,Standard Delivery,5.0,3297
+ELE-11230,2025-02-04 04:00:00,CUST-2165,Berlin,Computers & Accessories,Samsung 4K Monitor,449,3,PayPal,Standard Delivery,1.0,1347
+ELE-11231,2025-02-04 04:40:00,CUST-9567,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,4,Apple Pay,Standard Delivery,4.0,1796
+ELE-11232,2025-02-04 05:20:00,CUST-3033,Sydney,Smartphones & Tablets,Google Pixel 8 Pro,899,3,Apple Pay,Express Shipping,5.0,2697
+ELE-11233,2025-02-04 06:00:00,CUST-7467,Paris,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Debit Card,Standard Delivery,4.0,5097
+ELE-11234,2025-02-04 06:40:00,CUST-1145,Dubai,Computers & Accessories,MacBook Air M3,1099,3,Credit Card,Standard Delivery,,3297
+ELE-11235,2025-02-04 07:20:00,CUST-5388,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,3,PayPal,Standard Delivery,2.0,1347
+ELE-11236,2025-02-04 08:00:00,CUST-8832,Paris,Smartphones & Tablets,iPhone 15 Pro,999,2,Debit Card,Express Shipping,,1998
+ELE-11237,2025-02-04 08:40:00,CUST-9623,Toronto,Computers & Accessories,Samsung 4K Monitor,449,2,Credit Card,Express Shipping,5.0,898
+ELE-11238,2025-02-04 09:20:00,CUST-9896,Toronto,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,PayPal,Standard Delivery,5.0,2398
+ELE-11239,2025-02-04 10:00:00,CUST-9173,Paris,Smartphones & Tablets,iPhone 15 Pro,999,2,Apple Pay,Same-Day Delivery,2.0,1998
+ELE-11240,2025-02-04 10:40:00,CUST-3632,Sydney,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,PayPal,Same-Day Delivery,4.0,1199
+ELE-11241,2025-02-04 11:20:00,CUST-5494,Tokyo,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Standard Delivery,5.0,1998
+ELE-11242,2025-02-04 12:00:00,CUST-9056,Sydney,Smart Home & Gaming,Nintendo Switch OLED,349,3,Credit Card,Express Shipping,4.0,1047
+ELE-11243,2025-02-04 12:40:00,CUST-8511,London,Smartphones & Tablets,Google Pixel 8 Pro,899,2,PayPal,Express Shipping,5.0,1798
+ELE-11244,2025-02-04 13:20:00,CUST-2828,Singapore,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Express Shipping,,998
+ELE-11245,2025-02-04 14:00:00,CUST-5805,London,Smart Home & Gaming,Philips Hue Starter Kit,179,4,Debit Card,Standard Delivery,4.0,716
+ELE-11246,2025-02-04 14:40:00,CUST-1806,Toronto,Computers & Accessories,ASUS ROG Zephyrus,1699,3,Debit Card,Standard Delivery,5.0,5097
+ELE-11247,2025-02-04 15:20:00,CUST-8486,Dubai,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Standard Delivery,5.0,1998
+ELE-11248,2025-02-04 16:00:00,CUST-9202,New York,Computers & Accessories,Dell XPS 15,1499,2,Apple Pay,Express Shipping,3.0,2998
+ELE-11249,2025-02-04 16:40:00,CUST-2868,Singapore,Audio & Wearables,Sony WH-1000XM5,399,2,PayPal,Standard Delivery,3.0,798
+ELE-11250,2025-02-04 17:20:00,CUST-8878,Toronto,Computers & Accessories,MacBook Air M3,1099,1,Credit Card,Standard Delivery,4.0,1099
+ELE-11251,2025-02-04 18:00:00,CUST-6690,Sydney,Smartphones & Tablets,iPhone 15 Pro,999,2,Debit Card,Standard Delivery,4.0,1998
+ELE-11252,2025-02-04 18:40:00,CUST-8827,Sydney,Computers & Accessories,Logitech MX Master 3S,99,4,Debit Card,Standard Delivery,5.0,396
+ELE-11253,2025-02-04 19:20:00,CUST-6429,Sydney,Smart Home & Gaming,Amazon Echo Show 10,249,3,PayPal,Express Shipping,2.0,747
+ELE-11254,2025-02-04 20:00:00,CUST-4564,Dubai,Audio & Wearables,Garmin Forerunner 265,449,3,Apple Pay,Standard Delivery,,1347
+ELE-11255,2025-02-04 20:40:00,CUST-2389,London,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Debit Card,Standard Delivery,1.0,2398
+ELE-11256,2025-02-04 21:20:00,CUST-8274,New York,Audio & Wearables,Samsung Galaxy Watch 6,299,2,Apple Pay,Same-Day Delivery,5.0,598
+ELE-11257,2025-02-04 22:00:00,CUST-1824,Sydney,Smartphones & Tablets,iPad Air 5th Gen,599,2,PayPal,Standard Delivery,5.0,1198
+ELE-11258,2025-02-04 22:40:00,CUST-3265,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,3,Debit Card,Express Shipping,3.0,1797
+ELE-11259,2025-02-04 23:20:00,CUST-1936,Tokyo,Smart Home & Gaming,PlayStation 5 Slim,499,3,Google Pay,Standard Delivery,3.0,1497
+ELE-11260,2025-02-05 00:00:00,CUST-7402,New York,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Debit Card,Standard Delivery,5.0,899
+ELE-11261,2025-02-05 00:40:00,CUST-4845,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Credit Card,Express Shipping,5.0,4796
+ELE-11262,2025-02-05 01:20:00,CUST-2796,New York,Smartphones & Tablets,iPhone 15 Pro,999,1,PayPal,Express Shipping,4.0,999
+ELE-11263,2025-02-05 02:00:00,CUST-9245,Tokyo,Smart Home & Gaming,Amazon Echo Show 10,249,4,PayPal,Standard Delivery,4.0,996
+ELE-11264,2025-02-05 02:40:00,CUST-8214,Singapore,Audio & Wearables,Bose QuietComfort Ultra,429,1,Credit Card,Same-Day Delivery,4.0,429
+ELE-11265,2025-02-05 03:20:00,CUST-1726,Tokyo,Audio & Wearables,Apple AirPods Pro 2,249,3,Google Pay,Same-Day Delivery,2.0,747
+ELE-11266,2025-02-05 04:00:00,CUST-3736,Paris,Audio & Wearables,Apple AirPods Pro 2,249,1,Credit Card,Same-Day Delivery,5.0,249
+ELE-11267,2025-02-05 04:40:00,CUST-2913,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,Credit Card,Standard Delivery,5.0,4796
+ELE-11268,2025-02-05 05:20:00,CUST-8657,New York,Computers & Accessories,MacBook Air M3,1099,2,Google Pay,Standard Delivery,4.0,2198
+ELE-11269,2025-02-05 06:00:00,CUST-3466,Sydney,Computers & Accessories,Samsung 4K Monitor,449,4,PayPal,Express Shipping,,1796
+ELE-11270,2025-02-05 06:40:00,CUST-8312,New York,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,2,Credit Card,Express Shipping,2.0,2398
+ELE-11271,2025-02-05 07:20:00,CUST-9194,New York,Computers & Accessories,Samsung 4K Monitor,449,3,PayPal,Standard Delivery,5.0,1347
+ELE-11272,2025-02-05 08:00:00,CUST-8906,Singapore,Smart Home & Gaming,PlayStation 5 Slim,499,4,PayPal,Express Shipping,4.0,1996
+ELE-11273,2025-02-05 08:40:00,CUST-5876,Paris,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Standard Delivery,4.0,749
+ELE-11274,2025-02-05 09:20:00,CUST-8287,New York,Smartphones & Tablets,iPad Air 5th Gen,599,4,Google Pay,Standard Delivery,4.0,2396
+ELE-11275,2025-02-05 10:00:00,CUST-1892,Toronto,Smartphones & Tablets,Xiaomi 14 Pro,749,2,PayPal,Standard Delivery,4.0,1498
+ELE-11276,2025-02-05 10:40:00,CUST-5675,Berlin,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,PayPal,Express Shipping,5.0,3597
+ELE-11277,2025-02-05 11:20:00,CUST-2933,Berlin,Smart Home & Gaming,PlayStation 5 Slim,499,1,PayPal,Standard Delivery,5.0,499
+ELE-11278,2025-02-05 12:00:00,CUST-2380,New York,Computers & Accessories,Dell XPS 15,1499,4,PayPal,Express Shipping,4.0,5996
+ELE-11279,2025-02-05 12:40:00,CUST-2290,Sydney,Computers & Accessories,ASUS ROG Zephyrus,1699,2,Credit Card,Express Shipping,5.0,3398
+ELE-11280,2025-02-05 13:20:00,CUST-2640,Dubai,Audio & Wearables,Apple AirPods Pro 2,249,1,Credit Card,Express Shipping,4.0,249
+ELE-11281,2025-02-05 14:00:00,CUST-8490,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,PayPal,Same-Day Delivery,5.0,3597
+ELE-11282,2025-02-05 14:40:00,CUST-2218,Singapore,Computers & Accessories,Dell XPS 15,1499,1,Apple Pay,Express Shipping,3.0,1499
+ELE-11283,2025-02-05 15:20:00,CUST-6016,Berlin,Computers & Accessories,Logitech MX Master 3S,99,3,Credit Card,Same-Day Delivery,3.0,297
+ELE-11284,2025-02-05 16:00:00,CUST-7881,New York,Computers & Accessories,ASUS ROG Zephyrus,1699,1,PayPal,Standard Delivery,4.0,1699
+ELE-11285,2025-02-05 16:40:00,CUST-1954,Dubai,Smart Home & Gaming,Xbox Series X,499,4,Apple Pay,Standard Delivery,5.0,1996
+ELE-11286,2025-02-05 17:20:00,CUST-8291,New York,Audio & Wearables,Apple AirPods Pro 2,249,2,Credit Card,Standard Delivery,5.0,498
+ELE-11287,2025-02-05 18:00:00,CUST-1974,Singapore,Computers & Accessories,Dell XPS 15,1499,4,Credit Card,Standard Delivery,4.0,5996
+ELE-11288,2025-02-05 18:40:00,CUST-5133,Berlin,Smart Home & Gaming,PlayStation 5 Slim,499,4,Credit Card,Express Shipping,2.0,1996
+ELE-11289,2025-02-05 19:20:00,CUST-6370,Tokyo,Smartphones & Tablets,Google Pixel 8 Pro,899,3,PayPal,Standard Delivery,4.0,2697
+ELE-11290,2025-02-05 20:00:00,CUST-4972,Toronto,Smartphones & Tablets,iPhone 15 Pro,999,3,Credit Card,Standard Delivery,5.0,2997
+ELE-11291,2025-02-05 20:40:00,CUST-6295,Toronto,Smartphones & Tablets,Google Pixel 8 Pro,899,3,PayPal,Express Shipping,5.0,2697
+ELE-11292,2025-02-05 21:20:00,CUST-9228,Dubai,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,4,PayPal,Express Shipping,3.0,4796
+ELE-11293,2025-02-05 22:00:00,CUST-4020,Toronto,Computers & Accessories,ASUS ROG Zephyrus,1699,1,PayPal,Standard Delivery,1.0,1699
+ELE-11294,2025-02-05 22:40:00,CUST-9987,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,1,Credit Card,Express Shipping,5.0,449
+ELE-11295,2025-02-05 23:20:00,CUST-5036,New York,Smart Home & Gaming,Philips Hue Starter Kit,179,4,PayPal,Standard Delivery,3.0,716
+ELE-11296,2025-02-06 00:00:00,CUST-6068,Singapore,Computers & Accessories,Dell XPS 15,1499,4,Debit Card,Standard Delivery,3.0,5996
+ELE-11297,2025-02-06 00:40:00,CUST-6233,Tokyo,Computers & Accessories,MacBook Air M3,1099,2,Google Pay,Express Shipping,1.0,2198
+ELE-11298,2025-02-06 01:20:00,CUST-1317,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,3,Apple Pay,Express Shipping,4.0,1797
+ELE-11299,2025-02-06 02:00:00,CUST-3396,Singapore,Smartphones & Tablets,Google Pixel 8 Pro,899,3,PayPal,Standard Delivery,4.0,2697
+ELE-11300,2025-02-06 02:40:00,CUST-3162,Berlin,Computers & Accessories,Dell XPS 15,1499,4,PayPal,Express Shipping,5.0,5996
+ELE-11301,2025-02-06 03:20:00,CUST-3745,New York,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Credit Card,Standard Delivery,4.0,6796
+ELE-11302,2025-02-06 04:00:00,CUST-2591,Toronto,Smart Home & Gaming,Nintendo Switch OLED,349,1,Credit Card,Standard Delivery,5.0,349
+ELE-11303,2025-02-06 04:40:00,CUST-7183,Berlin,Smartphones & Tablets,Google Pixel 8 Pro,899,4,Credit Card,Standard Delivery,3.0,3596
+ELE-11304,2025-02-06 05:20:00,CUST-4930,Singapore,Smartphones & Tablets,iPad Air 5th Gen,599,1,Debit Card,Express Shipping,5.0,599
+ELE-11305,2025-02-06 06:00:00,CUST-2312,Dubai,Computers & Accessories,MacBook Air M3,1099,4,Credit Card,Express Shipping,5.0,4396
+ELE-11306,2025-02-06 06:40:00,CUST-5311,Toronto,Smartphones & Tablets,iPhone 15 Pro,999,2,Credit Card,Standard Delivery,5.0,1998
+ELE-11307,2025-02-06 07:20:00,CUST-8314,Toronto,Smartphones & Tablets,iPhone 15 Pro,999,2,Google Pay,Standard Delivery,4.0,1998
+ELE-11308,2025-02-06 08:00:00,CUST-3383,New York,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Credit Card,Express Shipping,2.0,299
+ELE-11309,2025-02-06 08:40:00,CUST-4239,Paris,Smartphones & Tablets,iPhone 15 Pro,999,3,Credit Card,Standard Delivery,4.0,2997
+ELE-11310,2025-02-06 09:20:00,CUST-3139,London,Audio & Wearables,Bose QuietComfort Ultra,429,2,Credit Card,Standard Delivery,5.0,858
+ELE-11311,2025-02-06 10:00:00,CUST-2704,London,Smartphones & Tablets,iPad Air 5th Gen,599,1,PayPal,Express Shipping,3.0,599
+ELE-11312,2025-02-06 10:40:00,CUST-7924,London,Smartphones & Tablets,Xiaomi 14 Pro,749,4,PayPal,Standard Delivery,,2996
+ELE-11313,2025-02-06 11:20:00,CUST-1362,Paris,Computers & Accessories,ASUS ROG Zephyrus,1699,4,Credit Card,Express Shipping,,6796
+ELE-11314,2025-02-06 12:00:00,CUST-3604,New York,Smart Home & Gaming,Amazon Echo Show 10,249,1,PayPal,Standard Delivery,4.0,249
+ELE-11315,2025-02-06 12:40:00,CUST-5286,Paris,Computers & Accessories,Samsung 4K Monitor,449,3,Debit Card,Express Shipping,,1347
+ELE-11316,2025-02-06 13:20:00,CUST-4738,London,Audio & Wearables,Samsung Galaxy Watch 6,299,1,Apple Pay,Standard Delivery,3.0,299
+ELE-11317,2025-02-06 14:00:00,CUST-3469,Berlin,Smartphones & Tablets,iPhone 15 Pro,999,1,Google Pay,Express Shipping,1.0,999
+ELE-11318,2025-02-06 14:40:00,CUST-5795,Tokyo,Audio & Wearables,Apple AirPods Pro 2,249,2,Apple Pay,Standard Delivery,2.0,498
+ELE-11319,2025-02-06 15:20:00,CUST-7150,Singapore,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,1,PayPal,Express Shipping,5.0,1199
+ELE-11320,2025-02-06 16:00:00,CUST-1556,Paris,Audio & Wearables,Sony WH-1000XM5,399,1,Credit Card,Express Shipping,2.0,399
+ELE-11321,2025-02-06 16:40:00,CUST-3808,New York,Computers & Accessories,Dell XPS 15,1499,4,Credit Card,Standard Delivery,,5996
+ELE-11322,2025-02-06 17:20:00,CUST-6150,New York,Smart Home & Gaming,Xbox Series X,499,2,Credit Card,Standard Delivery,3.0,998
+ELE-11323,2025-02-06 18:00:00,CUST-8561,Tokyo,Computers & Accessories,MacBook Air M3,1099,4,Debit Card,Express Shipping,4.0,4396
+ELE-11324,2025-02-06 18:40:00,CUST-3719,Dubai,Smartphones & Tablets,iPhone 15 Pro,999,4,Apple Pay,Same-Day Delivery,5.0,3996
+ELE-11325,2025-02-06 19:20:00,CUST-7506,Toronto,Smartphones & Tablets,iPad Air 5th Gen,599,3,PayPal,Standard Delivery,4.0,1797
+ELE-11326,2025-02-06 20:00:00,CUST-4741,London,Smart Home & Gaming,Nintendo Switch OLED,349,3,Credit Card,Standard Delivery,4.0,1047
+ELE-11327,2025-02-06 20:40:00,CUST-4998,Dubai,Computers & Accessories,MacBook Air M3,1099,2,PayPal,Express Shipping,5.0,2198
+ELE-11328,2025-02-06 21:20:00,CUST-3403,London,Audio & Wearables,Bose QuietComfort Ultra,429,2,Google Pay,Standard Delivery,4.0,858
+ELE-11329,2025-02-06 22:00:00,CUST-9780,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,PayPal,Same-Day Delivery,4.0,3597
+ELE-11330,2025-02-06 22:40:00,CUST-1294,London,Smartphones & Tablets,iPad Air 5th Gen,599,3,Apple Pay,Express Shipping,4.0,1797
+ELE-11331,2025-02-06 23:20:00,CUST-6343,Tokyo,Smartphones & Tablets,Samsung Galaxy S24 Ultra,1199,3,Apple Pay,Express Shipping,4.0,3597
+ELE-11332,2025-02-07 00:00:00,CUST-2136,Sydney,Smart Home & Gaming,Philips Hue Starter Kit,179,3,Google Pay,Standard Delivery,,537
+ELE-11333,2025-02-07 00:40:00,CUST-3064,Dubai,Audio & Wearables,Sony WH-1000XM5,399,3,Debit Card,Standard Delivery,5.0,1197
+ELE-11334,2025-02-07 01:20:00,CUST-8009,Dubai,Smart Home & Gaming,Amazon Echo Show 10,249,4,Debit Card,Express Shipping,4.0,996
+ELE-11335,2025-02-07 02:00:00,CUST-5543,Toronto,Smartphones & Tablets,Xiaomi 14 Pro,749,2,Credit Card,Same-Day Delivery,4.0,1498
+ELE-11336,2025-02-07 02:40:00,CUST-2007,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,4,Credit Card,Same-Day Delivery,4.0,1796
+ELE-11337,2025-02-07 03:20:00,CUST-6445,Paris,Audio & Wearables,Garmin Forerunner 265,449,4,PayPal,Standard Delivery,,1796
+ELE-11338,2025-02-07 04:00:00,CUST-6352,Sydney,Smartphones & Tablets,iPhone 15 Pro,999,1,Credit Card,Standard Delivery,3.0,999
+ELE-11339,2025-02-07 04:40:00,CUST-2435,Berlin,Smart Home & Gaming,Nintendo Switch OLED,349,4,Google Pay,Standard Delivery,4.0,1396
+ELE-11340,2025-02-07 05:20:00,CUST-1571,London,Smart Home & Gaming,PlayStation 5 Slim,499,3,Credit Card,Express Shipping,5.0,1497
+ELE-11341,2025-02-07 06:00:00,CUST-3382,Sydney,Smart Home & Gaming,Nintendo Switch OLED,349,3,Apple Pay,Standard Delivery,,1047
+ELE-11342,2025-02-07 06:40:00,CUST-6084,Tokyo,Audio & Wearables,Garmin Forerunner 265,449,1,Credit Card,Standard Delivery,3.0,449
+ELE-11343,2025-02-07 07:20:00,CUST-1277,Singapore,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Standard Delivery,4.0,749
+ELE-11344,2025-02-07 08:00:00,CUST-8059,London,Smartphones & Tablets,Google Pixel 8 Pro,899,1,Google Pay,Standard Delivery,4.0,899
+ELE-11345,2025-02-07 08:40:00,CUST-2887,New York,Smart Home & Gaming,Nintendo Switch OLED,349,1,Credit Card,Same-Day Delivery,1.0,349
+ELE-11346,2025-02-07 09:20:00,CUST-2265,Dubai,Smartphones & Tablets,Xiaomi 14 Pro,749,1,Credit Card,Standard Delivery,5.0,749
+ELE-11347,2025-02-07 10:00:00,CUST-8491,Tokyo,Audio & Wearables,Apple AirPods Pro 2,249,4,Credit Card,Standard Delivery,5.0,996
+ELE-11348,2025-02-07 10:40:00,CUST-2040,New York,Audio & Wearables,Bose QuietComfort Ultra,429,1,Debit Card,Standard Delivery,5.0,429
+ELE-11349,2025-02-07 11:20:00,CUST-9073,Toronto,Audio & Wearables,Sony WH-1000XM5,399,4,Credit Card,Standard Delivery,2.0,1596
